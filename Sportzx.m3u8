@@ -1,0 +1,290 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="formula10330tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 03:30 (TSN SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+
+#EXTINF:-1 tvg-id="formula10330fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 03:30 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="formula10330skysportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 03:30 (SKY SPORTS HD)
+https://katp.x8udx3kr.sbs/user-ptenisaskyf1.m3u8
+
+#EXTINF:-1 tvg-id="formula10330maineventfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 03:30 (MAIN EVENT FHD)
+https://grand-s-main.faggotsports.tv/out/v2/4e7039bb8d6e4d201e0a3575be2b803d/index.m3u8
+
+#EXTINF:-1 tvg-id="formula10330elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 03:30 (ELEVEN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD6411/index.mpd
+
+#EXTINF:-1 tvg-id="formula10330fastserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 03:30 (FAST SERVER)
+https://storage.googleapis.com/unikhsgyrbover1/mux_video_ts1/index-1.m3u8
+
+#EXTINF:-1 tvg-id="formula10330skyf1sd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 03:30 (Sky F1 SD)
+https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8
+
+#EXTINF:-1 tvg-id="formula10330skyf1de" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 03:30 (Sky F1 DE)
+https://smarthard.click/hls/07HL6dzqKCAr/index.m3u8
+
+#EXTINF:-1 tvg-id="formula10330daznessd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 03:30 (DAZN ES SD)
+https://smarthard.click/hls/RdKfpotjL5g/index.m3u8
+
+#EXTINF:-1 tvg-id="formula10330f1tvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 03:30 (F1 TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
+
+#EXTINF:-1 tvg-id="formula10330foxsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 03:30 (Fox Sports - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#EXTINF:-1 tvg-id="motogp1700tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Motogp",MotoGP 17:00 (TNT SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="motogp1700tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Motogp",MotoGP 17:00 (TNT SPORTS FHD)
+https://grand-s-v001.faggotsports.tv/out/v1/c5phuthukothlwrudro8rosas3b64ini/mix-stream.m3u8
+
+#EXTINF:-1 tvg-id="motogp1700fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Motogp",MotoGP 17:00 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="motogp1700spotvaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Motogp",MotoGP 17:00 (SPO TV - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+#EXTINF:-1 tvg-id="motogp1700skysportsde" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Motogp",MotoGP 17:00 (SKY SPORTS DE)
+https://smarthard.click/hls/w93sLKtkQf0Y/index.m3u8
+
+#EXTINF:-1 tvg-id="ufc1700tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ufc",UFC 17:00 (TNT Sports)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="ufc1700sportzxufc" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ufc",UFC 17:00 (SportzX UFC)
+https://indiasmellsverybad.xyz/live/ufc-on-espn-73-royval-vs-kape720p/index.m3u8
+
+#EXTINF:-1 tvg-id="ufc1700fastserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ufc",UFC 17:00 (FAST Server)
+https://cdn1.dtplumber.cfd/live/cdn1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ufc1700ufcaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ufc",UFC 17:00 (UFC  - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
+
+#EXTINF:-1 tvg-id="onefridayfights1301330onefightaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",ONE Friday Fights 130 13:30 (One Fight - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+
+#EXTINF:-1 tvg-id="onefridayfights1301330server2" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",ONE Friday Fights 130 13:30 (Server 2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 tvg-id="onefridayfights1301330server3" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",ONE Friday Fights 130 13:30 (Server 3)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
+
+#EXTINF:-1 tvg-id="wweraw0100sportzxhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE Raw 01:00 (SportzX HD)
+https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8
+
+#EXTINF:-1 tvg-id="wweraw0100backupsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE Raw 01:00 (Backup SD)
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
+
+#EXTINF:-1 tvg-id="wweraw0100tapsportlq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE Raw 01:00 (Tap Sport LQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+#EXTINF:-1 tvg-id="wwesmackdown0200spxwwe" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE Smackdown 02:00 (SPX - WWE)
+https://602.xn--1000-ugoa0hsb9a0hb.com/wwe.m3u8
+
+#EXTINF:-1 tvg-id="wwesmackdown0200backuphd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE Smackdown 02:00 (Backup HD)
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
+
+#EXTINF:-1 tvg-id="wwesmackdown0200backupsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE Smackdown 02:00 (Backup SD)
+https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
+
+#EXTINF:-1 tvg-id="wwesmackdown0200usatvusavpn" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE Smackdown 02:00 (USA TV (USA VPN))
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
+https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
+
+#EXTINF:-1 tvg-id="wwenxt0200backupsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE NXT 02:00 (Backup SD)
+https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
+
+#EXTINF:-1 tvg-id="wwenxt0200tapsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE NXT 02:00 (Tap Sports)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+#EXTINF:-1 tvg-id="wwe0200tsnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE 02:00 (TSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-id="wwe0200foxsportspremium" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE 02:00 (Fox Sports Premium)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1 tvg-id="wwe0200backuphd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE 02:00 (BACKUP HD)
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
+
+#EXTINF:-1 tvg-id="wwe0200backupsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE 02:00 (BACKUP SD)
+https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_SD/apache.m3u8
+
+#EXTINF:-1 tvg-id="newzealandwvssouthafricaw0245willowfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",New Zealand W vs South Africa W 02:45 (WILLOW FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fc04170e5671d37c8286afcfeb505f7:9751880fa496d361d780019bdcd91d8a
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kq9asei23n/out/v1/12e4e39869014ef19f3c30f0d598191b/cenc.mpd
+
+#EXTINF:-1 tvg-id="newzealandwvssouthafricaw0245fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",New Zealand W vs South Africa W 02:45 (Fancode FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="newzealandwvssouthafricaw0245fancodesd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",New Zealand W vs South Africa W 02:45 (FANCODE SD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="newzealandwvssouthafricaw0245solhsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",New Zealand W vs South Africa W 02:45 (Solhsports HD)
+https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
+
+#EXTINF:-1 tvg-id="newzealandwvssouthafricaw0245fancodebd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",New Zealand W vs South Africa W 02:45 (FANCODE (BD))
+https://bd-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="newzealandwvssouthafricaw0245fancodeind" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",New Zealand W vs South Africa W 02:45 (FANCODE (IND))
+https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="islvsisl1500fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1500fancodesd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE - SD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1500fancodeeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  ENG )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b59444ce03b247508715495542983582:9280ba492390d1d3feab0bbcc612ee55
+https://in-mc-flive.fancode.com/mumbai/140465_english_dash_36729_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1500fancodehin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  HIN )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9027fe61eb104568bed3776a5e37c0d1:22d9e31b9f1edabf2a4b3416882ebf9c
+https://in-mc-flive.fancode.com/mumbai/140465_hindi_dash_90690_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1500fancodemal" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  MAL )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=523d3bbfdd364bb99322e0d3960503b1:2c5fe4967cb101db8d0cd268fde3b032
+https://in-mc-flive.fancode.com/mumbai/140465_malayalam_dash_38279_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1500fancodeban" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BAN )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=515f50985ba544feb2fe33eed5224d04:4d62178b9914fad351b897f02397d593
+https://in-mc-flive.fancode.com/mumbai/140465_bengali_dash_79062_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1500fancodebd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BD )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51dd536ded0542b58539ee92359b3bf3:f3cd9187701cc280d5b1200c9dda3346
+https://bd-mc-flive.fancode.com/delhi/140465_english_dash_62717_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="newzealandvssouthafrica0715tntsports4" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",New Zealand vs South Africa 07:15 (TNT Sports 4)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="newzealandvssouthafrica0715willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",New Zealand vs South Africa 07:15 (WILLOW (Ad Free))
+https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="newzealandvssouthafrica0715willowfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",New Zealand vs South Africa 07:15 (WILLOW FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-id="charlottehornetsvsorlandomagic0000sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Charlotte Hornets vs Orlando Magic 00:00 (SD SERVER)
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
+
+#EXTINF:-1 tvg-id="washingtonwizardsvsdetroitpistons0000sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Washington Wizards vs Detroit Pistons 00:00 (SD SERVER)
+https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
+
+#EXTINF:-1 tvg-id="chicagobullsvsclevelandcavaliers0100sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Chicago Bulls vs Cleveland Cavaliers 01:00 (SD SERVER)
+https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
+
+#EXTINF:-1 tvg-id="miamiheatvslosangeleslakers0100sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Miami Heat vs Los Angeles Lakers 01:00 (SD SERVER)
+https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+
+#EXTINF:-1 tvg-id="pelicansvslosangelesclippers0100sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Pelicans vs Los Angeles Clippers 01:00 (SD SERVER)
+https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
+
+#EXTINF:-1 tvg-id="sanantoniospursvsphoenixsuns0100sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",San Antonio Spurs vs Phoenix Suns 01:00 (SD SERVER)
+https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
+
+#EXTINF:-1 tvg-id="sacramentokingsvsphiladelphia76ers0300sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Sacramento Kings vs Philadelphia 76ers 03:00 (SD SERVER)
+https://smarthard.click/hls/kl434PVmNnx/index.m3u8
+
+#EXTINF:-1 tvg-id="bostonbruinsvswinnipegjets0000premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Boston Bruins vs Winnipeg Jets 00:00 (PREMIER SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="minnesotawildvschicagoblackhawks0030premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Minnesota Wild vs Chicago Blackhawks 00:30 (PREMIER SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-id="vegasgoldenknightsvsutahmammoth0300homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Vegas Golden Knights vs Utah Mammoth 03:00 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
+
+#EXTINF:-1 tvg-id="vegasgoldenknightsvsutahmammoth0300awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Vegas Golden Knights vs Utah Mammoth 03:00 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
+
+#EXTINF:-1 tvg-id="midtjyllandvsnottinghamforest1845tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Midtjylland vs Nottingham Forest 18:45 (TNT SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="olympiquelyonvsceltavigo1845tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Olympique Lyon vs Celta Vigo 18:45 (TNT SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="aeklarnacavscrystalpalace1845tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",AEK Larnaca vs Crystal Palace 18:45 (TNT SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="astonvillavslille2100tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Aston Villa vs Lille 21:00 (TNT SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="portovsvfbstuttgart2100tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Porto vs VfB Stuttgart 21:00 (TNT SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="romavsbologna2100tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Roma vs Bologna 21:00 (TNT SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="realbetisvspanathinaikos2100tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Real Betis vs Panathinaikos 21:00 (TNT SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd

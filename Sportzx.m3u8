@@ -259,15 +259,59 @@ https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
+#EXTINF:-1 tvg-id="midtjyllandvsnottinghamforest1845vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Midtjylland vs Nottingham Forest 18:45 (VIX ESPANOL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c8fe637693461f1326dafd20aed765b:f43c9a94d24add5eb113b1ef5cfd22d3
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/etudgmhunz/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd
+
 #EXTINF:-1 tvg-id="olympiquelyonvsceltavigo1845tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Olympique Lyon vs Celta Vigo 18:45 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
+#EXTINF:-1 tvg-id="olympiquelyonvsceltavigo1845cosmotesports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Olympique Lyon vs Celta Vigo 18:45 (COSMOTE SPORTS)
+https://zalhontoklonis.b-cdn.net/channel4/index.m3u8
+
+#EXTINF:-1 tvg-id="scfreiburgvskrcgenk1845vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",SC Freiburg vs KRC Genk 18:45 (VIX ESPANOL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01262748b77d30c3012d59dafabe9371:bd59ff5f536a88ad4bc49317260acc93
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/90h2d7bimn/out/v1/5ffdefde68be4b0cba143306037bbdf3/cenc.mpd
+
+#EXTINF:-1 tvg-id="scfreiburgvskrcgenk1845sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",SC Freiburg vs KRC Genk 18:45 (SD SERVER)
+https://smarthard.click/hls/9OZfB2zaBOe9/index.m3u8
+
 #EXTINF:-1 tvg-id="aeklarnacavscrystalpalace1845tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",AEK Larnaca vs Crystal Palace 18:45 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="aeklarnacavscrystalpalace1845vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",AEK Larnaca vs Crystal Palace 18:45 (VIX ESPANOL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4f879bdb514f423e8702523636b292a:d998adde28b2fda388537be7a51071fb
+https://a160live-emt-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/4odqmemw1e/out/v1/5ebb78d6f9b844bba206fbfc8782d9da/cenc.mpd
+
+#EXTINF:-1 tvg-id="mainz05vssigmaolomouc1845sport1cz" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Mainz 05 vs Sigma Olomouc 18:45 (Sport 1 CZ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="mainz05vssigmaolomouc1845vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Mainz 05 vs Sigma Olomouc 18:45 (VIX ESPANOL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=babd7af95e13ec41508568b3ade99e82:fbfda4f74dfee42eba697a4463411396
+https://a42live-emt-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/5zt9meuwwl/out/v1/d0b914f4286b49389c38cfb99a4119d4/cenc.mpd
+
+#EXTINF:-1 tvg-id="aekathensvsnkcelje1845vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",AEK Athens vs NK Celje 18:45 (VIX ESPANOL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa6bad2ae01fe305abfe78b55fe55fb0:33fce21abd67f828787d2675ec163e49
+https://a66live-emt-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jilunqviqo/out/v1/3d2994f3d9c64fe5bb68338a540af489/cenc.mpd
+
+#EXTINF:-1 tvg-id="aekathensvsnkcelje1845cosmotesports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",AEK Athens vs NK Celje 18:45 (COSMOTE SPORTS)
+https://smarthard.click/hls/qD16SLr8Udh/index.m3u8
+
+#EXTINF:-1 tvg-id="rakwvsfiorentina1845vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Raków vs Fiorentina 18:45 (VIX ESPANOL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=107fa35961bfcdef91d6112dc993daf4:e7df9e2ea210431d7db62a3e9ad4ecce
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/cnecdv6y4w/out/v1/71ab4d889392445b9e0aae03d5cb6c77/cenc.mpd
 
 #EXTINF:-1 tvg-id="astonvillavslille2100tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Aston Villa vs Lille 21:00 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

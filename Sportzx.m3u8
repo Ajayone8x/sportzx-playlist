@@ -238,11 +238,6 @@ https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 #EXTINF:-1 tvg-id="sacramentokingsvsphiladelphia76ers0300sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Sacramento Kings vs Philadelphia 76ers 03:00 (SD SERVER)
 https://smarthard.click/hls/kl434PVmNnx/index.m3u8
 
-#EXTINF:-1 tvg-id="bostonbruinsvswinnipegjets0000premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Boston Bruins vs Winnipeg Jets 00:00 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
 #EXTINF:-1 tvg-id="minnesotawildvschicagoblackhawks0030premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Minnesota Wild vs Chicago Blackhawks 00:30 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
@@ -326,18 +321,3 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/DAI10ME-V3/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed564d59c44343c5c783b34874ae8c23:c6a566e11f3a1391785a35401aebb44a
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/4sodgmlmuj/out/v1/195741b795ea458f9b49600833942272/cenc.mpd
-
-#EXTINF:-1 tvg-id="strasbourgvshnkrijeka2100vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Strasbourg vs HNK Rijeka 21:00 (VIX ESPANOL - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abea9324216cb9fd4ab0e41f76f023cd:9acde038c1dd15e43e8512c9f0ee5671
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u025pwhcbp/out/v1/c28271f554ee48a7b5b8ad7a48110b5f/cenc.mpd
-
-#EXTINF:-1 tvg-id="rayovallecanovssamsunspor2100vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Rayo Vallecano vs Samsunspor 21:00 (VIX ESPANOL - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=363841e49771721136dd6ef0d0e9224e:9b12e7787aba834ee3af82d33bb9844f
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ogywfimdeg/out/v1/62a4158510e5487ca57721d34866620e/cenc.mpd
-
-#EXTINF:-1 tvg-id="shakhtardonetskvslechpozna2100vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Shakhtar Donetsk vs Lech Poznań 21:00 (VIX ESPANOL - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=29ed96707a957e2a1a8d03f1da6bb9c9:7ddb9118446445727a9c667943fba2c1
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1zcrk4lovv/out/v1/6b9374bf403f40d49fb6565c14260254/cenc.mpd

@@ -278,10 +278,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 
-#EXTINF:-1 tvg-id="chapecoensevscorinthians0130vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Chapecoense vs Corinthians 01:30 (VIX ESPANOL - AQ)
+#EXTINF:-1 tvg-id="chapecoensevscorinthians0130amazonprimefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Chapecoense vs Corinthians 01:30 (AMAZON PRIME FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa6bad2ae01fe305abfe78b55fe55fb0:33fce21abd67f828787d2675ec163e49
-https://a66live-emt-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jilunqviqo/out/v1/3d2994f3d9c64fe5bb68338a540af489/cenc.mpd
-
-#EXTINF:-1 tvg-id="chapecoensevscorinthians0130cosmotesports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Chapecoense vs Corinthians 01:30 (COSMOTE SPORTS)
-https://smarthard.click/hls/qD16SLr8Udh/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=7daa94378ef6b4da0dde4e5e40a83360:cf780489726c04879889b97270cbf31a
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/uq2koin2rk/out/v1/178bde30fb5a49209e3d41f17da49bfe/cenc.mpd

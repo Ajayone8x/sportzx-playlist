@@ -169,41 +169,6 @@ https://bd-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-d
 #EXTINF:-1 tvg-id="newzealandwvssouthafricaw0245fancodeind" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",New Zealand W vs South Africa W 02:45 (FANCODE (IND))
 https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="islvsisl1500fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodesd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE - SD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodeeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  ENG )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a278baaff374e5bb6476ec873fad3fa:6c510bd782b5113de2f97be86430970e
-https://in-mc-flive.fancode.com/mumbai/140468_english_dash_43999_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodehin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  HIN )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a78fa0521c594be2962f8faf22edd6ca:4a1f47f5fcbd8f0d37033a87d521bc90
-https://in-mc-flive.fancode.com/mumbai/140468_hindi_dash_81179_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodemal" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  MAL )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b816165bedd346f1acedae9da2c49c73:9fd19b65f1946541e4bb9d9cacd550e5
-https://in-mc-flive.fancode.com/mumbai/140468_malayalam_dash_6328_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodeban" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BAN )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60a8ce0b6a264ac984071c4151897436:6c7ffe349fe995e58488ad7881f19401
-https://in-mc-flive.fancode.com/mumbai/140468_bengali_dash_1255_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodebd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BD )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fae446c21c1460da1e8fdddb812d470:c5074c3a9fa8dc31575a7c03aeb36ea8
-https://bd-mc-flive.fancode.com/delhi/140468_english_dash_47558_1drmta-di_h264/index.mpd
-
 #EXTINF:-1 tvg-id="newzealandvssouthafrica0715tntsports4" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",New Zealand vs South Africa 07:15 (TNT Sports 4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
@@ -250,10 +215,10 @@ https://smarthard.click/hls/sabrouchespn1arg/index.m3u8
 #EXTINF:-1 tvg-id="fulhamvsburnley1600nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Burnley 16:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
-#EXTINF:-1 tvg-id="fulhamvsburnley1600novasportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Burnley 16:00 (NOVA SPORTS PL)
+#EXTINF:-1 tvg-id="fulhamvsburnley1600nbcuniverso" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Burnley 16:00 (NBC UNIVERSO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6219/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
 #EXTINF:-1 tvg-id="evertonvschelsea1830nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Everton vs Chelsea 18:30 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
@@ -614,6 +579,3 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 
 #EXTINF:-1 tvg-id="derbycountyvsbirminghamcity1330sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Derby County vs Birmingham City 13:30 (SportzX Live)
 http://195.178.110.37/hls/IFFFQQQQQ.m3u8
-
-#EXTINF:-1 tvg-id="lutontownvsstockportcounty1330sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="League one 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Luton Town vs Stockport County 13:30 (SportzX Live)
-http://195.178.110.37/hls/IFFFQQQ.m3u8

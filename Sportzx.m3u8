@@ -464,33 +464,26 @@ https://bbb.exoadash.com/TVD4070/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD6411/index.mpd
 
+#EXTINF:-1 tvg-id="borussiadortmundvshamburger1830elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Hamburger 18:30 (ELEVEN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=586dddf468ae3dcd8b4df34cbd17ab37:b50bfd59dc72a57930a38776bd9c3cc4
+https://tvo-28-1.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_2/D11/Manifest.mpd
+
+#EXTINF:-1 tvg-id="borussiadortmundvshamburger1830skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Hamburger 18:30 (SKY BUNDESLIGA SD)
+https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
+
 #EXTINF:-1 tvg-id="bayernmnchenvsunionberlin1530elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern München vs Union Berlin 15:30 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6411/index.mpd
-
-#EXTINF:-1 tvg-id="bayernmnchenvsunionberlin1530novasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern München vs Union Berlin 15:30 (NOVA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2709/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=2e94219c1fc838eeaa36ece916d78211:fc85a15c05cf2429338896a8d6df9da8
+https://tvo-28-4.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/D11/Manifest.mpd
 
 #EXTINF:-1 tvg-id="bayernmnchenvsunionberlin1530skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern München vs Union Berlin 15:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 
-#EXTINF:-1 tvg-id="heidenheimvsbayerleverkusen1530elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Bayer Leverkusen 15:30 (ELEVEN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6411/index.mpd
-
-#EXTINF:-1 tvg-id="heidenheimvsbayerleverkusen1530novasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Bayer Leverkusen 15:30 (NOVA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2700/index.mpd
-
 #EXTINF:-1 tvg-id="heidenheimvsbayerleverkusen1530skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Bayer Leverkusen 15:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/9gSZoyFska/index.m3u8
 
-#EXTINF:-1 tvg-id="rclensvsangers2045elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",RC Lens vs Angers 20:45 (ELEVEN SPORTS)
+#EXTINF:-1 tvg-id="klnvsborussiamgladbach1530elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Köln vs Borussia M'gladbach 15:30 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc09a6ad420c3d24bee5f097045f92a1:4e531d53600fa473b0bd2e8f97432280
 https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_4/D11/Manifest.mpd

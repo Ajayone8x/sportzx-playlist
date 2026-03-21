@@ -224,21 +224,16 @@ https://olegivoniv.s3.us-east-1.amazonaws.com/nbcsn.m3u8
 #EXTINF:-1 tvg-id="evertonvschelsea1830skysportsnz" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Everton vs Chelsea 18:30 (SKY SPORTS NZ)
 https://storage.googleapis.com/uytytuhggerd1/mux_video_ts1/index-1.m3u8
 
+#EXTINF:-1 tvg-id="leedsunitedvsbrentford2100fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds United vs Brentford 21:00 (FUBO SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
 #EXTINF:-1 tvg-id="leedsunitedvsbrentford2100nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds United vs Brentford 21:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
-#EXTINF:-1 tvg-id="leedsunitedvsbrentford2100novasportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds United vs Brentford 21:00 (NOVA SPORTS PL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6219/index.mpd
-
-#EXTINF:-1 tvg-id="osasunavsgironafc1830espndeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Osasuna vs Girona FC 18:30 (ESPN DEPORTES)
-https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
-
-#EXTINF:-1 tvg-id="levanteudvsrealoviedo1830laligatvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Levante UD vs Real Oviedo 18:30 (Laliga TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTINF:-1 tvg-id="leedsunitedvsbrentford2100usatvaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds United vs Brentford 21:00 (USA TV - AQ)
+https://olegivoniv.s3.us-east-1.amazonaws.com/brentford.m3u8
 
 #EXTINF:-1 tvg-id="sevillavsvalencia2100laligatvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Sevilla vs Valencia 21:00 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -255,33 +250,8 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-id="sevillavsvalencia2100novasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Sevilla vs Valencia 21:00 (NOVA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6223/index.mpd
-
 #EXTINF:-1 tvg-id="sevillavsvalencia2100espndeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Sevilla vs Valencia 21:00 (ESPN DEPORTES)
 https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
-
-#EXTINF:-1 tvg-id="parmavscremonese1500beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Parma vs Cremonese 15:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="parmavscremonese1500foxdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Parma vs Cremonese 15:00 (FOX DEPORTES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 tvg-id="milanvstorino1800beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Milan vs Torino 18:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="milanvstorino1800foxdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Milan vs Torino 18:00 (FOX DEPORTES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
 #EXTINF:-1 tvg-id="juventusvssassuolo2045tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Juventus vs Sassuolo 20:45 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -297,14 +267,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-
-#EXTINF:-1 tvg-id="borussiadortmundvshamburger1830elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Hamburger 18:30 (ELEVEN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=586dddf468ae3dcd8b4df34cbd17ab37:b50bfd59dc72a57930a38776bd9c3cc4
-https://tvo-28-1.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_2/D11/Manifest.mpd
-
-#EXTINF:-1 tvg-id="borussiadortmundvshamburger1830skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Hamburger 18:30 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 
 #EXTINF:-1 tvg-id="nicevsparissaintgermain2100elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Nice vs Paris Saint-Germain 21:00 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -336,11 +298,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-id="cdizvsmlaga1830laligahypermotiones" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 2",Cádiz vs Málaga 18:30 (Laliga Hypermotion ES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 #EXTINF:-1 tvg-id="deportivovsrealzaragoza2100laligahypermotiones" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 2",Deportivo vs Real Zaragoza 21:00 (Laliga Hypermotion ES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

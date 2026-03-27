@@ -44,7 +44,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/
 #EXTINF:-1 tvg-id="motogp1645tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Motogp",MotoGP 16:45 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-id="motogp1645fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Motogp",MotoGP 16:45 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -175,6 +175,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cd10957d82c03fa88392235b92a61c01:de373dc2cce3de052ecdd77cd45b4ef0
 https://d7pd9oqdl4d44.cloudfront.net/2026_03_25_15_17_05_19bfc46a-cbda-4ba9-b2db-c542dd15c2cf/PROD_CMAF_CENC/index-dash.mpd
+
+#EXTINF:-1 tvg-id="russiavsnicaragua1730sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Russia vs Nicaragua 17:30 (SportzX Live)
+http://195.178.110.2/hls/GUUUQQ.m3u8
 
 #EXTINF:-1 tvg-id="algeriavsguatemala2030foxdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Algeria vs Guatemala 20:30 (FOX DEPORTES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

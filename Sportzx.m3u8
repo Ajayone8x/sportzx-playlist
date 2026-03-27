@@ -184,21 +184,23 @@ https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
 #EXTINF:-1 tvg-id="torontoraptorsvspelicans0130sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Toronto Raptors vs Pelicans 01:30 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 
-#EXTINF:-1 tvg-id="boliviavssuriname0400foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Football",Bolivia vs Suriname 04:00 (FOX SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+#EXTINF:-1 tvg-id="warriorsvswashingtonwizards0300sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Warriors vs Washington Wizards 03:00 (SD SERVER)
+https://smarthard.click/hls/kl434PVmNnx/index.m3u8
 
-#EXTINF:-1 tvg-id="boliviavssuriname0400fifafhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Football",Bolivia vs Suriname 04:00 (FIFA  FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd10957d82c03fa88392235b92a61c01:de373dc2cce3de052ecdd77cd45b4ef0
-https://d7pd9oqdl4d44.cloudfront.net/2026_03_25_15_17_05_19bfc46a-cbda-4ba9-b2db-c542dd15c2cf/PROD_CMAF_CENC/index-dash.mpd
+#EXTINF:-1 tvg-id="trailblazersvsdallasmavericks0300sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Trail Blazers vs Dallas Mavericks 03:00 (SD SERVER)
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
+
+#EXTINF:-1 tvg-id="lakersvsbrooklynnets0330sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Lakers vs Brooklyn Nets 03:30 (SD SERVER)
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
 #EXTINF:-1 tvg-id="russiavsnicaragua1730sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Russia vs Nicaragua 17:30 (SportzX Live)
 http://195.178.110.2/hls/GUUUQQ.m3u8
 
 #EXTINF:-1 tvg-id="southafricavspanama1800sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",South Africa vs Panama 18:00 (SD SERVER)
 http://195.178.110.27/hls/UFFFQQ.m3u8
+
+#EXTINF:-1 tvg-id="saudiarabiavsegypt1830sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Saudi Arabia vs Egypt 18:30 (SportzX Live)
+http://195.178.110.25/hls/vavavaQ.m3u8
 
 #EXTINF:-1 tvg-id="algeriavsguatemala2030foxdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Algeria vs Guatemala 20:30 (FOX DEPORTES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -219,3 +221,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="jordanvscostarica1830sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Jordan vs Costa Rica 18:30 (SD SERVER)
+http://195.178.110.37/hls/vavava.m3u8

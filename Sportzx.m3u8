@@ -166,6 +166,24 @@ https://bd-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-d
 #EXTINF:-1 tvg-id="psl011500fancodeind" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Psl",PSL 01 15:00 (FANCODE (IND))
 https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-id="indianapacersvsclippers0000sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Indiana Pacers vs Clippers 00:00 (SD SERVER)
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
+
+#EXTINF:-1 tvg-id="bostoncelticsvsatlantahawks0030sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Boston Celtics vs Atlanta Hawks 00:30 (SD SERVER)
+https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
+
+#EXTINF:-1 tvg-id="clevelandcavaliersvsmiamiheat0030sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cleveland Cavaliers vs Miami Heat 00:30 (SD SERVER)
+https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
+
+#EXTINF:-1 tvg-id="memphisgrizzliesvshoustonrockets0100sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Memphis Grizzlies vs Houston Rockets 01:00 (SD SERVER)
+https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+
+#EXTINF:-1 tvg-id="thundervschicagobulls0100sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Thunder vs Chicago Bulls 01:00 (SD SERVER)
+https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
+
+#EXTINF:-1 tvg-id="torontoraptorsvspelicans0130sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Toronto Raptors vs Pelicans 01:30 (SD SERVER)
+https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
+
 #EXTINF:-1 tvg-id="boliviavssuriname0400foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Football",Bolivia vs Suriname 04:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
@@ -178,6 +196,9 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_03_25_15_17_05_19bfc46a-cbda-4ba9-b2db
 
 #EXTINF:-1 tvg-id="russiavsnicaragua1730sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Russia vs Nicaragua 17:30 (SportzX Live)
 http://195.178.110.2/hls/GUUUQQ.m3u8
+
+#EXTINF:-1 tvg-id="southafricavspanama1800sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",South Africa vs Panama 18:00 (SD SERVER)
+http://195.178.110.27/hls/UFFFQQ.m3u8
 
 #EXTINF:-1 tvg-id="algeriavsguatemala2030foxdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Algeria vs Guatemala 20:30 (FOX DEPORTES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

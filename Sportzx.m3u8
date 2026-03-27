@@ -254,6 +254,9 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/Spain_vs2703/ENG/master.
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
+#EXTINF:-1 tvg-id="argentinavsmauritania0015sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Argentina vs Mauritania 00:15 (SportzX Live)
+http://195.178.110.37/hls/KTTTQQQQ.m3u8
+
 #EXTINF:-1 tvg-id="argentinavsmauritania0015tycsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Argentina vs Mauritania 00:15 (TYC SPORTS)
 https://smarthard.click/hls/sabrouchtycarg/index.m3u8
 

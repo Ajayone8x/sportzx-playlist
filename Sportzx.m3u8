@@ -221,6 +221,9 @@ https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
 #EXTINF:-1 tvg-id="lakersvsclevelandcavaliers0330sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Lakers vs Cleveland Cavaliers 03:30 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 
+#EXTINF:-1 tvg-id="singaporevsbangladesh1300tsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc asian cup qual.",Singapore vs Bangladesh 13:00 (TSports HD)
+http://103.175.242.10:8080/tsports1/index.m3u8
+
 #EXTINF:-1 tvg-id="singaporevsbangladesh1300sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc asian cup qual.",Singapore vs Bangladesh 13:00 (SD SERVER)
 http://195.178.110.2/hls/KTTTZZZZZ.m3u8
 

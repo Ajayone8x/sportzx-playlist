@@ -227,6 +227,14 @@ http://103.175.242.10:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-id="singaporevsbangladesh1300sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc asian cup qual.",Singapore vs Bangladesh 13:00 (SD SERVER)
 http://195.178.110.2/hls/KTTTZZZZZ.m3u8
 
+#EXTINF:-1 tvg-id="indiavshongkong1430fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc asian cup qual.",India vs Hong Kong 14:30 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="indiavshongkong1430sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc asian cup qual.",India vs Hong Kong 14:30 (SD SERVER)
+http://195.178.110.2/hls/VAVAVAZZ.m3u8
+
 #EXTINF:-1 tvg-id="pakistanvsmyanmar1000sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc asian cup qual.",Pakistan vs Myanmar 10:00 (SD SERVER)
 http://195.178.110.2/hls/KTTTZZZZZ.m3u8
 

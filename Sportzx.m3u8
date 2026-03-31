@@ -308,6 +308,12 @@ https://fifa.global.transmit.live/dash/68c40af04301491a9f4cfb58/2026_03_24_14_36
 #EXTINF:-1 tvg-id="haitivsiceland1730hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Haiti vs Iceland 17:30 (HD SERVER)
 https://live.alilicloud.com/live/a446134301aaea77f42c59a13d3949c4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="jordanvsnigeria1830hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Jordan vs Nigeria 18:30 (HD SERVER)
+https://live.alilicloud.com/live/984214348ec7d453f71ab555ad2ba038/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jordanvsnigeria1830sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Jordan vs Nigeria 18:30 (SD SERVER)
+http://93.123.109.249/hls/QFFFQQQ.m3u8
+
 #EXTINF:-1 tvg-id="russiavsmali1800sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Russia vs Mali 18:00 (SD SERVER)
 http://93.123.109.249/hls/QFFFQQ.m3u8
 

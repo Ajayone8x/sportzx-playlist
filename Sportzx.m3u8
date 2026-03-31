@@ -330,11 +330,6 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9ys
 #EXTINF:-1 tvg-id="serbiavssaudiarabia1700hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Serbia vs Saudi Arabia 17:00 (HD SERVER)
 https://live.alilicloud.com/live/399563d70ca9f2620407966ec73c70ef/playlist.m3u8
 
-#EXTINF:-1 tvg-id="australiavscuraao1010fifafhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Football",Australia vs Curaçao 10:10 (FIFA  FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41152b485f6d37848083c39a9380ff84:cdf85d088b1297a882822f0ba86c655b
-https://fifa.global.transmit.live/dash/68c40af04301491a9f4cfb58/2026_03_24_14_36_05_aac27405-f709-4313-8c8c-897d4931828c/PROD_CMAF_CENC/index-dash.mpd
-
 #EXTINF:-1 tvg-id="haitivsiceland1730hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Haiti vs Iceland 17:30 (HD SERVER)
 https://live.alilicloud.com/live/a446134301aaea77f42c59a13d3949c4/playlist.m3u8
 
@@ -347,31 +342,10 @@ http://93.123.109.249/hls/QFFFQQQ.m3u8
 #EXTINF:-1 tvg-id="russiavsmali1800sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Russia vs Mali 18:00 (SD SERVER)
 http://93.123.109.249/hls/QFFFQQ.m3u8
 
-#EXTINF:-1 tvg-id="moroccovsparaguay1900arryadiatv" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Morocco vs Paraguay 19:00 (Arryadia TV)
-https://a1.kora-plus.dad/watch/riadia.m3u8
-
-#EXTINF:-1 tvg-id="moroccovsparaguay1900sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Morocco vs Paraguay 19:00 (SD SERVER)
-http://93.123.109.249/hls/QFFFQQQQ.m3u8
-
 #EXTINF:-1 tvg-id="peruvshonduras1900foxdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Peru vs Honduras 19:00 (FOX DEPORTES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 tvg-id="englandvsjapan1945sportvbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",England vs Japan 19:45 (SporTV BR)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="englandvsjapan1945vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",England vs Japan 19:45 (VIX ESPANOL - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f877d00866ead4b6c76e604f270b1239:d032d835baa0545949c0b905665a43a4
-https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9ysvfx2fdg/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd
-
-#EXTINF:-1 tvg-id="netherlandsvsecuador1945vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Netherlands vs Ecuador 19:45 (VIX ESPANOL - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e9d8c2662ee4b1129d175e4967fdb38:46de2c1ed5dc9974cf5b1abedc4e0a4b
-https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vgxxqz7byf/out/v1/a72160db73194e07874d91db0cc2c746/cenc.mpd
 
 #EXTINF:-1 tvg-id="walesvsnorthernireland1945vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Wales vs Northern Ireland 19:45 (VIX ESPANOL - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

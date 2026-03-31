@@ -287,6 +287,11 @@ http://195.178.110.2/hls/PPPZQQ.m3u8
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
+#EXTINF:-1 tvg-id="norwayvsswitzerland1700vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Norway vs Switzerland 17:00 (VIX ESPANOL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24454280c09406314a72639c4e616c39:900f67067efc3e3597098981afb21a8f
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/xrk3badcas/out/v1/ab548105d55047609d408a326c23ec93/cenc.mpd
+
 #EXTINF:-1 tvg-id="serbiavssaudiarabia1700vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Serbia vs Saudi Arabia 17:00 (VIX ESPANOL - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f877d00866ead4b6c76e604f270b1239:d032d835baa0545949c0b905665a43a4
@@ -302,6 +307,9 @@ https://fifa.global.transmit.live/dash/68c40af04301491a9f4cfb58/2026_03_24_14_36
 
 #EXTINF:-1 tvg-id="haitivsiceland1730hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Haiti vs Iceland 17:30 (HD SERVER)
 https://live.alilicloud.com/live/a446134301aaea77f42c59a13d3949c4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="russiavsmali1800sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Russia vs Mali 18:00 (SD SERVER)
+http://93.123.109.249/hls/QFFFQQ.m3u8
 
 #EXTINF:-1 tvg-id="peruvshonduras1900foxdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Peru vs Honduras 19:00 (FOX DEPORTES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -327,3 +335,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="hungaryvsgreece1800vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Hungary vs Greece 18:00 (VIX ESPANOL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b6a50c5d0fa811db6eeacf5d2974bd3:7e8d91174fe61d56127dbd484ad0e5a5
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/chqjroxchb/out/v1/a9636c6c199b48608d18c61987bceebd/cenc.mpd
+
+#EXTINF:-1 tvg-id="hungaryvsgreece1800sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Hungary vs Greece 18:00 (SD SERVER)
+http://93.123.109.249/hls/QFFFQ.m3u8

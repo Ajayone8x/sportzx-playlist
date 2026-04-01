@@ -230,27 +230,6 @@ https://smarthard.click/hls/kl434PVmNnx/index.m3u8
 #EXTINF:-1 tvg-id="warriorsvssanantoniospurs0300sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Warriors vs San Antonio Spurs 03:00 (SD SERVER)
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
-#EXTINF:-1 tvg-id="iraqvsbolivia0400fifafhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="World cup qual.",Iraq vs Bolivia 04:00 (FIFA  FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7530986a54737b89771a119bdeeb486:ad5277ebef7282a4bd2619c5fb3622e4
-https://d7pd9oqdl4d44.cloudfront.net/2026_03_30_07_54_12_be6b11d7-6a86-40df-a9eb-d2f9271c2a1d/PROD_CMAF_CENC/index-dash.mpd
-
-#EXTINF:-1 tvg-id="iraqvsbolivia0400foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="World cup qual.",Iraq vs Bolivia 04:00 (FOX SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-
-#EXTINF:-1 tvg-id="iraqvsbolivia0400sportvbraq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="World cup qual.",Iraq vs Bolivia 04:00 (SporTV BR - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-
-#EXTINF:-1 tvg-id="iraqvsbolivia0400beinarabicfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="World cup qual.",Iraq vs Bolivia 04:00 (beIN ARABIC FHD)
-http://xmrcars.org:8080/bn14k/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="iraqvsbolivia0400foxsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="World cup qual.",Iraq vs Bolivia 04:00 (FOX SPORTS HD)
-https://a1.kora-plus.dad/watch/fox1.m3u8
-
 #EXTINF:-1 tvg-id="internacionalvssopaulo2330premiererbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Internacional vs São Paulo 23:30 (PREMIERER BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
@@ -300,3 +279,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="thailandu20vsbangladeshu201400sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Football",Thailand U20 vs Bangladesh U20 14:00 (SD SERVER)
+http://195.178.110.2/hls/JBBBQQQQ.m3u8

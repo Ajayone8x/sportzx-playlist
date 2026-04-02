@@ -307,6 +307,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
+#EXTINF:-1 tvg-id="royalsvsminnesotatwins1910mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Royals vs Minnesota Twins 19:10 (MLB LIVE - AQ)
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/braves.m3u8
+
 #EXTINF:-1 tvg-id="darts1915mainevent" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Darts",DARTS 19:15 (MAIN EVENT)
 https://daffodil.simplyataide.boutique/main.m3u8
 

@@ -193,45 +193,35 @@ https://bd-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-d
 #EXTINF:-1 tvg-id="psl011500fancodeind" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Psl",PSL 01 15:00 (FANCODE (IND))
 https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-id="islvsisl1500fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
 #EXTINF:-1 tvg-id="islvsisl1500fancodeeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  ENG )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=650476241412483fab01c00d14b0bc5f:269b321843f4d7eab4045efc72b5547e
-https://in-mc-flive.fancode.com/mumbai/140471_english_dash_48239_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=8c2671e605814910ae0089dc3a760453:b010a6e86f3e710ece7e2eaf299128d5
+https://in-mc-flive.fancode.com/mumbai/140473_english_dash_16599_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1500fancodehin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  HIN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9f9ff45969744efae3871ee0462d6c7:7cfd50382249cd229b99237f2a433f0a
-https://in-mc-flive.fancode.com/mumbai/140471_hindi_dash_38780_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=c8bb56bf0c1340ed89453cdbb0f614a2:5a8aeeee6bae662aa6c935f44de7dcd7
+https://in-mc-flive.fancode.com/mumbai/140473_hindi_dash_17875_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1500fancodemal" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  MAL )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a9431d57310448dc849cb60c905c82c4:7ad20eeda501ffe6d27f6040a3e1625e
-https://in-mc-flive.fancode.com/mumbai/140471_malayalam_dash_58315_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=021009d964764be3bb62bcba18ded5f3:01b29fe614be5c67f499c3838f821d71
+https://in-mc-flive.fancode.com/mumbai/140473_malayalam_dash_66876_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1500fancodeban" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BAN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49d7897b91e940b3a7470a13c90fc5fd:dcfa7dcfac86b46d56b1792b133ccd67
-https://in-mc-flive.fancode.com/mumbai/140471_bengali_dash_82998_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodetam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  TAM )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac218ff41bb44bc58a3083bebab216e1:dd2daf66c01b01b2823a014bcadeae99
-https://in-mc-flive.fancode.com/mumbai/140471_tamil_dash_89312_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=b360485b61c94a81a38b18e31e281100:55523ee2d816cade3f168e8f944dff9d
+https://in-mc-flive.fancode.com/mumbai/140473_bengali_dash_23503_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1500fancodebd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BD )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ca31de9dc504028934bf90511d4bb7c:ddd51dd37459c2954be0abb7d6d95911
-https://bd-mc-flive.fancode.com/delhi/140471_english_dash_49424_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodesd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE - SD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=cc12b95883ae4583945dbd146ed4f055:4d9152ef14d38075064d02f7d899452c
+https://bd-mc-flive.fancode.com/delhi/140473_english_dash_65243_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="newzealandwvssouthafricaw2300tntsports4" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",New Zealand W vs South Africa W 23:00 (TNT Sports 4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

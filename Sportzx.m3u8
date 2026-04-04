@@ -249,6 +249,11 @@ https://darmasaki888.s3.us-east-1.amazonaws.com/redsox.m3u8
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-id="manchestercityvsliverpool1245novasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Manchester City vs Liverpool 12:45 (NOVA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+
 #EXTINF:-1 tvg-id="manchestercityvsliverpool1245espndeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Manchester City vs Liverpool 12:45 (ESPN DEPORTES)
 https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
 
@@ -382,6 +387,15 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
+#EXTINF:-1 tvg-id="freiburgvsbayernmnchen1430skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Freiburg vs Bayern München 14:30 (Sky Bundesliga SD)
+https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
+
+#EXTINF:-1 tvg-id="bayerleverkusenvswolfsburg1430skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayer Leverkusen vs Wolfsburg 14:30 (Sky Bundesliga SD)
+https://smarthard.click/hls/9gSZoyFska/index.m3u8
+
+#EXTINF:-1 tvg-id="stuttgartvsborussiadortmund1730skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Stuttgart vs Borussia Dortmund 17:30 (Sky Bundesliga SD)
+https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
+
 #EXTINF:-1 tvg-id="psgvstoulouse1945sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",PSG vs Toulouse 19:45 (SD SERVER)
 https://a1.kora-plus.dad/watch/bus.m3u8
 
@@ -395,11 +409,46 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-id="angelsvsseattlemariners0238mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Angels vs Seattle Mariners 02:38 (MLB LIVE - AQ)
-https://darmasaki888.s3.us-east-1.amazonaws.com/tigers.m3u8
+#EXTINF:-1 tvg-id="afcajaxvsfctwente2000sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",AFC Ajax vs FC Twente 20:00 (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-id="athleticsvshoustonastros0240mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Athletics vs Houston Astros 02:40 (MLB LIVE - AQ)
-https://darmasaki888.s3.us-east-1.amazonaws.com/yankees.m3u8
+#EXTINF:-1 tvg-id="afcajaxvsfctwente2000espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",AFC Ajax vs FC Twente 20:00 (ESPN NL)
+https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8
 
-#EXTINF:-1 tvg-id="diamondbacksvsatlantabraves0245mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Diamondbacks vs Atlanta Braves 02:45 (MLB LIVE - AQ)
-https://darmasaki888.s3.us-east-1.amazonaws.com/dodgers.m3u8
+#EXTINF:-1 tvg-id="excelsiorvsnecnijmegen2000espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",Excelsior vs NEC Nijmegen 20:00 (ESPN NL)
+https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
+
+#EXTINF:-1 tvg-id="kasmpaavskayserispor1230beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Kasımpaşa vs Kayserispor 12:30 (beIN SPORTS SD)
+https://smarthard.click/hls/SoaJ1GdNv8qL/index.m3u8
+
+#EXTINF:-1 tvg-id="genlerbirliivsgztepe1230beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Gençlerbirliği vs Göztepe 12:30 (beIN SPORTS SD)
+https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
+
+#EXTINF:-1 tvg-id="trabzonsporvsgalatasaray1800beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Trabzonspor vs Galatasaray 18:00 (beIN SPORTS SD)
+https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
+
+#EXTINF:-1 tvg-id="gaziantepvsalanyaspor1500beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Gaziantep vs Alanyaspor 15:00 (beIN SPORTS SD)
+https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
+
+#EXTINF:-1 tvg-id="kaiserslauternvsfortunadsseldorf1200skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Kaiserslautern vs Fortuna Düsseldorf 12:00 (Sky Bundesliga)
+https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
+
+#EXTINF:-1 tvg-id="magdeburgvsbochum1200skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Magdeburg vs Bochum 12:00 (Sky Bundesliga)
+https://smarthard.click/hls/6v8yVbveVz4/index.m3u8
+
+#EXTINF:-1 tvg-id="arminiabielefeldvsdarmstadt1200skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Arminia Bielefeld vs Darmstadt 12:00 (Sky Bundesliga)
+https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
+
+#EXTINF:-1 tvg-id="hamburgervsaugsburg1430skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Hamburger vs Augsburg 14:30 (Sky Bundesliga)
+https://smarthard.click/hls/6v8yVbveVz4/index.m3u8
+
+#EXTINF:-1 tvg-id="borussiamgladbachvsheidenheim1430skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Borussia M'gladbach vs Heidenheim 14:30 (Sky Bundesliga)
+https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
+
+#EXTINF:-1 tvg-id="werderbremenvsrbleipzig1430skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Werder Bremen vs RB Leipzig 14:30 (Sky Bundesliga)
+https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
+
+#EXTINF:-1 tvg-id="hoffenheimvsmainz051430skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Hoffenheim vs Mainz 05 14:30 (Sky Bundesliga)
+https://smarthard.click/hls/BAbvNltVM7Xc/index.m3u8

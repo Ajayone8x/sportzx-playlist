@@ -236,36 +236,6 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="houstonrocketsvsutahjazz0100homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Houston Rockets vs Utah Jazz 01:00 (HOME CAM.)
-https://pro.packcast.top/newz/newz/160.m3u8
-
-#EXTINF:-1 tvg-id="houstonrocketsvsutahjazz0100awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Houston Rockets vs Utah Jazz 01:00 (AWAY CAM.)
-https://pro.packcast.top/newz/newz/148.m3u8
-
-#EXTINF:-1 tvg-id="memphisgrizzliesvsraptors0100homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Memphis Grizzlies vs Raptors 01:00 (HOME CAM.)
-https://pro.packcast.top/newz/newz/144.m3u8
-
-#EXTINF:-1 tvg-id="memphisgrizzliesvsraptors0100spxcam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Memphis Grizzlies vs Raptors 01:00 (SPX CAM.)
-https://pro.packcast.top/newz/newz/159.m3u8
-
-#EXTINF:-1 tvg-id="milwaukeebucksvsceltics0100homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Milwaukee Bucks vs Celtics 01:00 (HOME CAM.)
-https://pro.packcast.top/newz/newz/139.m3u8
-
-#EXTINF:-1 tvg-id="milwaukeebucksvsceltics0100awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Milwaukee Bucks vs Celtics 01:00 (AWAY CAM.)
-https://pro.packcast.top/newz/newz/142.m3u8
-
-#EXTINF:-1 tvg-id="dallasmavericksvsorlandomagic0130homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Dallas Mavericks vs Orlando Magic 01:30 (HOME CAM.)
-https://pro.packcast.top/newz/newz/153.m3u8
-
-#EXTINF:-1 tvg-id="dallasmavericksvsorlandomagic0130awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Dallas Mavericks vs Orlando Magic 01:30 (AWAY CAM.)
-https://pro.packcast.top/newz/newz/152.m3u8
-
-#EXTINF:-1 tvg-id="sacramentokingsvspelicans0300homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Sacramento Kings vs Pelicans 03:00 (HOME CAM.)
-https://pro.packcast.top/newz/newz/149.m3u8
-
-#EXTINF:-1 tvg-id="sacramentokingsvspelicans0300awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Sacramento Kings vs Pelicans 03:00 (AWAY CAM.)
-https://pro.packcast.top/newz/newz/157.m3u8
-
 #EXTINF:-1 tvg-id="alhilalvsaltaawoun1900foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Hilal vs Al-Taawoun 19:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae

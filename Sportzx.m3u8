@@ -421,6 +421,11 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
+#EXTINF:-1 tvg-id="freiburgvsbayernmnchen1430sportvbraq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Freiburg vs Bayern München 14:30 (SporTV BR - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
 #EXTINF:-1 tvg-id="freiburgvsbayernmnchen1430skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Freiburg vs Bayern München 14:30 (Sky Bundesliga SD)
 https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 
@@ -466,9 +471,6 @@ https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 #EXTINF:-1 tvg-id="gaziantepvsalanyaspor1500beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Gaziantep vs Alanyaspor 15:00 (beIN SPORTS SD)
 https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
 
-#EXTINF:-1 tvg-id="kaiserslauternvsfortunadsseldorf1200skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Kaiserslautern vs Fortuna Düsseldorf 12:00 (Sky Bundesliga)
-https://a4.kora-plus.dad/watch/bundes4.m3u8
-
 #EXTINF:-1 tvg-id="magdeburgvsbochum1200skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Magdeburg vs Bochum 12:00 (Sky Bundesliga)
 https://a1.kora-plus.dad/watch/bundes5.m3u8
 
@@ -484,7 +486,7 @@ https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
 #EXTINF:-1 tvg-id="werderbremenvsrbleipzig1430skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Werder Bremen vs RB Leipzig 14:30 (Sky Bundesliga)
 https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
 
-#EXTINF:-1 tvg-id="hoffenheimvsmainz051430skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Hoffenheim vs Mainz 05 14:30 (Sky Bundesliga)
+#EXTINF:-1 tvg-id="hoffenheimvsmainz051430skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Hoffenheim vs Mainz 05 14:30 (Sky Bundesliga SD)
 https://smarthard.click/hls/BAbvNltVM7Xc/index.m3u8
 
 #EXTINF:-1 tvg-id="cdizvscrdoba1300laligahypermotiones" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 2",Cádiz vs Córdoba 13:00 (Laliga Hypermotion ES)

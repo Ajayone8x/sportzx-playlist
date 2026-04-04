@@ -247,11 +247,17 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
+#EXTINF:-1 tvg-id="denvernuggetsvsspurs2000nbaliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Denver Nuggets vs Spurs 20:00 (NBA LIVE - AQ)
+https://darmasaki888.s3.us-east-1.amazonaws.com/nuggets.m3u8
+
 #EXTINF:-1 tvg-id="denvernuggetsvsspurs2000homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Denver Nuggets vs Spurs 20:00 (HOME CAM.)
 https://pro.packcast.top/newz/newz/147.m3u8
 
 #EXTINF:-1 tvg-id="denvernuggetsvsspurs2000awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Denver Nuggets vs Spurs 20:00 (AWAY CAM.)
 https://pro.packcast.top/newz/newz/156.m3u8
+
+#EXTINF:-1 tvg-id="miamiheatvswizards2000nbaliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Miami Heat vs Wizards 20:00 (NBA LIVE - AQ)
+https://darmasaki888.s3.us-east-1.amazonaws.com/heat.m3u8
 
 #EXTINF:-1 tvg-id="miamiheatvswizards2000homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Miami Heat vs Wizards 20:00 (HOME CAM.)
 https://pro.packcast.top/newz/newz/137.m3u8
@@ -293,6 +299,9 @@ https://a1.kora-plus.dad/watch/b1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="southamptonvsarsenal2000sportzxliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Southampton vs Arsenal 20:00 (SportzX Live - AQ)
+https://darmasaki888.s3.us-east-1.amazonaws.com/hornets.m3u8
 
 #EXTINF:-1 tvg-id="southamptonvsarsenal2000novasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Southampton vs Arsenal 20:00 (NOVA SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -337,23 +346,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
+#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000sportzxliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Atlético Madrid vs Barcelona 20:00 (SportzX Live  - AQ)
+https://darmasaki888.s3.us-east-1.amazonaws.com/bucks.m3u8
+
 #EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000espndeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Atlético Madrid vs Barcelona 20:00 (ESPN DEPORTES)
 https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
-
-#EXTINF:-1 tvg-id="hellasveronavsfiorentina1700beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Hellas Verona vs Fiorentina 17:00 (beIN ENGLISH FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="hellasveronavsfiorentina1700cbsnetwork" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Hellas Verona vs Fiorentina 17:00 (CBS NETWORK)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-
-#EXTINF:-1 tvg-id="hellasveronavsfiorentina1700foxdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Hellas Verona vs Fiorentina 17:00 (FOX DEPORTES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
 #EXTINF:-1 tvg-id="laziovsparma1945beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Lazio vs Parma 19:45 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -419,3 +416,9 @@ https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="derekchisoravsdeontaywilder1900daznsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",Derek Chisora vs Deontay Wilder 19:00 (DAZN SPORTS - AQ)
+https://darmasaki888.s3.us-east-1.amazonaws.com/boxing.m3u8
+
+#EXTINF:-1 tvg-id="derekchisoravsdeontaywilder1900sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",Derek Chisora vs Deontay Wilder 19:00 (SD SERVER)
+http://195.178.110.27/hls/iiii.m3u8

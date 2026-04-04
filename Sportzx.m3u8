@@ -177,6 +177,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tug1yvvlko/out/v1
 #EXTINF:-1 tvg-id="ipl021500willowhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 02 15:00 (WILLOW  HIN )
 https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149699/master.m3u8
 
+#EXTINF:-1 tvg-id="ipl021500foxcricket" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 02 15:00 (FOX CRICKET)
+https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-fs501.m3u8
+
 #EXTINF:-1 tvg-id="psl011500willowfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Psl",PSL 01 15:00 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fc04170e5671d37c8286afcfeb505f7:9751880fa496d361d780019bdcd91d8a
@@ -213,23 +216,23 @@ https://in-mc-flive.fancode.com/mumbai/140475_english_dash_70203_1drmta-di_h264/
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodehin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  HIN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8bb56bf0c1340ed89453cdbb0f614a2:5a8aeeee6bae662aa6c935f44de7dcd7
-https://in-mc-flive.fancode.com/mumbai/140473_hindi_dash_17875_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=7c67d54acfd247bca64dec6ab988161d:bb98935753225d228635bad7d9249237
+https://in-mc-flive.fancode.com/mumbai/140475_hindi_dash_33166_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodemal" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  MAL )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=021009d964764be3bb62bcba18ded5f3:01b29fe614be5c67f499c3838f821d71
-https://in-mc-flive.fancode.com/mumbai/140473_malayalam_dash_66876_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=b3a47117698d4fc292c3e782bf93f978:c1a8611bca4ba85795f1f7a4db65174b
+https://in-mc-flive.fancode.com/mumbai/140475_malayalam_dash_4229_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodeban" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BAN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b360485b61c94a81a38b18e31e281100:55523ee2d816cade3f168e8f944dff9d
-https://in-mc-flive.fancode.com/mumbai/140473_bengali_dash_23503_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=7fe00d36d16b475694fd4fcbd8e14e3e:d69855c07e153e16d468cc33351d6198
+https://in-mc-flive.fancode.com/mumbai/140475_bengali_dash_35466_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodebd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BD )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc12b95883ae4583945dbd146ed4f055:4d9152ef14d38075064d02f7d899452c
-https://bd-mc-flive.fancode.com/delhi/140473_english_dash_65243_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=5e01e80192ba4c28b2455856261e4a8d:c1ebac7aa3c69f8c80d0b606d95dc0eb
+https://bd-mc-flive.fancode.com/delhi/140475_english_dash_11849_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="newzealandwvssouthafricaw2300tntsports4" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",New Zealand W vs South Africa W 23:00 (TNT Sports 4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

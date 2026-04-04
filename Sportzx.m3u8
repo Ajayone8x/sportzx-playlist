@@ -257,6 +257,9 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="manchestercityvsliverpool1245espndeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Manchester City vs Liverpool 12:45 (ESPN DEPORTES)
 https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
 
+#EXTINF:-1 tvg-id="manchestercityvsliverpool1245beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Manchester City vs Liverpool 12:45 (beIN Sports SD)
+https://a1.kora-plus.dad/watch/b1.m3u8
+
 #EXTINF:-1 tvg-id="chelseavsportvale1715tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Chelsea vs Port Vale 17:15 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
@@ -433,13 +436,13 @@ https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
 
 #EXTINF:-1 tvg-id="kaiserslauternvsfortunadsseldorf1200skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Kaiserslautern vs Fortuna Düsseldorf 12:00 (Sky Bundesliga)
-https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
+https://a4.kora-plus.dad/watch/bundes4.m3u8
 
 #EXTINF:-1 tvg-id="magdeburgvsbochum1200skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Magdeburg vs Bochum 12:00 (Sky Bundesliga)
-https://smarthard.click/hls/6v8yVbveVz4/index.m3u8
+https://a1.kora-plus.dad/watch/bundes5.m3u8
 
 #EXTINF:-1 tvg-id="arminiabielefeldvsdarmstadt1200skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Arminia Bielefeld vs Darmstadt 12:00 (Sky Bundesliga)
-https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
+https://a1.kora-plus.dad/watch/bundes3.m3u8
 
 #EXTINF:-1 tvg-id="hamburgervsaugsburg1430skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Hamburger vs Augsburg 14:30 (Sky Bundesliga)
 https://smarthard.click/hls/6v8yVbveVz4/index.m3u8
@@ -452,13 +455,3 @@ https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
 
 #EXTINF:-1 tvg-id="hoffenheimvsmainz051430skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Hoffenheim vs Mainz 05 14:30 (Sky Bundesliga)
 https://smarthard.click/hls/BAbvNltVM7Xc/index.m3u8
-
-#EXTINF:-1 tvg-id="piratesvsbaltimoreorioles2105fubosportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Pirates vs Baltimore Orioles 21:05 (Fubo Sports - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
-
-#EXTINF:-1 tvg-id="piratesvsbaltimoreorioles2105vixespanolaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Pirates vs Baltimore Orioles 21:05 (VIX ESPANOL - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd

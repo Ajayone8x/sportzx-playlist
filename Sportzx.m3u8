@@ -373,8 +373,20 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
+#EXTINF:-1 tvg-id="intervsroma1945starzplaysd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Inter vs Roma 19:45 (STARZ PLAY SD)
+https://a4.kora-plus.dad/watch/ad1.m3u8
+
+#EXTINF:-1 tvg-id="intervsroma1945sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Inter vs Roma 19:45 (SD SERVER)
+https://smarthard.click/hls/kNChJ1NxVGy/index.m3u8
+
 #EXTINF:-1 tvg-id="metzvsnantes1615ligue1sd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Metz vs Nantes 16:15 (Ligue1  SD)
 https://smarthard.click/hls/A5K9d628j5Ec/index.m3u8
+
+#EXTINF:-1 tvg-id="asmonacovsmarseille1945sporttvsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",AS Monaco vs Marseille 19:45 (Sport TV SD)
+https://a4.kora-plus.dad/watch/tv3.m3u8
+
+#EXTINF:-1 tvg-id="asmonacovsmarseille1945sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",AS Monaco vs Marseille 19:45 (SD SERVER)
+https://smarthard.click/hls/ZWevymm11TKF/index.m3u8
 
 #EXTINF:-1 tvg-id="westhamvsleedsunited1630tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",West Ham vs Leeds United 16:30 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -383,9 +395,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1
 
 #EXTINF:-1 tvg-id="westhamvsleedsunited1630sportzxliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",West Ham vs Leeds United 16:30 (SportzX Live - AQ)
 https://darmasaki888.s3.us-east-1.amazonaws.com/bucks.m3u8
-
-#EXTINF:-1 tvg-id="bredavsspartarotterdam1545espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",Breda vs Sparta Rotterdam 15:45 (ESPN NL)
-https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8
 
 #EXTINF:-1 tvg-id="fenerbahevsbeiktajk1800beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Fenerbahçe vs Beşiktaş JK 18:00 (beIN SPORTS SD)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8

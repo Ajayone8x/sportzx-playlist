@@ -424,11 +424,20 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 #KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 
+#EXTINF:-1 tvg-id="eintrachtfrankfurtvskln1630sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Eintracht Frankfurt vs Köln 16:30 (SD SERVER)
+https://smarthard.click/hls/2MKw3OQni0WR/index.m3u8
+
 #EXTINF:-1 tvg-id="angersvsolympiquelyonnais1400sporttvsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Angers vs Olympique Lyonnais 14:00 (Sport TV SD)
 https://a4.kora-plus.dad/watch/tv3.m3u8
 
 #EXTINF:-1 tvg-id="angersvsolympiquelyonnais1400ligue1sd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Angers vs Olympique Lyonnais 14:00 (Ligue1  SD)
 https://smarthard.click/hls/ZWevymm11TKF/index.m3u8
+
+#EXTINF:-1 tvg-id="lorientvsparisfc1615ligue1sd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Lorient vs Paris FC 16:15 (Ligue1  SD)
+https://smarthard.click/hls/4VrctMT0fxYg/index.m3u8
+
+#EXTINF:-1 tvg-id="metzvsnantes1615ligue1sd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Metz vs Nantes 16:15 (Ligue1  SD)
+https://smarthard.click/hls/A5K9d628j5Ec/index.m3u8
 
 #EXTINF:-1 tvg-id="livingstonvsheartofmidlothian1400sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Scottish premiership",Livingston vs Heart of Midlothian 14:00 (SD SERVER)
 http://195.178.110.37/hls/UUUUQQQQQ.m3u8
@@ -442,12 +451,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="gaeaglesvspeczwolle1115espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",GA Eagles vs PEC Zwolle 11:15 (ESPN NL)
-https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8
-
-#EXTINF:-1 tvg-id="gaeaglesvspeczwolle1115sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",GA Eagles vs PEC Zwolle 11:15 (SD SERVER)
-http://195.178.110.2/hls/KIKIKIQQQQQ.m3u8
 
 #EXTINF:-1 tvg-id="volendamvsfeyenoord1330sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",Volendam vs Feyenoord 13:30 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

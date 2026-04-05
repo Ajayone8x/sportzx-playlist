@@ -211,28 +211,28 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodeeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  ENG )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7ffe6ad5a0e4f3c9d353c851729f367:fb64947f811de380e4ecba49bbe8c6ac
-https://in-mc-flive.fancode.com/mumbai/140475_english_dash_70203_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=8bd09dab8fe54c75883aa3b8e9e90813:655d0ead111fdeb199656fd24ae90909
+https://in-mc-flive.fancode.com/mumbai/140476_english_dash_78073_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodehin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  HIN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c67d54acfd247bca64dec6ab988161d:bb98935753225d228635bad7d9249237
-https://in-mc-flive.fancode.com/mumbai/140475_hindi_dash_33166_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=b71da6bfed9849fb96617e51e65ce204:a4556e0569bfe36e26e3f70db2d12fa6
+https://in-mc-flive.fancode.com/mumbai/140476_hindi_dash_65338_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodemal" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  MAL )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3a47117698d4fc292c3e782bf93f978:c1a8611bca4ba85795f1f7a4db65174b
-https://in-mc-flive.fancode.com/mumbai/140475_malayalam_dash_4229_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=a0aee25bec2242f78fe1b042b8456139:39160f231b70cb9d0c9da55ae8a4e192
+https://in-mc-flive.fancode.com/mumbai/140476_malayalam_dash_63950_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodeban" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BAN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7fe00d36d16b475694fd4fcbd8e14e3e:d69855c07e153e16d468cc33351d6198
-https://in-mc-flive.fancode.com/mumbai/140475_bengali_dash_35466_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=4fdb84aeb016415697dbe46d88fae37b:292ff1e861137572923e7cc0bae539c4
+https://in-mc-flive.fancode.com/mumbai/140476_bengali_dash_72476_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodebd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BD )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e01e80192ba4c28b2455856261e4a8d:c1ebac7aa3c69f8c80d0b606d95dc0eb
-https://bd-mc-flive.fancode.com/delhi/140475_english_dash_11849_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0199f1c8cc074bdc8e9f92cbf6b69d08:f53e2956f747d6fe080fb6a3594f788c
+https://bd-mc-flive.fancode.com/delhi/140476_english_dash_67597_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="newzealandwvssouthafricaw2300tntsports4" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",New Zealand W vs South Africa W 23:00 (TNT Sports 4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -391,6 +391,9 @@ https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8
 
 #EXTINF:-1 tvg-id="karagmrkvsrizespor1230beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Karagümrük vs Rizespor 12:30 (beIN SPORTS SD)
 https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
+
+#EXTINF:-1 tvg-id="samsunsporvskonyaspor1230beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Samsunspor vs Konyaspor 12:30 (beIN SPORTS SD)
+https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 
 #EXTINF:-1 tvg-id="antalyasporvseypspor1500beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Antalyaspor vs Eyüpspor 15:00 (beIN SPORTS SD)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8

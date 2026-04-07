@@ -343,10 +343,54 @@ https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/97.m3u8
 #EXTINF:-1 tvg-id="canucksvsgoldenknights0300awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Canucks vs Golden Knights 03:00 (AWAY CAM.)
 https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/88.m3u8
 
-#EXTINF:-1 tvg-id="realmadridvsbayernmnchen2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Real Madrid vs Bayern München 20:00 (TNT SPORTS FHD)
+#EXTINF:-1 tvg-id="realmadridvsbayernmnchen2000tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Real Madrid vs Bayern München 20:00 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="realmadridvsbayernmnchen2000tntbrasilaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Real Madrid vs Bayern München 20:00 (TNT BRASIL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73307447c35177a8acc3e8a42aa2516d:63a3ec36d4bdb812e41e74f132c5ff2f
+https://abgqhfdaaaaaaaameyaqykf5zy3tq.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/qxprlxa3hc/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="realmadridvsbayernmnchen2000vixspanishaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Real Madrid vs Bayern München 20:00 (VIX SPANISH - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=35824ddca17120c692a500c2a763eeb6:eb732828f2c7939e430402e7660f7b8c
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lelx703nzk/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd
+
+#EXTINF:-1 tvg-id="realmadridvsbayernmnchen2000paramounthd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Real Madrid vs Bayern München 20:00 (PARAMOUNT  HD)
+https://storage.googleapis.com/qwertynguhoerobrix1/mux_video_ts1/index-1.m3u8
+
+#EXTINF:-1 tvg-id="realmadridvsbayernmnchen2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Real Madrid vs Bayern München 20:00 (TNT SPORTS FHD)
+https://sarajane589.s3.us-east-1.amazonaws.com/madrid.m3u8
+
+#EXTINF:-1 tvg-id="realmadridvsbayernmnchen2000beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Real Madrid vs Bayern München 20:00 (beIN SPORTS SD)
+https://a1.kora-plus.dad/watch/b1.m3u8
+
+#EXTINF:-1 tvg-id="realmadridvsbayernmnchen2000saustriasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Real Madrid vs Bayern München 20:00 (S. Austria SD)
+https://a1.kora-plus.dad/watch/aust2.m3u8
+
+#EXTINF:-1 tvg-id="sportingvsarsenal2000tntbrasilaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Sporting vs Arsenal 20:00 (TNT BRASIL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36e8cbbdffc40708f01095591b7c53a6:078d543be20fe4769221f5afb3ecf195
+https://abgqhfdaaaaaaaammgbgkps323cuq.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/tr85qesyaa/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd
+
+#EXTINF:-1 tvg-id="sportingvsarsenal2000vixspanishaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Sporting vs Arsenal 20:00 (VIX SPANISH - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ea0a1636cbc92fb324f74adeefdcdce:6fe9913a6c33d92a658fd3a33413bf75
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kzfvkfonrc/out/v1/3d2994f3d9c64fe5bb68338a540af489/cenc.mpd
+
+#EXTINF:-1 tvg-id="sportingvsarsenal2000premiersportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Sporting vs Arsenal 20:00 (PREMIER SPORTS FHD)
+https://sarajane589.s3.us-east-1.amazonaws.com/gunners.m3u8
+
+#EXTINF:-1 tvg-id="sportingvsarsenal2000paramounthd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Sporting vs Arsenal 20:00 (PARAMOUNT  HD)
+https://storage.googleapis.com/qwertynguhoerobrix2/mux_video_ts1/index-1.m3u8
+
+#EXTINF:-1 tvg-id="sportingvsarsenal2000premiersportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Sporting vs Arsenal 20:00 (PREMIER SPORTS SD)
+https://a1.kora-plus.dad/watch/prem1.m3u8
+
+#EXTINF:-1 tvg-id="sportingvsarsenal2000beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Sporting vs Arsenal 20:00 (beIN SPORTS SD)
+https://a1.kora-plus.dad/watch/b2.m3u8
 
 #EXTINF:-1 tvg-id="bromleyvsshrewsburytown2000beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bromley vs Shrewsbury Town 20:00 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

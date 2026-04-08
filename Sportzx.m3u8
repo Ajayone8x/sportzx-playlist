@@ -265,6 +265,9 @@ https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/162.m3u8
 #EXTINF:-1 tvg-id="phoenixsunsvsmavericks0300awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Phoenix Suns vs Mavericks 03:00 (AWAY CAM.)
 https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/153.m3u8
 
+#EXTINF:-1 tvg-id="alfayhavsalahli1655alwantvsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Fayha vs Al-Ahli 16:55 (ALWAN TV SD)
+https://a3.kora-plus.dad/watch/alwan4.m3u8
+
 #EXTINF:-1 tvg-id="alfayhavsalahli1655sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Fayha vs Al-Ahli 16:55 (SD SERVER)
 http://195.178.110.2/hls/SSSQQ.m3u8
 
@@ -338,3 +341,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/
 
 #EXTINF:-1 tvg-id="pittsburghpiratesvspadres1735mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Pittsburgh Pirates vs Padres 17:35 (MLB LIVE - AQ)
 https://sarajane589.s3.us-east-1.amazonaws.com/padres.m3u8
+
+#EXTINF:-1 tvg-id="clevelandguardiansvsroyals1810mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Cleveland Guardians vs Royals 18:10 (MLB LIVE - AQ)
+https://sarajane589.s3.us-east-1.amazonaws.com/royals.m3u8

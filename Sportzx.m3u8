@@ -317,6 +317,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5hqgfribrb/out/v1
 #EXTINF:-1 tvg-id="barcelonavsatlticomadrid2000sportzxliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Barcelona vs Atlético Madrid 20:00 (SportzX LIVE - AQ)
 https://sarajane589.s3.us-east-1.amazonaws.com/real.m3u8
 
+#EXTINF:-1 tvg-id="barcelonavsatlticomadrid2000beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Barcelona vs Atlético Madrid 20:00 (beIN ARABIC)
+https://syria-live12.s3.us-east-2.amazonaws.com/bein2/index.m3u8
+
 #EXTINF:-1 tvg-id="psgvsliverpool2000tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",PSG vs Liverpool 20:00 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b

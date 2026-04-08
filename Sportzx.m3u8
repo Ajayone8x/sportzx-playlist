@@ -223,6 +223,76 @@ https://in-mc-flive.fancode.com/mumbai/140477_bengali_dash_90251_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=b2721eda88ee41e08add91163532399a:fd52baecf9195defd17bb4ceb825cac0
 https://bd-mc-flive.fancode.com/delhi/140477_english_dash_5167_1drmta-di_h264/index.mpd
 
+#EXTINF:-1 tvg-id="cavaliersvshawks0000homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cavaliers vs Hawks 00:00 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/164.m3u8
+
+#EXTINF:-1 tvg-id="cavaliersvshawks0000awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cavaliers vs Hawks 00:00 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/156.m3u8
+
+#EXTINF:-1 tvg-id="pistonsvsmilwaukeebucks0000homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Pistons vs Milwaukee Bucks 00:00 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/166.m3u8
+
+#EXTINF:-1 tvg-id="pistonsvsmilwaukeebucks0000awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Pistons vs Milwaukee Bucks 00:00 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/140.m3u8
+
+#EXTINF:-1 tvg-id="magicvstimberwolves0000homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Magic vs Timberwolves 00:00 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/154.m3u8
+
+#EXTINF:-1 tvg-id="magicvstimberwolves0000awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Magic vs Timberwolves 00:00 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/139.m3u8
+
+#EXTINF:-1 tvg-id="nuggetsvsgrizzlies0200homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Nuggets vs Grizzlies 02:00 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/146.m3u8
+
+#EXTINF:-1 tvg-id="nuggetsvsgrizzlies0200awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Nuggets vs Grizzlies 02:00 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/159.m3u8
+
+#EXTINF:-1 tvg-id="spursvstrailblazers0230homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Spurs vs Trail Blazers 02:30 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/142.m3u8
+
+#EXTINF:-1 tvg-id="spursvstrailblazers0230awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Spurs vs Trail Blazers 02:30 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/147.m3u8
+
+#EXTINF:-1 tvg-id="clippersvsthunder0300homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Clippers vs Thunder 03:00 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/148.m3u8
+
+#EXTINF:-1 tvg-id="clippersvsthunder0300spxcam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Clippers vs Thunder 03:00 (SPX CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/157.m3u8
+
+#EXTINF:-1 tvg-id="phoenixsunsvsmavericks0300homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Phoenix Suns vs Mavericks 03:00 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/165.m3u8
+
+#EXTINF:-1 tvg-id="phoenixsunsvsmavericks0300awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Phoenix Suns vs Mavericks 03:00 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/149.m3u8
+
+#EXTINF:-1 tvg-id="alhilalvsalkholood1900foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Hilal vs Al-Kholood 19:00 (FOX SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+#EXTINF:-1 tvg-id="alhilalvsalkholood1900foxdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Hilal vs Al-Kholood 19:00 (FOX DEPORTES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="rangersvsbuffalosabres0000homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Rangers vs Buffalo Sabres 00:00 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/178.m3u8
+
+#EXTINF:-1 tvg-id="rangersvsbuffalosabres0000awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Rangers vs Buffalo Sabres 00:00 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/93.m3u8
+
+#EXTINF:-1 tvg-id="mapleleafsvscapitals0030homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Maple Leafs vs Capitals 00:30 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/94.m3u8
+
+#EXTINF:-1 tvg-id="mapleleafsvscapitals0030awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Maple Leafs vs Capitals 00:30 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/97.m3u8
+
+#EXTINF:-1 tvg-id="sharksvsedmontonoilers0300homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Sharks vs Edmonton Oilers 03:00 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/173.m3u8
+
+#EXTINF:-1 tvg-id="sharksvsedmontonoilers0300awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Sharks vs Edmonton Oilers 03:00 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/174.m3u8
+
 #EXTINF:-1 tvg-id="barcelonavsatlticomadrid2000tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Barcelona vs Atlético Madrid 20:00 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
@@ -237,3 +307,33 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="mirassolvscalans2300beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Copa libertadores",Mirassol vs CA Lanús 23:00 (beIN ENGLISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="coquimbovsnacional2300beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Copa libertadores",Coquimbo vs Nacional 23:00 (beIN ENGLISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="juniorbarranquillavspalmeiras0130beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Copa libertadores",Junior Barranquilla vs Palmeiras 01:30 (beIN ENGLISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="cuscofcvsflamengo0130beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Copa libertadores",Cusco FC vs Flamengo 01:30 (beIN ENGLISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="cuencavssantos2300sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Copa sudamericana",Cuenca vs Santos 23:00 (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="gambaosakavsbangkokunited1100beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions two",Gamba Osaka vs Bangkok United 11:00 (beIN ENGLISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd

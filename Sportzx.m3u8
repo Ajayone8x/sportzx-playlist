@@ -193,10 +193,10 @@ https://bd-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-d
 #EXTINF:-1 tvg-id="psl011030fancodeind" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Psl",PSL 01 10:30 (FANCODE (IND))
 https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="psl021500willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Psl",PSL 02 15:00 (WILLOW  Ad-Free )
+#EXTINF:-1 tvg-id="psl021500willowaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Psl",PSL 02 15:00 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=734044b9d3828b949eee3411fea9d483:8f5f0167ce13ea788cce19f552f812a3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jmcpnhnqaa/out/v1/245398c496c449eba548bc3176b599eb/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5fef21ea908ec6a5f25f024a11c75169:4e09cb683c26a835450ccc0d53f3bb7e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0tp7s9nhbb/out/v1/3baa6e7bb60247bea92db2230b60585f/cenc.mpd
 
 #EXTINF:-1 tvg-id="psl021500psltvurdu" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Psl",PSL 02 15:00 (PSL TV  Urdu )
 https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8

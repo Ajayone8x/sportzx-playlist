@@ -286,8 +286,16 @@ https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/162.m3u8
 #EXTINF:-1 tvg-id="lakersvsphoenixsuns0330awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Lakers vs Phoenix Suns 03:30 (AWAY CAM.)
 https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/160.m3u8
 
+#EXTINF:-1 tvg-id="westhamvswolverhampton2000fubosportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",West Ham vs Wolverhampton 20:00 (FUBO SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
 #EXTINF:-1 tvg-id="westhamvswolverhampton2000nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",West Ham vs Wolverhampton 20:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-id="westhamvswolverhampton2000usatvaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",West Ham vs Wolverhampton 20:00 (USA TV - AQ)
+https://sarajane589.s3.us-east-1.amazonaws.com/arsenal.m3u8
 
 #EXTINF:-1 tvg-id="arsenalvsbournemouth1230tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Arsenal vs Bournemouth 12:30 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -426,6 +434,12 @@ https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 #EXTINF:-1 tvg-id="parisfcvsasmonaco1800ligue1sd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Paris FC vs AS Monaco 18:00 (Ligue1  SD)
 https://smarthard.click/hls/ZWevymm11TKF/index.m3u8
 
+#EXTINF:-1 tvg-id="olympiquemarseillevsmetz2005beinespanolhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Olympique Marseille vs Metz 20:05 (beIN ESPANOL HD)
+https://daffodil.833577.xyz/beines.m3u8
+
+#EXTINF:-1 tvg-id="olympiquemarseillevsmetz2005ligue1sd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Olympique Marseille vs Metz 20:05 (Ligue1  SD)
+https://smarthard.click/hls/ZWevymm11TKF/index.m3u8
+
 #EXTINF:-1 tvg-id="beiktavsantalyaspor1800sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Beşiktaş vs Antalyaspor 18:00 (SportzX Live)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 
@@ -434,9 +448,6 @@ https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
 
 #EXTINF:-1 tvg-id="karlsruhervsarminiabielefeld1730skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Karlsruher vs Arminia Bielefeld 17:30 (Sky Bundesliga SD)
 https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
-
-#EXTINF:-1 tvg-id="fctwentevsfcvolendam1900espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",FC Twente vs FC Volendam 19:00 (ESPN NL)
-https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8
 
 #EXTINF:-1 tvg-id="westbromwichalbionvsmillwall2000beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",West Bromwich Albion vs Millwall 20:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

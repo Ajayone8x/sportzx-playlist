@@ -229,35 +229,40 @@ https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8
 #EXTINF:-1 tvg-id="psl021500tamashapk" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Psl",PSL 02 15:00 (TAMASHA - PK)
 https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8
 
-#EXTINF:-1 tvg-id="islvsisl1500fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE FHD)
+#EXTINF:-1 tvg-id="islvsisl1230fancodeeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  ENG )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dafbae65bdfd4278a4b4b648da79495d:1368492078d17dd0129fa6d674b97f13
+https://in-mc-flive.fancode.com/mumbai/140482_english_dash_38510_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1230fancodehin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  HIN )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a1ccfbeac9741769289919c0e65b94b:3e6a60425e0465fc4a991c22c65c9b76
+https://in-mc-flive.fancode.com/mumbai/140482_hindi_dash_54800_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1230fancodetam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  TAM )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94e62a2c71f94a0fb4c48834b11cd799:99aef645a00e3dd61588a5173e0c057b
+https://in-mc-flive.fancode.com/mumbai/140482_tamil_dash_61057_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1230fancodemal" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  MAL )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4752dd4bc2d4fc98ab23e23f8014ff1:a58c5c58c20e0a5175cecd263c732a81
+https://in-mc-flive.fancode.com/mumbai/140482_malayalam_dash_60112_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1230fancodeban" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BAN )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26be5abac415413c81e9105390e3a5dd:2b46ec61a16d79a8efa471f33b6f0ec0
+https://in-mc-flive.fancode.com/mumbai/140482_bengali_dash_77342_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1230fancodebd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BD )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8b4c7a012eb4daea6b2fafa9d57757d:abf2d7c5859205efca3028f623f75cd8
+https://bd-mc-flive.fancode.com/delhi/140482_english_dash_38610_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1230fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodeeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  ENG )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb663d14faac4325a71556ce9bbf2835:62f9968fce289f918a23698559f4b3fc
-https://in-mc-flive.fancode.com/mumbai/140481_english_dash_63645_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodehin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  HIN )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd73d06683e148e48570882e47248feb:1b592fc1a24fcb92d9ebaa0e678a5e61
-https://in-mc-flive.fancode.com/mumbai/140481_hindi_dash_84747_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodemal" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  MAL )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ca69f661e39419fb3fc4b83574c40c1:816a96b1c989d408e87f0a9392569138
-https://in-mc-flive.fancode.com/mumbai/140481_malayalam_dash_53998_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodeban" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BAN )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=757a7665ca9046e294ad99d8356b040e:28fc5f12d662fafe1d54ee20e674179e
-https://in-mc-flive.fancode.com/mumbai/140481_bengali_dash_63406_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodebd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BD )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d51af35c8ab4796aafef0cd1fbf16b1:c4298040a3b7ef2fe1a6876acb3fd04e
-https://bd-mc-flive.fancode.com/delhi/140481_english_dash_38680_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="bostonbruinsvslightning1730homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Boston Bruins vs Lightning 17:30 (HOME CAM.)
 https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/175.m3u8
@@ -326,6 +331,15 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1
 
 #EXTINF:-1 tvg-id="arsenalvsbournemouth1230nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Arsenal vs Bournemouth 12:30 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-id="arsenalvsbournemouth1230usatvaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Arsenal vs Bournemouth 12:30 (USA TV - AQ)
+https://s3.us-east-1.amazonaws.com/emre.gundap/prime.m3u8
+
+#EXTINF:-1 tvg-id="arsenalvsbournemouth1230tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Arsenal vs Bournemouth 12:30 (TNT SPORTS FHD)
+https://xstm.250909.cc/live/SPORTSFLUX-PRD-10065-1/a01f4324d192/1033.m3u8
+
+#EXTINF:-1 tvg-id="arsenalvsbournemouth1230beinarabicaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Arsenal vs Bournemouth 12:30 (beIN ARABIC - AQ)
+https://1syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8
 
 #EXTINF:-1 tvg-id="realsociedadvsdeportivoalavs1300laligatvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Real Sociedad vs Deportivo Alavés 13:00 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

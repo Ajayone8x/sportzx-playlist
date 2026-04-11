@@ -443,6 +443,9 @@ https://daffodil.premiumjh.shop/one.m3u8
 #EXTINF:-1 tvg-id="stpaulivsbayernmnchen1730skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",St. Pauli vs Bayern München 17:30 (SKY Bundesliga SD)
 https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 
+#EXTINF:-1 tvg-id="staderennaisvsangers2005beinespanol" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Stade Rennais vs Angers 20:05 (beIN ESPANOL)
+https://daffodil.vizoflix.online/beines.m3u8
+
 #EXTINF:-1 tvg-id="estrelaamadoravssporting2030sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Liga portugal",Estrela Amadora vs Sporting 20:30 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
@@ -474,3 +477,23 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="removsvascodagama2030premiererbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Remo vs Vasco da Gama 20:30 (PREMIERER BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+
+#EXTINF:-1 tvg-id="vitriavssopaulo2030premiererbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Vitória vs São Paulo 20:30 (PREMIERER BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
+
+#EXTINF:-1 tvg-id="mirassolvsbahia2230premiererbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Mirassol vs Bahia 22:30 (PREMIERER BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+
+#EXTINF:-1 tvg-id="santosvsatlticomineiro0000premiererbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Santos vs Atlético Mineiro 00:00 (PREMIERER BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd

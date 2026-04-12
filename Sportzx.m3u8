@@ -264,12 +264,6 @@ https://bd-mc-flive.fancode.com/delhi/140482_english_dash_38610_1drmta-di_h264/i
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="avalanchevsknights0100homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Avalanche vs Knights 01:00 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/100.m3u8
-
-#EXTINF:-1 tvg-id="avalanchevsknights0100awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Avalanche vs Knights 01:00 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/90.m3u8
-
 #EXTINF:-1 tvg-id="sharksvsvancouvercanucks0300homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Sharks vs Vancouver Canucks 03:00 (HOME CAM.)
 https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/97.m3u8
 
@@ -284,37 +278,3 @@ https://28ugbcsxrxra.windows-devs.top/AccessLog2/108086_HD/apache.m3u8
 
 #EXTINF:-1 tvg-id="tna0000sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",TNA 00:00 (SD SERVER)
 https://29pisfqlcvyi.windows-devs.top/AccessLog2/108086_LQ/apache.m3u8
-
-#EXTINF:-1 tvg-id="liverpoolvsfulham1730nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Fulham 17:30 (NOW SPORTS PL)
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
-
-#EXTINF:-1 tvg-id="liverpoolvsfulham1730nbcuniverso" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Fulham 17:30 (NBC UNIVERSO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
-
-#EXTINF:-1 tvg-id="liverpoolvsfulham1730usatvaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Fulham 17:30 (USA TV - AQ)
-https://s3.us-east-1.amazonaws.com/emre.gundap/ESPN.m3u8
-
-#EXTINF:-1 tvg-id="liverpoolvsfulham1730skymainevent" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Fulham 17:30 (SKY MAIN EVENT)
-https://xstm.250909.cc/live/SPORTSFLUX-PRD-18379-1/53b749fb0478/1027.m3u8
-
-#EXTINF:-1 tvg-id="santosvsatlticomineiro0000sportvbraq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Santos vs Atlético Mineiro 00:00 (SporTV BR - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-
-#EXTINF:-1 tvg-id="santosvsatlticomineiro0000premiererbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Santos vs Atlético Mineiro 00:00 (PREMIERER BR)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-
-#EXTINF:-1 tvg-id="internacionalvsgrmio0030sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Internacional vs Grêmio 00:30 (SportDigital Fussball)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="internacionalvsgrmio0030primevideo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Internacional vs Grêmio 00:30 (PRIME VIDEO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7daa94378ef6b4da0dde4e5e40a83360:cf780489726c04879889b97270cbf31a
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/uq2koin2rk/out/v1/178bde30fb5a49209e3d41f17da49bfe/cenc.mpd

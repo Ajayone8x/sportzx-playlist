@@ -242,6 +242,66 @@ https://bd-mc-flive.fancode.com/delhi/140482_english_dash_38610_1drmta-di_h264/i
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
+#EXTINF:-1 tvg-id="bostoncelticsvsorlandomagic2300homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Boston Celtics vs Orlando Magic 23:00 (HOME CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/159.m3u8
+
+#EXTINF:-1 tvg-id="bostoncelticsvsorlandomagic2300awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Boston Celtics vs Orlando Magic 23:00 (AWAY CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/146.m3u8
+
+#EXTINF:-1 tvg-id="cavaliersvswashingtonwizards2300homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cavaliers vs Washington Wizards 23:00 (HOME CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/166.m3u8
+
+#EXTINF:-1 tvg-id="cavaliersvswashingtonwizards2300awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cavaliers vs Washington Wizards 23:00 (AWAY CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/140.m3u8
+
+#EXTINF:-1 tvg-id="mavericksvschicagobulls0130homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Mavericks vs Chicago Bulls 01:30 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/newz/154.m3u8
+
+#EXTINF:-1 tvg-id="mavericksvschicagobulls0130awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Mavericks vs Chicago Bulls 01:30 (AWAY CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/156.m3u8
+
+#EXTINF:-1 tvg-id="rocketsvsmemphisgrizzlies0130homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Rockets vs Memphis Grizzlies 01:30 (HOME CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/150.m3u8
+
+#EXTINF:-1 tvg-id="rocketsvsmemphisgrizzlies0130awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Rockets vs Memphis Grizzlies 01:30 (AWAY CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/142.m3u8
+
+#EXTINF:-1 tvg-id="clippersvswarriors0130homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Clippers vs Warriors 01:30 (HOME CAM.)
+https://webcast-origin.b-cdn.net/bcdn_token=1AUgUd_kXEZOyUJ9cQwWAsNzPR0rTTKDAwpKZIfO3pc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEGuF6Leuv8cbFtla2bMHH4%2F&expires=1775797496/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEGuF6Leuv8cbFtla2bMHH4/165.m3u8
+
+#EXTINF:-1 tvg-id="clippersvswarriors0130awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Clippers vs Warriors 01:30 (AWAY CAM.)
+https://webcast-origin.b-cdn.net/bcdn_token=1kw-PwQ9eOBanSGc_MjdVAyucDI-RqH1dWfrzshsyjs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEli8wacgfVw8pLRatLrfdg%2F&expires=1775797496/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEli8wacgfVw8pLRatLrfdg/151.m3u8
+
+#EXTINF:-1 tvg-id="lakersvsutahjazz0130homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Lakers vs Utah Jazz 01:30 (HOME CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/165.m3u8
+
+#EXTINF:-1 tvg-id="lakersvsutahjazz0130spxcam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Lakers vs Utah Jazz 01:30 (SPX CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/151.m3u8
+
+#EXTINF:-1 tvg-id="timberwolvesvspelicans0130homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Timberwolves vs Pelicans 01:30 (HOME CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/162.m3u8
+
+#EXTINF:-1 tvg-id="timberwolvesvspelicans0130awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Timberwolves vs Pelicans 01:30 (AWAY CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/153.m3u8
+
+#EXTINF:-1 tvg-id="thundervsphoenixsuns0130homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Thunder vs Phoenix Suns 01:30 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/143.m3u8
+
+#EXTINF:-1 tvg-id="thundervsphoenixsuns0130awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Thunder vs Phoenix Suns 01:30 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/153.m3u8
+
+#EXTINF:-1 tvg-id="trailblazersvskings0130homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Trail Blazers vs Kings 01:30 (HOME CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/151.m3u8
+
+#EXTINF:-1 tvg-id="trailblazersvskings0130awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Trail Blazers vs Kings 01:30 (AWAY CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/163.m3u8
+
+#EXTINF:-1 tvg-id="spursvsdenvernuggets0130homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Spurs vs Denver Nuggets 01:30 (HOME CAM.)
+https://webcast-origin.b-cdn.net/bcdn_token=ETj0ye4n-6zn6aD4IcFQMEsYNL7mggnNU48WtdXgliQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEli8wacgfVw8pLRatLrfdg%2F&expires=1775890334/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEli8wacgfVw8pLRatLrfdg/151.m3u8
+
+#EXTINF:-1 tvg-id="spursvsdenvernuggets0130awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Spurs vs Denver Nuggets 01:30 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/160.m3u8
+
 #EXTINF:-1 tvg-id="chelseavsmanchestercity1630nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Chelsea vs Manchester City 16:30 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
@@ -357,6 +417,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
+#EXTINF:-1 tvg-id="genoavssassuolo1130paramounthd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Genoa vs Sassuolo 11:30 (PARAMOUNT  HD)
+https://soccer.250909.cc/event/628/index.m3u8
+
 #EXTINF:-1 tvg-id="parmavsnapoli1400tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Parma vs Napoli 14:00 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
@@ -437,6 +500,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="falkirkfcvsrangers1200hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Scottish premiership",Falkirk FC vs Rangers 12:00 (HD SERVER)
+https://soccer.250909.cc/event/690/index.m3u8
 
 #EXTINF:-1 tvg-id="birminghamcityvswrexham1200beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Birmingham City vs Wrexham 12:00 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

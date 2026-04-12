@@ -332,21 +332,6 @@ https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/97.m3u8
 #EXTINF:-1 tvg-id="flamesvsutahmammoth0200awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Flames vs Utah Mammoth 02:00 (AWAY CAM.)
 https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/169.m3u8
 
-#EXTINF:-1 tvg-id="chelseavsmanchestercity1630nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Chelsea vs Manchester City 16:30 (NOW SPORTS PL)
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
-
-#EXTINF:-1 tvg-id="chelseavsmanchestercity1630usatvaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Chelsea vs Manchester City 16:30 (USA TV - AQ)
-https://s3.us-east-1.amazonaws.com/emre.gundap/ESPN.m3u8
-
-#EXTINF:-1 tvg-id="chelseavsmanchestercity1630skymainevent" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Chelsea vs Manchester City 16:30 (SKY MAIN EVENT)
-https://602.vizoflixx.site/main.m3u8
-
-#EXTINF:-1 tvg-id="chelseavsmanchestercity1630skyplfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Chelsea vs Manchester City 16:30 (SKY PL FHD)
-https://xstm.250909.cc/live/SPORTSFLUX-PRD-10065-1/a01f4324d192/1028.m3u8
-
-#EXTINF:-1 tvg-id="chelseavsmanchestercity1630beinarabicaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Chelsea vs Manchester City 16:30 (beIN ARABIC - AQ)
-https://1syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8
-
 #EXTINF:-1 tvg-id="celtavigovsrealoviedo1730laligatvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Celta Vigo vs Real Oviedo 17:30 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
@@ -417,6 +402,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #EXTINF:-1 tvg-id="stuttgartvshamburger1630onesportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Stuttgart vs Hamburger 16:30 (ONE SPORTS HD)
 https://daffodil.premiumjh.shop/one.m3u8
 
+#EXTINF:-1 tvg-id="mainz05vsscfreiburg1830daznenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Mainz 05 vs SC Freiburg 18:30 (DAZN ENGLISH)
+https://soccer.250909.cc/event/635/index.m3u8
+
 #EXTINF:-1 tvg-id="nicevslehavre1615beinxtra" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Nice vs Le Havre 16:15 (beIN XTRA)
 https://602.vizoflixx.site/xtra.m3u8
 
@@ -459,3 +447,24 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="baltimoreoriolesvsgiants1835mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Baltimore Orioles vs Giants 18:35 (MLB LIVE - AQ)
+https://s3.us-east-1.amazonaws.com/emre.gundap/orioles.m3u8
+
+#EXTINF:-1 tvg-id="philliesvsarizonadiamondbacks1835mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Phillies vs Arizona Diamondbacks 18:35 (MLB LIVE - AQ)
+https://s3.us-east-1.amazonaws.com/emre.gundap/phillies.m3u8
+
+#EXTINF:-1 tvg-id="bluejaysvsminnesotatwins1837mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Blue Jays vs Minnesota Twins 18:37 (MLB LIVE - AQ)
+https://s3.us-east-1.amazonaws.com/emre.gundap/bluejays.m3u8
+
+#EXTINF:-1 tvg-id="redsvslosangelesangels1840mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Reds vs Los Angeles Angels 18:40 (MLB LIVE - AQ)
+https://s3.us-east-1.amazonaws.com/emre.gundap/reds.m3u8
+
+#EXTINF:-1 tvg-id="detroittigersvsmiamimarlins1840mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Detroit Tigers vs Miami Marlins 18:40 (MLB LIVE - AQ)
+https://s3.us-east-1.amazonaws.com/emre.gundap/tigers.m3u8
+
+#EXTINF:-1 tvg-id="newyorkmetsvsathletics1840mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",New York Mets vs Athletics 18:40 (MLB LIVE - AQ)
+https://s3.us-east-1.amazonaws.com/emre.gundap/mets.m3u8
+
+#EXTINF:-1 tvg-id="tampabayraysvsnewyorkyankees1840mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Tampa Bay Rays vs New York Yankees 18:40 (MLB LIVE - AQ)
+https://s3.us-east-1.amazonaws.com/emre.gundap/yankees.m3u8

@@ -212,6 +212,60 @@ https://bd-mc-flive.fancode.com/delhi/140482_english_dash_38610_1drmta-di_h264/i
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
+#EXTINF:-1 tvg-id="floridapanthersvsrangers0000homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Florida Panthers vs Rangers 00:00 (HOME CAM.)
+https://webcast-origin.b-cdn.net/bcdn_token=42pMm6OMRUdWSchwuE_NhmFTvQXhI7gxwJXSDxH_Yas&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFGpu-9Sam2jQ9k5hPDLsw9%2F&expires=1776034200/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFGpu-9Sam2jQ9k5hPDLsw9/169.m3u8
+
+#EXTINF:-1 tvg-id="floridapanthersvsrangers0000awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Florida Panthers vs Rangers 00:00 (AWAY CAM.)
+https://webcast-origin.b-cdn.net/bcdn_token=IAQkCD4UGTUsqmw0i3HJPbe3xFHeAETIMWRW2hQicmc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG0FFZbz0ur9jCT7HGsSmfs%2F&expires=1776034223/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG0FFZbz0ur9jCT7HGsSmfs/99.m3u8
+
+#EXTINF:-1 tvg-id="flyersvshurricanes0000homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Flyers vs Hurricanes 00:00 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/167.m3u8
+
+#EXTINF:-1 tvg-id="flyersvshurricanes0000awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Flyers vs Hurricanes 00:00 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/169.m3u8
+
+#EXTINF:-1 tvg-id="mapleleafsvsdallasstars0030homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Maple Leafs vs Dallas Stars 00:30 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/171.m3u8
+
+#EXTINF:-1 tvg-id="mapleleafsvsdallasstars0030awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Maple Leafs vs Dallas Stars 00:30 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/102.m3u8
+
+#EXTINF:-1 tvg-id="nashvillepredatorsvssharks0100homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Nashville Predators vs Sharks 01:00 (HOME CAM.)
+https://webcast-origin.b-cdn.net/bcdn_token=ACnb9ErzjlqDGr6EkneW4xInBw8NtwWSxd0Gac6N1Zg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH%2F&expires=1776052773/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH/90.m3u8
+
+#EXTINF:-1 tvg-id="nashvillepredatorsvssharks0100awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Nashville Predators vs Sharks 01:00 (AWAY CAM.)
+https://webcast-origin.b-cdn.net/bcdn_token=wGUHKZGF3lNiOWhkBgaVttHUxsTgbfU2pCLhg_Usr4I&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEDgb7MlFEdOtBGWGKxpzO4%2F&expires=1776052786/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEDgb7MlFEdOtBGWGKxpzO4/88.m3u8
+
+#EXTINF:-1 tvg-id="bluesvsminnesotawild0100homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Blues vs Minnesota Wild 01:00 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/97.m3u8
+
+#EXTINF:-1 tvg-id="bluesvsminnesotawild0100awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Blues vs Minnesota Wild 01:00 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/169.m3u8
+
+#EXTINF:-1 tvg-id="blackhawksvsbuffalosabres0130homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Blackhawks vs Buffalo Sabres 01:30 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/86.m3u8
+
+#EXTINF:-1 tvg-id="blackhawksvsbuffalosabres0130awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Blackhawks vs Buffalo Sabres 01:30 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/86.m3u8
+
+#EXTINF:-1 tvg-id="edmontonoilersvsavalanche0230homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Edmonton Oilers vs Avalanche 02:30 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/89.m3u8
+
+#EXTINF:-1 tvg-id="edmontonoilersvsavalanche0230awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Edmonton Oilers vs Avalanche 02:30 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/98.m3u8
+
+#EXTINF:-1 tvg-id="seattlekrakenvskings0230homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Seattle Kraken vs Kings 02:30 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/100.m3u8
+
+#EXTINF:-1 tvg-id="seattlekrakenvskings0230awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Seattle Kraken vs Kings 02:30 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/90.m3u8
+
+#EXTINF:-1 tvg-id="knightsvswinnipegjets0300homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Knights vs Winnipeg Jets 03:00 (HOME CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/97.m3u8
+
+#EXTINF:-1 tvg-id="knightsvswinnipegjets0300awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Knights vs Winnipeg Jets 03:00 (AWAY CAM.)
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/88.m3u8
+
 #EXTINF:-1 tvg-id="manchesterunitedvsleedsunited2000fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Leeds United 20:00 (FUBO SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
@@ -255,3 +309,18 @@ https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 
 #EXTINF:-1 tvg-id="rizesporvsgaziantep1800beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Rizespor vs Gaziantep 18:00 (beIN SPORTS SD)
 https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
+
+#EXTINF:-1 tvg-id="philliesvschicagocubs2340tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Phillies vs Chicago Cubs 23:40 (TNT SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="philliesvschicagocubs2340fubosportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Phillies vs Chicago Cubs 23:40 (FUBO SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-id="philliesvschicagocubs2340beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Phillies vs Chicago Cubs 23:40 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd

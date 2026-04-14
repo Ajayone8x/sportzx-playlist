@@ -212,6 +212,18 @@ https://bd-mc-flive.fancode.com/delhi/140482_english_dash_38610_1drmta-di_h264/i
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
+#EXTINF:-1 tvg-id="charlottehornetsvsmiamiheat0030homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Charlotte Hornets vs Miami Heat 00:30 (HOME CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/159.m3u8
+
+#EXTINF:-1 tvg-id="charlottehornetsvsmiamiheat0030awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Charlotte Hornets vs Miami Heat 00:30 (AWAY CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/146.m3u8
+
+#EXTINF:-1 tvg-id="phoenixsunsvstrailblazers0300homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Phoenix Suns vs Trail Blazers 03:00 (HOME CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/166.m3u8
+
+#EXTINF:-1 tvg-id="phoenixsunsvstrailblazers0300awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Phoenix Suns vs Trail Blazers 03:00 (AWAY CAM.)
+https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/140.m3u8
+
 #EXTINF:-1 tvg-id="alqadsiahvsalshabab1900foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Qadsiah vs Al-Shabab 19:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae

@@ -227,6 +227,16 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000tntbrasilaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (TNT BRASIL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed000f460d0cddb51e422322a0bebd8c:8fbaa3e751b347f5da3158bc79c60ded
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/evcwllecpt/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000vixspanishaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (VIX SPANISH - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89d2d53fec05b3f4b1e1c223ede08c98:a05a49391c013ea3bed9c0081b72a0fe
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/yc1yepcwe9/out/v1/5ffdefde68be4b0cba143306037bbdf3/cenc.mpd
+
 #EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (TNT SPORTS - AQ)
 https://s3.us-east-1.amazonaws.com/emre.gundap/mma.m3u8
 
@@ -235,6 +245,20 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UCL_Atle1404/ENG/master.
 
 #EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000sonylivhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (SonyLiv  HIN )
 https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UCL_Atle1404/HIN/master.m3u8
+
+#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000universoes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (UNIVERSO ES)
+https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/568.m3u8
+
+#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000paramount" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (PARAMOUNT )
+https://cors.x-sure.co/https://dai.google.com/linear/hls/event/tg5EWpq4Q82k4LyRBUpspg/master.m3u8
+
+#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000daznpthd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (DAZN PT HD)
+https://canaiss.fazoeli.co.za/fontes/smart/pt_eleven1.m3u8
+
+#EXTINF:-1 tvg-id="liverpoolvspsg2000tntbrasilaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Liverpool vs PSG 20:00 (TNT BRASIL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed7114500f9cb80827d437849d34df46:0f843c9bd7d958341501a84fa010d888
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/k6rrjtonqd/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd
 
 #EXTINF:-1 tvg-id="liverpoolvspsg2000vixspanishaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Liverpool vs PSG 20:00 (VIX SPANISH - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -249,6 +273,9 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/UCL_Live1404/ENG/master.
 
 #EXTINF:-1 tvg-id="liverpoolvspsg2000sonylivhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Liverpool vs PSG 20:00 (SonyLiv  HIN )
 https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/UCL_Live1404/HIN/master.m3u8
+
+#EXTINF:-1 tvg-id="liverpoolvspsg2000paramount" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Liverpool vs PSG 20:00 (PARAMOUNT )
+https://cors.azship.com.br/https://dai.google.com/linear/hls/event/Z-D5egLSTX2bzx06MNTssw/master.m3u8
 
 #EXTINF:-1 tvg-id="portsmouthvsipswichtown2000beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Portsmouth vs Ipswich Town 20:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

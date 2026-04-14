@@ -116,10 +116,10 @@ https://28ugbcsxrxra.windows-devs.top/AccessLog2/108084_HD/apache.m3u8
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
 #EXTINF:-1 tvg-id="wwenxt0100hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE NXT 01:00 (HD SERVER)
-https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 
 #EXTINF:-1 tvg-id="wwenxt0100backupsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE NXT 01:00 (Backup SD)
-https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
+https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8
 
 #EXTINF:-1 tvg-id="wwenxt0100tapsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE NXT 01:00 (Tap Sports)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -212,6 +212,16 @@ https://bd-mc-flive.fancode.com/delhi/140482_english_dash_38610_1drmta-di_h264/i
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
+#EXTINF:-1 tvg-id="charlottehornetsvsmiamiheat0030tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Charlotte Hornets vs Miami Heat 00:30 (TSN SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="charlottehornetsvsmiamiheat0030tsnsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Charlotte Hornets vs Miami Heat 00:30 (TSN SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
 #EXTINF:-1 tvg-id="alqadsiahvsalshabab1900foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Qadsiah vs Al-Shabab 19:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
@@ -222,70 +232,20 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (TNT SPORTS FHD)
+#EXTINF:-1 tvg-id="bayernmnchenvsrealmadrid2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern München vs Real Madrid 20:00 (TNT SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="arsenalvssportingcp2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Sporting CP 20:00 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000tntbrasilaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (TNT BRASIL - AQ)
+#EXTINF:-1 tvg-id="clubamricavsnashvillesc0430foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Club América vs Nashville SC 04:30 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed000f460d0cddb51e422322a0bebd8c:8fbaa3e751b347f5da3158bc79c60ded
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/evcwllecpt/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
-
-#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000vixspanishaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (VIX SPANISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89d2d53fec05b3f4b1e1c223ede08c98:a05a49391c013ea3bed9c0081b72a0fe
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/yc1yepcwe9/out/v1/5ffdefde68be4b0cba143306037bbdf3/cenc.mpd
-
-#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (TNT SPORTS - AQ)
-https://s3.us-east-1.amazonaws.com/emre.gundap/mma.m3u8
-
-#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (SonyLiv  ENG )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UCL_Atle1404/ENG/master.m3u8
-
-#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000sonylivhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (SonyLiv  HIN )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UCL_Atle1404/HIN/master.m3u8
-
-#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000universoes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (UNIVERSO ES)
-https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/568.m3u8
-
-#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000paramount" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (PARAMOUNT )
-https://cors.x-sure.co/https://dai.google.com/linear/hls/event/tg5EWpq4Q82k4LyRBUpspg/master.m3u8
-
-#EXTINF:-1 tvg-id="atlticomadridvsbarcelona2000daznpthd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Barcelona 20:00 (DAZN PT HD)
-https://canaiss.fazoeli.co.za/fontes/smart/pt_eleven1.m3u8
-
-#EXTINF:-1 tvg-id="liverpoolvspsg2000tntbrasilaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Liverpool vs PSG 20:00 (TNT BRASIL - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed7114500f9cb80827d437849d34df46:0f843c9bd7d958341501a84fa010d888
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/k6rrjtonqd/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd
-
-#EXTINF:-1 tvg-id="liverpoolvspsg2000vixspanishaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Liverpool vs PSG 20:00 (VIX SPANISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=083af3c00480aa36e729e118fe2da70d:8326da83f940ce4adb2657f44cb9df96
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/s4zkstfw4k/out/v1/ab548105d55047609d408a326c23ec93/cenc.mpd
-
-#EXTINF:-1 tvg-id="liverpoolvspsg2000premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Liverpool vs PSG 20:00 (PREMIER SPORTS)
-https://s3.us-east-1.amazonaws.com/emre.gundap/ESPN.m3u8
-
-#EXTINF:-1 tvg-id="liverpoolvspsg2000sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Liverpool vs PSG 20:00 (SonyLiv  ENG )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/UCL_Live1404/ENG/master.m3u8
-
-#EXTINF:-1 tvg-id="liverpoolvspsg2000sonylivhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Liverpool vs PSG 20:00 (SonyLiv  HIN )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/UCL_Live1404/HIN/master.m3u8
-
-#EXTINF:-1 tvg-id="liverpoolvspsg2000paramount" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Liverpool vs PSG 20:00 (PARAMOUNT )
-https://cors.azship.com.br/https://dai.google.com/linear/hls/event/Z-D5egLSTX2bzx06MNTssw/master.m3u8
-
-#EXTINF:-1 tvg-id="portsmouthvsipswichtown2000beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Portsmouth vs Ipswich Town 20:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="portsmouthvsipswichtown2000cbsnetwork" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Portsmouth vs Ipswich Town 20:00 (CBS NETWORK)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 
 #EXTINF:-1 tvg-id="cerroporteovsjuniorbarranquilla2300beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Copa libertadores",Cerro Porteño vs Junior Barranquilla 23:00 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -318,11 +278,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1 tvg-id="cruzazulvslosangeles0200foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Cruz Azul vs Los Angeles 02:00 (FOX SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-
-#EXTINF:-1 tvg-id="clubamricavsnashville0430foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Club América vs Nashville 04:30 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd

@@ -227,44 +227,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-#EXTINF:-1 tvg-id="seattlesoundersvstigresuanl0430foxsports1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Seattle Sounders vs Tigres UANL 04:30 (FOX SPORTS 1)
+#EXTINF:-1 tvg-id="seattlesoundersvstigresuanl0430foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Seattle Sounders vs Tigres UANL 04:30 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-
-#EXTINF:-1 tvg-id="seattlesoundersvstigresuanl0430tntbrasilfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Seattle Sounders vs Tigres UANL 04:30 (TNT BRASIL FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e97f48bffb38c1b2453d5ff7a919759f:8e1381edeed7829031963ac576700747
-https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mjl28zz5rj/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd
-
-#EXTINF:-1 tvg-id="seattlesoundersvstigresuanl0430vixspanishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Seattle Sounders vs Tigres UANL 04:30 (VIX SPANISH FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=868f5c91cb11396c64bdaca4118f6b60:7a5317e82291250f16830fd6bb5f329a
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/l1v1uhsjan/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd
-
-#EXTINF:-1 tvg-id="seattlesoundersvstigresuanl0430tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Seattle Sounders vs Tigres UANL 04:30 (TNT SPORTS - AQ)
-https://oshanrd4.s3.us-east-1.amazonaws.com/realmadrid.m3u8
-
-#EXTINF:-1 tvg-id="seattlesoundersvstigresuanl0430tudnusahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Seattle Sounders vs Tigres UANL 04:30 (TUDN USA HD)
-https://daffodil.underupturnip.net/tudn.m3u8
-
-#EXTINF:-1 tvg-id="seattlesoundersvstigresuanl0430spxaqlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Seattle Sounders vs Tigres UANL 04:30 (SPX - AQ LIVE)
-https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/888440f832c675999cba4d810e1462cf/manifest/video.m3u8
-
-#EXTINF:-1 tvg-id="seattlesoundersvstigresuanl0430universofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Seattle Sounders vs Tigres UANL 04:30 (UNIVERSO FHD)
-https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/568.m3u8
-
-#EXTINF:-1 tvg-id="seattlesoundersvstigresuanl0430sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Seattle Sounders vs Tigres UANL 04:30 (SonyLiv  ENG )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/UCL_Baye1504/ENG/master.m3u8
-
-#EXTINF:-1 tvg-id="seattlesoundersvstigresuanl0430sonylivhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Seattle Sounders vs Tigres UANL 04:30 (SonyLiv  HIN )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/UCL_Baye1504/HIN/master.m3u8
-
-#EXTINF:-1 tvg-id="seattlesoundersvstigresuanl0430beinsportsar" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Seattle Sounders vs Tigres UANL 04:30 (beIN SPORTS AR)
-https://3syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8
-
-#EXTINF:-1 tvg-id="seattlesoundersvstigresuanl0430tntsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Seattle Sounders vs Tigres UANL 04:30 (TNT SPORTS SD)
-https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/1644.m3u8
 
 #EXTINF:-1 tvg-id="arsenalvssportingcp2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Sporting CP 20:00 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

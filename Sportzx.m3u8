@@ -250,7 +250,7 @@ https://bd-mc-flive.fancode.com/delhi/140482_english_dash_38610_1drmta-di_h264/i
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="astonvillavsbologna2000tntsports2" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Aston Villa vs Bologna 20:00 (TNT Sports 2)
+#EXTINF:-1 tvg-id="astonvillavsbologna2000tntsports2" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Aston Villa vs Bologna 20:00 (TNT Sports 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
@@ -264,3 +264,19 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="celtavigovsscfreiburg1745vixspanishaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Celta Vigo vs SC Freiburg 17:45 (VIX SPANISH - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ea01fe782efc6a0ab3428d1e81f3199:34af7901799ab41bb998e1ed505da2c8
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/8ugrrdcgqf/out/v1/4f29bcaaff6a4c62be1905aaae630303/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="celtavigovsscfreiburg1745daznenghd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Celta Vigo vs SC Freiburg 17:45 (DAZN ENG HD)
+https://soccer.250909.cc/event/729/index.m3u8
+
+#EXTINF:-1 tvg-id="azalkmaarvsshakhtardonetsk1745vixspanishaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",AZ Alkmaar vs Shakhtar Donetsk 17:45 (VIX SPANISH - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2375b852aab667961d31965de2183e60:a752d9dee1bbc685aef539d4e6a100a6
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/ef41pkhdzz/out/v1/aed6fe8fa7304ec082fb4635b877e09d/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="azalkmaarvsshakhtardonetsk1745daznenghd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",AZ Alkmaar vs Shakhtar Donetsk 17:45 (DAZN ENG HD)
+https://soccer.250909.cc/event/728/index.m3u8

@@ -419,6 +419,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #EXTINF:-1 tvg-id="eintrachtfrankfurtvsrbleipzig1730skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Eintracht Frankfurt vs RB Leipzig 17:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 
+#EXTINF:-1 tvg-id="lorientvsolympiquemarseille1600beinsportses" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Lorient vs Olympique Marseille 16:00 (beIN SPORTS ES)
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_usa_bein_sport_espanol/index.m3u8
+
 #EXTINF:-1 tvg-id="fatihkaragmrkvseypspor1230beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Fatih Karagümrük vs Eyüpspor 12:30 (beIN SPORTS SD)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 
@@ -450,3 +453,15 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="coloradorapidsvsintermiami2130mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mls 🇺🇸",Colorado Rapids vs Inter Miami 21:30 (MLB LIVE - AQ)
+https://s3.us-east-1.amazonaws.com/emre.gundap/mets.m3u8
+
+#EXTINF:-1 tvg-id="chapecoensevsbotafogo2230mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Chapecoense vs Botafogo 22:30 (MLB LIVE - AQ)
+https://s3.us-east-1.amazonaws.com/emre.gundap/yankees.m3u8
+
+#EXTINF:-1 tvg-id="vitriavscorinthians0000mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Vitória vs Corinthians 00:00 (MLB LIVE - AQ)
+https://streamcorner_fucker@s3.us-east-1.amazonaws.com/emre.gundap/brewers.m3u8
+
+#EXTINF:-1 tvg-id="cruzeirovsgrmio0030mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Cruzeiro vs Grêmio 00:30 (MLB LIVE - AQ)
+https://streamcorner_fucker@s3.us-east-1.amazonaws.com/emre.gundap/redsox.m3u8

@@ -321,12 +321,6 @@ https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="visselkobevsalahli1715nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Vissel Kobe vs Al-Ahli 17:15 (NOW SPORTS PL)
-https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
-
-#EXTINF:-1 tvg-id="visselkobevsalahli1715skysportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Vissel Kobe vs Al-Ahli 17:15 (SKY SPORTS HD)
-https://s3.us-east-1.amazonaws.com/shelest.stanislav/yankees.m3u8
-
 #EXTINF:-1 tvg-id="clubbruggeu19vsrealmadridu191745tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa youth",Club Brugge U19 vs Real Madrid U19 17:45 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
@@ -342,19 +336,6 @@ https://soccer.250909.cc/event/1019/index.m3u8
 
 #EXTINF:-1 tvg-id="deportivovsmirands1930bbcsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 2",Deportivo vs Mirandés 19:30 (BBC SPORTS HD)
 https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_event_bbc_alba/index.m3u8
-
-#EXTINF:-1 tvg-id="bostonredsoxvsdetroittigers1610beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Boston Red Sox vs Detroit Tigers 16:10 (beIN ENGLISH FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="bostonredsoxvsdetroittigers1610foxdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Boston Red Sox vs Detroit Tigers 16:10 (FOX DEPORTES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 tvg-id="bostonredsoxvsdetroittigers1610paramounthd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Boston Red Sox vs Detroit Tigers 16:10 (PARAMOUNT  HD)
-https://soccer.250909.cc/event/955/index.m3u8
 
 #EXTINF:-1 tvg-id="guardiansvshoustonastros2310beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Guardians vs Houston Astros 23:10 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

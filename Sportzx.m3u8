@@ -214,8 +214,8 @@ https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-d
 
 #EXTINF:-1 tvg-id="psl021500willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Psl",PSL 02 15:00 (WILLOW  Ad-Free )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=660b12ab9ff8f5d7a9c9e87d2cd0ac3a:562d1d0574a3d3ea6a85e2500867d4dd
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rqeiuwqk87/out/v1/4aacfa3131784ba886ebb2d520581f01/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e52df5c43f028ac74841d8666dd82957:c0ba26e9891ae381420b7303717f9142
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/50frhikpnl/out/v1/bfde08c2fa824ed389aa58bec2c698a2/cenc.mpd
 
 #EXTINF:-1 tvg-id="psl021500pslurdupk" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Psl",PSL 02 15:00 (PSL Urdu - PK)
 https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8

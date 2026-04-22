@@ -301,24 +301,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1
 
 #EXTINF:-1 tvg-id="detroitpistons0000tsnsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Detroit Pistons 00:00 (TSN SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 #EXTINF:-1 tvg-id="detroitpistons0000nbalive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Detroit Pistons 00:00 (NBA LIVE)
 https://streamfree-scrapper.onrender.com/api/stream/basketball/philadelphia-76ers-vs-boston-celtics.m3u8
 
 #EXTINF:-1 tvg-id="detroitpistons0000hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Detroit Pistons 00:00 (HD SERVER)
 https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="phoenixsuns0230tsnsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Phoenix Suns 02:30 (TSN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
-
-#EXTINF:-1 tvg-id="phoenixsuns0230tsnsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Phoenix Suns 02:30 (TSN SPORTS HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 #EXTINF:-1 tvg-id="phoenixsuns0230spxnbalive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Phoenix Suns 02:30 (SPX NBA LIVE)
 https://streamfree-scrapper.onrender.com/api/stream/basketball/portlandtrailblazersvssanantoniospurs.m3u8
@@ -352,8 +342,11 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #EXTINF:-1 tvg-id="burnleyvsmanchestercity2000skymainevent" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Manchester City 20:00 (SKY MAIN EVENT)
 https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/cf464ac4daf41050862bb378df16822a/manifest/video.m3u8
 
+#EXTINF:-1 tvg-id="burnleyvsmanchestercity2000skysportsnz" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Manchester City 20:00 (SKY SPORTS NZ)
+https://lchd-314.zenostreams-cdn-001.com/epl-1.m3u8
+
 #EXTINF:-1 tvg-id="burnleyvsmanchestercity2000satfeed" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Manchester City 20:00 (SAT FEED)
-https://602.intelsystech.com.br/plp.m3u8
+https://602.underupturnip.net/plp.m3u8
 
 #EXTINF:-1 tvg-id="burnleyvsmanchestercity2000hubpremierhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Manchester City 20:00 (HUB PREMIER HD)
 https://hls.iill.top/api/Hub-Premier-1/index.m3u8
@@ -361,8 +354,17 @@ https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 #EXTINF:-1 tvg-id="burnleyvsmanchestercity2000spxhdlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Manchester City 20:00 (SPX HD LIVE)
 https://sf-scrapper-hzma.onrender.com/api/stream/soccer/manchester-city-vs-burnley.m3u8
 
+#EXTINF:-1 tvg-id="burnleyvsmanchestercity2000usanetwork" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Manchester City 20:00 (USA NETWORK)
+https://xstm.250909.cc/live/SPORTSFLUX-PRD-21391-1/74fe43073c5f/195.m3u8
+
 #EXTINF:-1 tvg-id="bournemouthvsleedsunited2000nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Leeds United 20:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1 tvg-id="bournemouthvsleedsunited2000skysportsnz" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Leeds United 20:00 (SKY SPORTS NZ)
+https://lchd-314.zenostreams-cdn-001.com/epl-2.m3u8
+
+#EXTINF:-1 tvg-id="bournemouthvsleedsunited2000spxfhdlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Leeds United 20:00 (SPX FHD LIVE)
+https://daffodil.intelsystech.com.br/leeds.m3u8
 
 #EXTINF:-1 tvg-id="bournemouthvsleedsunited2000spxhdlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Leeds United 20:00 (SPX HD LIVE)
 https://sf-scrapper-hzma.onrender.com/api/stream/soccer/leeds-united-vs-afc-bournemouth.m3u8
@@ -403,13 +405,18 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
+#EXTINF:-1 tvg-id="barcelonavsceltavigo2030fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Barcelona vs Celta Vigo 20:30 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
 #EXTINF:-1 tvg-id="barcelonavsceltavigo2030laligatvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Barcelona vs Celta Vigo 20:30 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
-#EXTINF:-1 tvg-id="barcelonavsceltavigo2030espndeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Barcelona vs Celta Vigo 20:30 (ESPN DEPORTES)
-https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
+#EXTINF:-1 tvg-id="barcelonavsceltavigo2030beinsportsar" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Barcelona vs Celta Vigo 20:30 (beIN SPORTS AR)
+https://6syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8
 
 #EXTINF:-1 tvg-id="atalantavslazio2000fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Coppa italia 🇮🇹",Atalanta vs Lazio 20:00 (FUBO SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -434,9 +441,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 #EXTINF:-1 tvg-id="strasbourgvsnice2000hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Coupe de france 🇫🇷",Strasbourg vs Nice 20:00 (HD SERVER)
 https://daffodil.marllonferreira.space/fs2.m3u8
 
-#EXTINF:-1 tvg-id="alnassrvsalahlidoha1700espnnlsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions two",Al-Nassr vs Al-Ahli Doha 17:00 (ESPN NL SD)
-https://smarthard.click/hls/uSPCfTgzHQY3/index.m3u8
-
 #EXTINF:-1 tvg-id="galatasarayvsgenlerbirlii1830sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Türkiye kupası",Galatasaray vs Gençlerbirliği 18:30 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
@@ -448,13 +452,16 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
 #EXTINF:-1 tvg-id="leverkusenvsbayernmnchen1945espnuhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Dfb pokal",Leverkusen vs Bayern München 19:45 (ESPN U HD)
-https://daffodil.intelsystech.com.br/espnu.m3u8
+https://daffodil.marllonferreira.space/espnu.m3u8
 
 #EXTINF:-1 tvg-id="leverkusenvsbayernmnchen1945dfbpokalhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Dfb pokal",Leverkusen vs Bayern München 19:45 (DFB POKAL HD)
 https://lchd-314.zenostreams-cdn-001.com/dfbpokal.m3u8
 
 #EXTINF:-1 tvg-id="telstarvsspartarotterdam1900espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",Telstar vs Sparta Rotterdam 19:00 (ESPN NL)
 https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
+
+#EXTINF:-1 tvg-id="fcportovssportingcp2045beinsportsusa" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Taça de portugal",FC Porto vs Sporting CP 20:45 (beIN SPORTS USA)
+https://lchd-314.zenostreams-cdn-001.com/beinsports.m3u8
 
 #EXTINF:-1 tvg-id="bahiavsremo2300premiererbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Copa do brasil",Bahia vs Remo 23:00 (PREMIERER BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -470,6 +477,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
+#EXTINF:-1 tvg-id="santosvscoritiba2330primevideo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Copa do brasil",Santos vs Coritiba 23:30 (PRIME VIDEO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7ac7bc5acb5cfcc624185a711db0522:9caf2138e40bc655c6d80f48e33a0d13
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rhslrrr7iv/out/v1/73e024d9565c4618b94e0f5731cf56be/cenc.mpd
 
 #EXTINF:-1 tvg-id="miamimarlinsvscardinals1710mlblivefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Miami Marlins vs Cardinals 17:10 (MLB LIVE FHD)
 https://cdn.damitv.live/ppv-extract/proxy?url=https%3A%2F%2Fnetanyahu.modifiles.fans%2Fsecure%2FeUoAPvXqAmxUyDIAZEFmycbbnDlWbwpn%2F1776863400%2F1776894000%2Fmiamimarlins%2Ftracks-v1a1%2Fmono.ts.m3u8

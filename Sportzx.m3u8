@@ -147,19 +147,13 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
 
 #EXTINF:-1 tvg-id="bangladeshvsnewzealand0600tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Bangladesh vs New Zealand 06:00 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1 tvg-id="bangladeshvsnewzealand0600fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Bangladesh vs New Zealand 06:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#EXTINF:-1 tvg-id="bangladeshvsnewzealand0600tsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Bangladesh vs New Zealand 06:00 (T SPORTS - HD)
-http://sm-monirul.top/AyNa/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
-
-#EXTINF:-1 tvg-id="bangladeshvsnewzealand0600tntsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Bangladesh vs New Zealand 06:00 (TNT SPORTS SD)
-https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/1644.m3u8
 
 #EXTINF:-1 tvg-id="ipl011500primevideo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 01 15:00 (PRIME VIDEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -310,8 +304,8 @@ https://lchd-314.zenostreams-cdn-001.com/nba-1.m3u8
 #EXTINF:-1 tvg-id="detroitpistons0000hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Detroit Pistons 00:00 (HD SERVER)
 https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="phoenixsuns0230spxnbalive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Phoenix Suns 02:30 (SPX NBA LIVE)
-https://streamfree-scrapper.onrender.com/api/stream/basketball/portlandtrailblazersvssanantoniospurs.m3u8
+#EXTINF:-1 tvg-id="phoenixsuns0230nbalivefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Phoenix Suns 02:30 (NBA LIVE FHD)
+https://lchd-314.zenostreams-cdn-001.com/nba-1.m3u8
 
 #EXTINF:-1 tvg-id="phoenixsuns0230hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Phoenix Suns 02:30 (HD SERVER)
 https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8
@@ -319,11 +313,14 @@ https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="philadelphiaflyers0000hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Philadelphia Flyers 00:00 (HD SERVER)
 https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="minnesotawild0230nhllivefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Minnesota Wild 02:30 (NHL LIVE FHD)
+https://lchd-314.zenostreams-cdn-001.com/nhl-on-tnt.m3u8
+
 #EXTINF:-1 tvg-id="minnesotawild0230hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Minnesota Wild 02:30 (HD SERVER)
 https://instreams.pro/US/NHL2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="edmontonoilers0300spxnhllive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Edmonton Oilers 03:00 (SPX NHL LIVE)
-https://streamfree-scrapper.onrender.com/api/stream/hockey/utahmammothvsvegasgoldenknights.m3u8
+#EXTINF:-1 tvg-id="edmontonoilers0300nhllivefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Edmonton Oilers 03:00 (NHL LIVE FHD)
+https://lchd-314.zenostreams-cdn-001.com/aew.m3u8
 
 #EXTINF:-1 tvg-id="edmontonoilers0300hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Edmonton Oilers 03:00 (HD SERVER)
 https://instreams.pro/US/NHL3/tracks-v1a1/mono.m3u8
@@ -353,6 +350,21 @@ https://sf-scrapper-hzma.onrender.com/api/stream/soccer/manchester-city-vs-burnl
 
 #EXTINF:-1 tvg-id="sunderlandvsnottinghamforest2000usanetwork" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Nottingham Forest 20:00 (USA NETWORK)
 https://xstm.250909.cc/live/SPORTSFLUX-PRD-21391-1/74fe43073c5f/195.m3u8
+
+#EXTINF:-1 tvg-id="realsaltlakevsintermiami0240appletvhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mls 🇺🇸",Real Salt Lake vs Inter Miami 02:40 (APPLE  TV HD)
+https://lchd-314.zenostreams-cdn-001.com/mls-1.m3u8
+
+#EXTINF:-1 tvg-id="realsaltlakevsintermiami0240mlstvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mls 🇺🇸",Real Salt Lake vs Inter Miami 02:40 (MLS TV FHD)
+https://602.intelsystech.com.br/mls.m3u8
+
+#EXTINF:-1 tvg-id="atlasfcvstigresuanl0200tudnusahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Liga mx",Atlas FC vs Tigres UANL 02:00 (TUDN USA HD)
+https://futbol9865.ultratv13.workers.dev/deportivo111/68.m3u8
+
+#EXTINF:-1 tvg-id="sanluisvssantoslaguna0200espnmxhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Liga mx",San Luis vs Santos Laguna 02:00 (ESPN MX HD)
+https://futbol9865.ultratv13.workers.dev/deportivo111/97.m3u8
+
+#EXTINF:-1 tvg-id="mazatlanvstoluca0200azteca7mx" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Liga mx",Mazatlan vs Toluca 02:00 (Azteca 7 MX)
+https://futbol9865.ultratv13.workers.dev/deportivo111/108.m3u8
 
 #EXTINF:-1 tvg-id="atalantavslazio2000fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Coppa italia 🇮🇹",Atalanta vs Lazio 20:00 (FUBO SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

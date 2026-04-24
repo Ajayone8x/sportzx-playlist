@@ -297,8 +297,17 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #EXTINF:-1 tvg-id="baakehirfkvskasmpaa1800beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Başakşehir FK vs Kasımpaşa 18:00 (beIN SPORTS SD)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 
+#EXTINF:-1 tvg-id="kaiserslauternvsbraunschweig1730skybundesligahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Kaiserslautern vs Braunschweig 17:30 (SKY BUNDESLIGA HD)
+https://lb1.wfty.wtf/playlist/c1a8a1c60f513d61200429b7ff71a825/easy/kaiserslautern-tsv-eintracht-braunschweig/1/747294/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kaiserslauternvsbraunschweig1730sportzxtvhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Kaiserslautern vs Braunschweig 17:30 (SportzX TV  HD)
+https://lb2.wfty.wtf/playlist/7b4b2cd3bb6340198b287b839a4902c5/prime/kaiserslautern-tsv-eintracht-braunschweig/1/747294/playlist.m3u8
+
 #EXTINF:-1 tvg-id="kaiserslauternvsbraunschweig1730skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Kaiserslautern vs Braunschweig 17:30 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="fortunavsdynamodresden1730skybundesligahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Fortuna vs Dynamo Dresden 17:30 (SKY BUNDESLIGA HD)
+https://lb1.wfty.wtf/playlist/1ae1c6b69bf6f39b487ef36c01387657/easy/fortuna-dusseldorf-dynamo-dresden/1/747296/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fortunavsdynamodresden1730skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Fortuna vs Dynamo Dresden 17:30 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8

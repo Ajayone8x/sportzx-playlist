@@ -405,9 +405,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
-#EXTINF:-1 tvg-id="deportivoalavsvsmallorca1300espndeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Deportivo Alavés vs Mallorca 13:00 (ESPN DEPORTES)
-https://smarthard.click/hls/sabrouchtntsportsarg/index.m3u8
-
 #EXTINF:-1 tvg-id="getafevsbarcelona1515beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Getafe vs Barcelona 15:15 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
@@ -541,20 +538,11 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
-#EXTINF:-1 tvg-id="herthabscvsholsteinkiel1200bundesligahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Hertha BSC vs Holstein Kiel 12:00 (BUNDESLIGA HD)
-https://lb6.wfty.wtf/playlist/rvtExZf0LYO8Y76rRF2rMg/prime/hertha-berlin-holstein-kiel/2/4829926/1777133903/playlist.m3u8
-
 #EXTINF:-1 tvg-id="herthabscvsholsteinkiel1200skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Hertha BSC vs Holstein Kiel 12:00 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="karlsruherscvshannover961200bundesligahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Karlsruher SC vs Hannover 96 12:00 (BUNDESLIGA HD)
-https://lb6.wfty.wtf/playlist/8KDqOfPSS5vJ2TUV5ivAnA/easy/karlsruher-hannover/1/4464449/1777136725/playlist.m3u8
-
 #EXTINF:-1 tvg-id="karlsruherscvshannover961200skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Karlsruher SC vs Hannover 96 12:00 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="preuenmnstervsarminiabielefeld1200bundesligahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Preußen Münster vs Arminia Bielefeld 12:00 (BUNDESLIGA HD)
-https://lb5.wfty.wtf/playlist/k7jGqD-YSiI4ls9z8ca7PA/prime/preu-en-munster-arminia-bielefeld/2/4829931/1777134768/playlist.m3u8
 
 #EXTINF:-1 tvg-id="preuenmnstervsarminiabielefeld1200skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Preußen Münster vs Arminia Bielefeld 12:00 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8

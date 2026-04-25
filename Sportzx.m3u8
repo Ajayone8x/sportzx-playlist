@@ -188,10 +188,10 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="ipl011100starsportshin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 01 11:00 (Star Sports  HIN )
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 
-#EXTINF:-1 tvg-id="ipl021500willowengaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 02 15:00 (WILLOW ENG - AQ)
+#EXTINF:-1 tvg-id="ipl021500willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 02 15:00 (WILLOW  Ad-Free )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=660b12ab9ff8f5d7a9c9e87d2cd0ac3a:562d1d0574a3d3ea6a85e2500867d4dd
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rqeiuwqk87/out/v1/4aacfa3131784ba886ebb2d520581f01/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=dedbf883004d1468d70fb008ff2430d0:ac7928fcd566ddebdf2b63cb4d1daeb6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpspuirqoc/out/v1/a047840f50a84f47ba6d765d910ffc5b/cenc.mpd
 
 #EXTINF:-1 tvg-id="ipl021500skycrichd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 02 15:00 (SKY CRIC HD)
 https://vsd273.okcdn.ru/cmaf/15486383098623/sig/12CtEuwN3v8/expires/1776947340856/srcIp/152.59.145.24/urls/185.226.55.89/clientType/36/srcAg/CHROME/mid/14109681141759/get/hls_14109681141759.wzcVJYGf6DI.m3u8
@@ -448,6 +448,11 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
+#EXTINF:-1 tvg-id="parmavspisa1400foxdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Parma vs Pisa 14:00 (FOX DEPORTES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
 #EXTINF:-1 tvg-id="hellasveronavslecce1945beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Hellas Verona vs Lecce 19:45 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -537,15 +542,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
-#EXTINF:-1 tvg-id="herthabscvsholsteinkiel1200skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Hertha BSC vs Holstein Kiel 12:00 (SKY BUNDESLIGA SD)
-https://instreams.pro/bil2/bundes5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="karlsruherscvshannover961200skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Karlsruher SC vs Hannover 96 12:00 (SKY BUNDESLIGA SD)
-https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="preuenmnstervsarminiabielefeld1200skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Preußen Münster vs Arminia Bielefeld 12:00 (SKY BUNDESLIGA SD)
-https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="darmstadt98vselversberg1930skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Darmstadt 98 vs Elversberg 19:30 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes2/tracks-v1a1/mono.m3u8

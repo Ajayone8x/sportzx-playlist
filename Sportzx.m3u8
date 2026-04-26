@@ -451,3 +451,14 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/
 
 #EXTINF:-1 tvg-id="nrnbergvsmagdeburg1230skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Nürnberg vs Magdeburg 12:30 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="paderbornvsschalke041230skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Paderborn vs Schalke 04 12:30 (SKY BUNDESLIGA SD)
+https://instreams.pro/bil2/bundes2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bochum1848vsgreutherfrth1230skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Bochum 1848 vs Greuther Fürth 12:30 (SKY BUNDESLIGA SD)
+https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="coventrycityvswrexham1200beinenglish2" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Coventry City vs Wrexham 12:00 (beIN ENGLISH 2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd

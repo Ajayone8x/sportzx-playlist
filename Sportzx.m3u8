@@ -247,6 +247,9 @@ https://balkisusuleimanfema.s3.us-west-2.amazonaws.com/TNT.m3u8
 #EXTINF:-1 tvg-id="denvernuggets0330hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Denver Nuggets 03:30 (HD SERVER)
 https://instreams.pro/US/NBA3/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="pittsburghpenguins0000nhllivehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Pittsburgh Penguins 00:00 (NHL LIVE HD)
+https://daffodil.nimesh.eu.cc/nhl.m3u8
+
 #EXTINF:-1 tvg-id="pittsburghpenguins0000hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Pittsburgh Penguins 00:00 (HD SERVER)
 https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
 

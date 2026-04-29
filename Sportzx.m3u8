@@ -236,8 +236,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #EXTINF:-1 tvg-id="losangeleslakers0300hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Los Angeles Lakers 03:00 (HD SERVER)
 https://instreams.pro/US/NBA3/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="alriyadhvsalqadsiah1700thmanyahhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Riyadh vs Al-Qadsiah 17:00 (THMANYAH HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD6737/index.mpd
+
 #EXTINF:-1 tvg-id="alriyadhvsalqadsiah1700sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Riyadh vs Al-Qadsiah 17:00 (SD SERVER)
-http://195.178.110.66/hls/yoooqqq.m3u8
+http://195.178.110.66/hls/CYYY.m3u8
 
 #EXTINF:-1 tvg-id="altaawounvsalittihad1710foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Taawoun vs Al-Ittihad 17:10 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -248,6 +253,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="altaawounvsalittihad1710thmanyahhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Taawoun vs Al-Ittihad 17:10 (THMANYAH HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd
+
+#EXTINF:-1 tvg-id="altaawounvsalittihad1710sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Taawoun vs Al-Ittihad 17:10 (SD SERVER)
+http://195.178.110.66/hls/CYYYQ.m3u8
 
 #EXTINF:-1 tvg-id="alnassrvsalahli1900foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Nassr vs Al-Ahli 19:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -264,6 +277,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
+#EXTINF:-1 tvg-id="alnassrvsalahli1900thmanyahhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Nassr vs Al-Ahli 19:00 (THMANYAH HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd
+
 #EXTINF:-1 tvg-id="tampabaylightning0000hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Tampa Bay Lightning 00:00 (HD SERVER)
 https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
 
@@ -273,7 +291,7 @@ https://instreams.pro/US/NHL2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="goldenknights0300hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Golden Knights 03:00 (HD SERVER)
 https://instreams.pro/US/NHL3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="atlticomadridvsarsenal2000tntsports1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (TNT Sports 1)
+#EXTINF:-1 tvg-id="atlticomadridvsarsenal2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd

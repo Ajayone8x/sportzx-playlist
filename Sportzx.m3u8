@@ -236,32 +236,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #EXTINF:-1 tvg-id="losangeleslakers0300hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Los Angeles Lakers 03:00 (HD SERVER)
 https://instreams.pro/US/NBA3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="alriyadhvsalqadsiah1700thmanyahhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Riyadh vs Al-Qadsiah 17:00 (THMANYAH HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://d1yi40sjj0ca0v.cloudfront.net/TVD6737/index.mpd
-
-#EXTINF:-1 tvg-id="alriyadhvsalqadsiah1700sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Riyadh vs Al-Qadsiah 17:00 (SD SERVER)
-http://195.178.110.66/hls/CYYY.m3u8
-
-#EXTINF:-1 tvg-id="altaawounvsalittihad1710foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Taawoun vs Al-Ittihad 17:10 (FOX SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-
-#EXTINF:-1 tvg-id="altaawounvsalittihad1710foxdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Taawoun vs Al-Ittihad 17:10 (FOX DEPORTES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 tvg-id="altaawounvsalittihad1710thmanyahhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Taawoun vs Al-Ittihad 17:10 (THMANYAH HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd
-
-#EXTINF:-1 tvg-id="altaawounvsalittihad1710sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Taawoun vs Al-Ittihad 17:10 (SD SERVER)
-http://195.178.110.66/hls/CYYYQ.m3u8
-
 #EXTINF:-1 tvg-id="alnassrvsalahli1900foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Nassr vs Al-Ahli 19:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
@@ -296,33 +270,47 @@ https://instreams.pro/US/NHL3/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="atlticomadridvsarsenal2000paramounthd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (PARAMOUNT  HD)
-https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/d6e0bd30861d00a40ef3a010a31c9357/manifest/video.m3u8
-
-#EXTINF:-1 tvg-id="atlticomadridvsarsenal2000vixspanishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (ViX SPANISH FHD)
+#EXTINF:-1 tvg-id="atlticomadridvsarsenal2000setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (SETANTA SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c97b182e199e81a6aabcb94e5667c3d:401e3d498c36085b82de442aa66f3341
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dreuxu0g6z/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ee62f7a517fc400da51b8cc0e2b9acb6:e03342544ac547489007808ff2036361
+https://adjara-live-eu.akamaized.net/exp=1777574626~acl=%2f*~id=31b85b0f-f453-4918-bcbf-7c920dc5a367~data=hdntl,aXA9MTI0LjIxNy44Ny4xNTImZXhwPTE3Nzc0ODgyNTUmZWlkPTk1MDU0NiZvaWQ9MTAyJnR5cGU9Vk9EJnVpZD1FejRBZTd8NDg1ZjM2ZGYtNWM2Ni00YmFkLThlNTktNWI4NjMzZjM2NDc5JmNpZD1kY2UuYWRqYXJhJnB0PW51bGw~hmac=199bf04cbcc6faee77900df0014c4465ecba5cbc09bae9d49d1715356483f53a/dash/live/2019682/302089-320759/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="atlticomadridvsarsenal2000cbssportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (CBS SPORTS - AQ)
+https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/b5d5801b00e60a1a0a558a488419d2bd/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="atlticomadridvsarsenal2000tntbrasilfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (TNT BRASIL FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97c2b059423c98db26ff95d9de16668a:734fe0053f7cafb41ab85a0c9ade81ab
+https://a46live-pv-ta-amazon.akamaized.net/gru-nitro/live/clients/dash/enc/sfutzp2s5h/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="atlticomadridvsarsenal2000vixspanishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (VIX SPANISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f012c54fb01638c07d5ddae643852a9:1da70021a6571355698dab8f52548ff5
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fr3xhp5crv/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd
 
 #EXTINF:-1 tvg-id="atlticomadridvsarsenal2000paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (PARAMOUNT  AQ)
-https://balkisusuleimanfema.s3.us-west-2.amazonaws.com/btsport.m3u8
+https://romoramad.s3.us-east-1.amazonaws.com/btsport.m3u8
+
+#EXTINF:-1 tvg-id="atlticomadridvsarsenal2000cbssportsfast" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (CBS SPORTS FAST)
+https://storage.googleapis.com/bguytiughewf1/mux_video_ts1/index-1.m3u8
 
 #EXTINF:-1 tvg-id="atlticomadridvsarsenal2000hbomaxbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (HBO MAX BR)
-https://image-storage-31.imgcontent.xyz/live/psgxbayern/index.m3u8
+https://image-storage-31.imgcontent.xyz/live/atletico-de-madrid-x-arsenal/index.m3u8
 
-#EXTINF:-1 tvg-id="atlticomadridvsarsenal2000skysportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (SKY SPORTS HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://d1yi40sjj0ca0v.cloudfront.net/TVD233/index.mpd
+#EXTINF:-1 tvg-id="atlticomadridvsarsenal2000premiersportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (PREMIER SPORTS HD)
+https://601.ceylonnet.com/arsenal.m3u8
+
+#EXTINF:-1 tvg-id="atlticomadridvsarsenal2000tudnusahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (TUDN USA HD)
+https://601.shoncine.com/tudn.m3u8
 
 #EXTINF:-1 tvg-id="atlticomadridvsarsenal2000sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (SonyLiv  ENG )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/UCL_PSG_2804/ENG/master.m3u8
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UCL_Atle2904/ENG/master.m3u8
 
 #EXTINF:-1 tvg-id="atlticomadridvsarsenal2000sonylivhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (SonyLiv  HIN )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/UCL_PSG_2804/HIN/master.m3u8
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UCL_Atle2904/HIN/master.m3u8
 
 #EXTINF:-1 tvg-id="atlticomadridvsarsenal2000beinsportsar" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Atlético Madrid vs Arsenal 20:00 (beIN SPORTS AR)
-https://8syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8
+https://10syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8
 
 #EXTINF:-1 tvg-id="losangelesvscdtoluca0330foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Los Angeles vs CD Toluca 03:30 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -236,19 +236,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #EXTINF:-1 tvg-id="minnesotatimberwolves0230hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Minnesota Timberwolves 02:30 (HD SERVER)
 https://instreams.pro/US/NBA3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="alokhdoodvsalettifaq1700thmanyahhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Okhdood vs Al-Ettifaq 17:00 (THMANYAH HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd
-
-#EXTINF:-1 tvg-id="alokhdoodvsalettifaq1700sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Okhdood vs Al-Ettifaq 17:00 (SD SERVER)
-http://193.47.62.190/hls/kdddqqqqqq.m3u8
-
-#EXTINF:-1 tvg-id="alkholoodvsalfayha1900thmanyahhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Kholood vs Al-Fayha 19:00 (THMANYAH HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd
-
 #EXTINF:-1 tvg-id="minnesotawild0030hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Minnesota Wild 00:30 (HD SERVER)
 https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
 

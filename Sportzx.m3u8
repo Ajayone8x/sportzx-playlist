@@ -225,12 +225,6 @@ http://195.178.110.66/hls/CYYY.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd
 
-#EXTINF:-1 tvg-id="goldenknights0300nhllivehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Golden Knights 03:00 (NHL LIVE HD)
-https://daffodil.ceylonnet.com/nhl.m3u8
-
-#EXTINF:-1 tvg-id="goldenknights0300hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Golden Knights 03:00 (HD SERVER)
-https://instreams.pro/US/NHL3/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="nottinghamforestvsastonvilla2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Nottingham Forest vs Aston Villa 20:00 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b

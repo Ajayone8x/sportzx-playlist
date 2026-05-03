@@ -286,8 +286,11 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
-#EXTINF:-1 tvg-id="celtavigovselche1300espndeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Celta Vigo vs Elche 13:00 (ESPN DEPORTES)
-https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
+#EXTINF:-1 tvg-id="celtavigovselche1300mlaligahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Celta Vigo vs Elche 13:00 (M  Laliga HD)
+https://instreams.pro/EU/HDTV8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="celtavigovselche1300sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Celta Vigo vs Elche 13:00 (SD SERVER)
+https://instreams.pro/bil1/beinlaliga/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="getafevsrayovallecano1515beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Getafe vs Rayo Vallecano 15:15 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -480,6 +483,9 @@ https://instreams.pro/bil1/ligtv1/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
+#EXTINF:-1 tvg-id="hibernianvsceltic1200cbssportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Scottish premiership",Hibernian vs Celtic 12:00 (CBS SPORTS FHD)
+https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJjYnMtc3BvcnRzLW5ldHdvcmsiLCJleHAiOjE3Nzc4MTY2MTR9.YCLKISdQvR0CULZIXhawDa3CW1fDsTr703nr6X1X_0A/cbs-sports-network.m3u8
+
 #EXTINF:-1 tvg-id="hibernianvsceltic1200sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Scottish premiership",Hibernian vs Celtic 12:00 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
@@ -504,3 +510,38 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="elversbergvspaderborn1230skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Elversberg vs Paderborn 12:30 (SKY BUNDESLIGA SD)
+https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="elversbergvspaderborn1230skybundesligahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Elversberg vs Paderborn 12:30 (SKY BUNDESLIGA HD)
+https://instreams.pro/EU/HDTV15/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="magdeburgvsherthabsc1230elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Magdeburg vs Hertha BSC 12:30 (ELEVEN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59
+https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
+
+#EXTINF:-1 tvg-id="magdeburgvsherthabsc1230skybundesligahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Magdeburg vs Hertha BSC 12:30 (SKY BUNDESLIGA HD)
+https://instreams.pro/EU/HDTV15/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="magdeburgvsherthabsc1230skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Magdeburg vs Hertha BSC 12:30 (SKY BUNDESLIGA SD)
+https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="karlsruhervsdarmstadt981230skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Karlsruher vs Darmstadt 98 12:30 (SKY BUNDESLIGA SD)
+https://instreams.pro/bil2/bundes6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="hannovervsmnster1230skybundesligahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Hannover vs Münster 12:30 (SKY BUNDESLIGA HD)
+https://instreams.pro/EU/HDTV17/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="hannovervsmnster1230skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Hannover vs Münster 12:30 (SKY BUNDESLIGA SD)
+https://instreams.pro/bil2/bundes5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="greutherfrthvsnrnberg1230skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Greuther Fürth vs Nürnberg 12:30 (SKY BUNDESLIGA SD)
+https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="greutherfrthvsnrnberg1230skybundesligahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Greuther Fürth vs Nürnberg 12:30 (SKY BUNDESLIGA HD)
+https://instreams.pro/EU/HDTV16/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="yankeesvsbaltimoreorioles1835lowquality" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Yankees vs Baltimore Orioles 18:35 (LOW QUALITY)
+https://d.koltcddqq.shop/hls/JWWWQ.m3u8

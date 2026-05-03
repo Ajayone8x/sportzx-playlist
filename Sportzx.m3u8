@@ -1,55 +1,55 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="formula11750skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:50 (SKY SPORTS FHD)
+#EXTINF:-1 tvg-id="formula11730skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
 https://dice-live-oc.akamaized.net/hdntl=exp=1777909489~acl=%2f*~id=b77eb585-70bb-4b92-824f-cbd87312047c~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM2NjQzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=65d5d1abb802159ed195e8e88247316ef382ad1a555c76bb7f4e0c5732a73e72/dash/live/2093749/219026-314033/manifest-d.mpd
 
-#EXTINF:-1 tvg-id="formula11750tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:50 (TSN SPORTS FHD)
+#EXTINF:-1 tvg-id="formula11730tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula11750fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:50 (FANCODE FHD)
+#EXTINF:-1 tvg-id="formula11730fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula11750skysports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:50 (SKY SPORTS 4k)
+#EXTINF:-1 tvg-id="formula11730skysports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (SKY SPORTS 4k)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6
 https://dice-live-oc.akamaized.net/hdntl=exp=1777909488~acl=%2f*~id=c4e7285a-4b85-4cf8-9113-5cf0fce56b08~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM5MjI1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=40072fb54ef71544d38ffffae7cb690792baf750f07976a0840b74a8ee2ed6b2/dash/live/2093666/294921-318514/manifest-d.mpd
 
-#EXTINF:-1 tvg-id="formula11750appletvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:50 (APPLE TV FHD)
+#EXTINF:-1 tvg-id="formula11730appletvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (APPLE TV FHD)
 https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJmMS1vbi1hcHBsZSIsImV4cCI6MTc3Nzg0MjA4Mn0.wI57eSX4ERHx1ckODNCWFCUfEb3bE91t_6Cw0ORtF80/f1-on-apple.m3u8
 
-#EXTINF:-1 tvg-id="formula11750skysportf1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:50 (SKY SPORT F1)
+#EXTINF:-1 tvg-id="formula11730skysportf1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (SKY SPORT F1)
 https://storage.googleapis.com/bakuknhertyung4/mux_video_ts1/index-1.m3u8
 
-#EXTINF:-1 tvg-id="formula11750skyf1aq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:50 (SKY F1 - AQ)
+#EXTINF:-1 tvg-id="formula11730skyf1aq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (SKY F1 - AQ)
 https://rifusfcollins.s3.us-east-1.amazonaws.com/sportsnet.m3u8
 
-#EXTINF:-1 tvg-id="formula11750elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:50 (ELEVEN SPORTS)
+#EXTINF:-1 tvg-id="formula11730elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59
 https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
 
-#EXTINF:-1 tvg-id="formula11750canalhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:50 (CANAL  HD)
+#EXTINF:-1 tvg-id="formula11730canalhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (CANAL  HD)
 https://instreams.pro/EU/HDTV25/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="formula11750skyf1de" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:50 (Sky F1 DE)
+#EXTINF:-1 tvg-id="formula11730skyf1de" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (Sky F1 DE)
 https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="formula11750daznessd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:50 (DAZN ES SD)
+#EXTINF:-1 tvg-id="formula11730daznessd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (DAZN ES SD)
 https://smarthard.click/hls/RdKfpotjL5g/index.m3u8
 
-#EXTINF:-1 tvg-id="formula11750f1tvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:50 (F1 TV FHD)
+#EXTINF:-1 tvg-id="formula11730f1tvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (F1 TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula11750foxsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:50 (Fox Sports - AQ)
+#EXTINF:-1 tvg-id="formula11730foxsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (Fox Sports - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
@@ -199,18 +199,13 @@ https://bd-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-d
 #EXTINF:-1 tvg-id="psl011600fancodeind" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Psl",PSL 01 16:00 (FANCODE (IND))
 https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="detroitpistons2030tsn4" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Detroit Pistons 20:30 (TSN 4)
+#EXTINF:-1 tvg-id="detroitpistons2030tsnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Detroit Pistons 20:30 (TSN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 #EXTINF:-1 tvg-id="detroitpistons2030hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Detroit Pistons 20:30 (HD SERVER)
 https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="clevelandcavaliers0030tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cleveland Cavaliers 00:30 (TSN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
 #EXTINF:-1 tvg-id="clevelandcavaliers0030hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cleveland Cavaliers 00:30 (HD SERVER)
 https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8
@@ -234,11 +229,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd
-
-#EXTINF:-1 tvg-id="tampabaylightning2300premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Tampa Bay Lightning 23:00 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
 #EXTINF:-1 tvg-id="tampabaylightning2300hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Tampa Bay Lightning 23:00 (HD SERVER)
 https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
@@ -303,8 +293,10 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
-#EXTINF:-1 tvg-id="espanyolvsrealmadrid2000espndeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Espanyol vs Real Madrid 20:00 (ESPN DEPORTES)
-https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
+#EXTINF:-1 tvg-id="espanyolvsrealmadrid2000fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Espanyol vs Real Madrid 20:00 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 tvg-id="juventusvshellasverona1700beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Juventus vs Hellas Verona 17:00 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -382,6 +374,16 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="athleticsvsclevelandguardians2105tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Athletics vs Cleveland Guardians 21:05 (TNT SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="seattlemarinersvsroyals2110tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Seattle Mariners vs Royals 21:10 (TNT SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 tvg-id="flamengovsvasco2000premiererbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Flamengo vs Vasco 20:00 (PREMIERER BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

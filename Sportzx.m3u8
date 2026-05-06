@@ -175,28 +175,98 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="ipl011500starsportshin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 01 15:00 (Star Sports  HIN )
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 
+#EXTINF:-1 tvg-id="philadelphia76ers0000tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Philadelphia 76ers 00:00 (TSN SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="philadelphia76ers0000tsnsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Philadelphia 76ers 00:00 (TSN SPORTS HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+
+#EXTINF:-1 tvg-id="philadelphia76ers0000hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Philadelphia 76ers 00:00 (HD SERVER)
+https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="minnesotatimberwolves0230hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Minnesota Timberwolves 02:30 (HD SERVER)
+https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="alahlivsalfateh1900thmanyahhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Ahli vs Al-Fateh 19:00 (THMANYAH HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd
 
-#EXTINF:-1 tvg-id="bayernvspsg2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (TNT SPORTS FHD)
+#EXTINF:-1 tvg-id="buffalosabres0000premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Buffalo Sabres 00:00 (PREMIER SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-id="buffalosabres0000hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Buffalo Sabres 00:00 (HD SERVER)
+https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bayernvspsg2000tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="bayernvspsg2000setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (SETANTA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25cd285194cc41a0be94c9b33fb344a5:f5064de56bc24304be98258de84e4a9f
+https://adjara-live-eu.akamaized.net/exp=1778179489~acl=%2f*~id=efbfd37b-3fb1-4ffb-839c-cd1305c69e94~data=hdntl,aXA9ODIuMTQwLjE4Ny4yOCZleHA9MTc3ODA5MzExMyZlaWQ9OTUxODk3Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=393c9ea8e4c7a83e6ac6f45785d40de0c1c0431c08a801b237aa9d8ac62c53bb/dash/live/2019616/302465-321137/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="bayernvspsg2000tntbrasilfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (TNT BRASIL FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5933bd605eb7a1e5b8403eb374d6d60b:8eb13c287f71e94d40f604cd12e35d7b
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/btrchvjt1v/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="bayernvspsg2000vixspanishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (ViX SPANISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbe2bb1c0a60bc1434a289049fdbba71:e8ec5845316f530303c51f967220ed28
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mxtcqpemg9/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd
+
+#EXTINF:-1 tvg-id="bayernvspsg2000paramountmq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (PARAMOUNT  MQ)
+https://customer-fs1fh3v94c4r9bi3.cloudflarestream.com/a9ca1c400592bd44c595658c044c962b/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="bayernvspsg2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (TNT SPORTS FHD)
+https://cdn-1.ttvb.eu.org/api/TNT-Sports-1/index.m3u8
+
+#EXTINF:-1 tvg-id="bayernvspsg2000paramountfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (PARAMOUNT  FHD)
+https://bhghgh.gbgdhdffhf.shop/uefa-1.m3u8
+
+#EXTINF:-1 tvg-id="bayernvspsg2000paramounthd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (PARAMOUNT  HD)
+https://storage.googleapis.com/qtyngheroverbrix1/mux_video_ts1/index-1.m3u8
 
 #EXTINF:-1 tvg-id="bayernvspsg2000daznsportsde" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (DAZN SPORTS DE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd
 
+#EXTINF:-1 tvg-id="bayernvspsg2000hbomaxbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (HBO MAX BR)
+https://image-storage-31.imgcontent.xyz/live/bayern-de-munique-x-psg/index.m3u8
+
 #EXTINF:-1 tvg-id="bayernvspsg2000sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (SonyLiv  ENG )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/UCL_Athl0505/ENG/master.m3u8
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Bayern_v0605/ENG/master.m3u8
 
 #EXTINF:-1 tvg-id="bayernvspsg2000sonylivhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (SonyLiv  HIN )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/UCL_Athl0505/HIN/master.m3u8
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Bayern_v0605/HIN/master.m3u8
+
+#EXTINF:-1 tvg-id="bayernvspsg2000beckhamwatchalong" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (Beckham Watch Along)
+https://bhghgh.gbgdhdffhf.shop/uefa-2.m3u8
+
+#EXTINF:-1 tvg-id="bayernvspsg2000beinsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (beIN SPORTS FHD)
+https://17syrialive.s3.eu-central-1.amazonaws.com/bein1/master.m3u8
 
 #EXTINF:-1 tvg-id="tolucavslosangeles0230foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Toluca vs Los Angeles 02:30 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+
+#EXTINF:-1 tvg-id="cuscovsestudiantes2300sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Con. libertadores",Cusco vs Estudiantes 23:00 (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="deportestolimavsnacional0300ligue1hd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Con. libertadores",Deportes Tolima vs Nacional 03:00 (LIGUE1  HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD2088/index.mpd

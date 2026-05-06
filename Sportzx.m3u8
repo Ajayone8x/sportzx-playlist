@@ -175,88 +175,18 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="ipl011500starsportshin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 01 15:00 (Star Sports  HIN )
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 
-#EXTINF:-1 tvg-id="detroitpistons0000nbaliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Detroit Pistons 00:00 (NBA LIVE - AQ)
-https://rifusfcollins.s3.us-east-1.amazonaws.com/btsport.m3u8
-
-#EXTINF:-1 tvg-id="detroitpistons0000hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Detroit Pistons 00:00 (HD SERVER)
-https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="oklahomacitythunder0130tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Oklahoma City Thunder 01:30 (TSN SPORTS FHD)
+#EXTINF:-1 tvg-id="bayernvspsg2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="oklahomacitythunder0130tsnsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Oklahoma City Thunder 01:30 (TSN SPORTS HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-
-#EXTINF:-1 tvg-id="oklahomacitythunder0130hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Oklahoma City Thunder 01:30 (HD SERVER)
-https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="coloradoavalanche0100premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Colorado Avalanche 01:00 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="coloradoavalanche0100hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Colorado Avalanche 01:00 (HD SERVER)
-https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="arsenalvsatlticomadrid2000amazonprimefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Atlético Madrid 20:00 (AMAZON PRIME FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=680a24e3d3785ea8b3a33a56928ea128:3f07a7f94f0ac7ee96057224b6a4163d
-https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/6sdrohc6nu/out/v1/f2e4108696b347a1b2440b948a3a6abf/cenc.mpd
-
-#EXTINF:-1 tvg-id="arsenalvsatlticomadrid2000setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Atlético Madrid 20:00 (SETANTA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62139d9d54cb4d9d9efc8371960fdef2:c8f6563dabdd40ccaf1077027819d1eb
-https://adjara-live-eu.akamaized.net/exp=1778092902~acl=%2F*~id=eec7b1d4-ba46-41f8-a676-5511099263af~data=hdntl,aXA9MTgwLjE5MC4xMjkuMTk3JmV4cD0xNzc4MDA2NTMyJmVpZD05NTMwNTgmb2lkPTEwMiZ0eXBlPVZPRCZ1aWQ9RXo0QWU3fDQ4NWYzNmRmLTVjNjYtNGJhZC04ZTU5LTViODYzM2YzNjQ3OSZjaWQ9ZGNlLmFkamFyYSZwdD1udWxs~hmac=5292b49e7ae46b9bb47f7c52cbb7819d425fa3d511d2840541b38d459560bc02/dash/live/2019598/302464-321126/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="arsenalvsatlticomadrid2000tntbrasilfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Atlético Madrid 20:00 (TNT BRASIL FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=833c25ef8498d93b2ce35443b10f892c:bc703292aefed912c02976273e5e3c63
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ut7mlye5xp/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
-
-#EXTINF:-1 tvg-id="arsenalvsatlticomadrid2000vixspanishaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Atlético Madrid 20:00 (VIX SPANISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89f8296d837d332a6aa9055bbb1eccdc:a43cee3f804235986bd0443f775fa568
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w9ebcxzrc0/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd
-
-#EXTINF:-1 tvg-id="arsenalvsatlticomadrid2000paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Atlético Madrid 20:00 (PARAMOUNT  AQ)
-https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/7b2add8f6c990c9e43454caedce67487/manifest/video.m3u8
-
-#EXTINF:-1 tvg-id="arsenalvsatlticomadrid2000paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Atlético Madrid 20:00 (PARAMOUNT  AQ)
-https://cors.x-sure.co/https://dai.google.com/linear/hls/event/OY8m8F7CSa-bgQkjhk5jnw/master.m3u8
-
-#EXTINF:-1 tvg-id="arsenalvsatlticomadrid2000skysportaustria" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Atlético Madrid 20:00 (Sky Sport Austria)
+#EXTINF:-1 tvg-id="bayernvspsg2000daznsportsde" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (DAZN SPORTS DE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
-https://d1yi40sjj0ca0v.cloudfront.net/TVD233/index.mpd
+https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd
 
-#EXTINF:-1 tvg-id="arsenalvsatlticomadrid2000paramounthd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Atlético Madrid 20:00 (PARAMOUNT  HD)
-https://storage.googleapis.com/qweunigeing1/mux_video_ts1/index-1.m3u8
-
-#EXTINF:-1 tvg-id="arsenalvsatlticomadrid2000hbomaxbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Atlético Madrid 20:00 (HBO MAX BR)
-https://image-storage-31.imgcontent.xyz/live/arsenal-x-atletico-de-madrid/index.m3u8
-
-#EXTINF:-1 tvg-id="arsenalvsatlticomadrid2000sportzxliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Atlético Madrid 20:00 (SportzX Live - AQ)
-https://rifusfcollins.s3.us-east-1.amazonaws.com/btsport.m3u8
-
-#EXTINF:-1 tvg-id="arsenalvsatlticomadrid2000premiersportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Atlético Madrid 20:00 (PREMIER SPORTS HD)
-https://601.sraspers.org/arsenal.m3u8
-
-#EXTINF:-1 tvg-id="arsenalvsatlticomadrid2000sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Atlético Madrid 20:00 (SonyLiv  ENG )
+#EXTINF:-1 tvg-id="bayernvspsg2000sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (SonyLiv  ENG )
 https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/UCL_Athl0505/ENG/master.m3u8
 
-#EXTINF:-1 tvg-id="arsenalvsatlticomadrid2000sonylivhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Arsenal vs Atlético Madrid 20:00 (SonyLiv  HIN )
+#EXTINF:-1 tvg-id="bayernvspsg2000sonylivhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bayern vs PSG 20:00 (SonyLiv  HIN )
 https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/UCL_Athl0505/HIN/master.m3u8
-
-#EXTINF:-1 tvg-id="tigresuanlvsnashville0230foxsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Concacaf cup 🇺🇸",Tigres UANL vs Nashville 02:30 (FOX SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-
-#EXTINF:-1 tvg-id="alwaysreadyvslans0130ligue1hd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Con. libertadores",Always Ready vs Lanús 01:30 (LIGUE1  HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://d1yi40sjj0ca0v.cloudfront.net/TVD2088/index.mpd

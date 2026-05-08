@@ -78,6 +78,22 @@ https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="motogp0945canalhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Motogp",MotoGP 09:45 (CANAL  HD)
 https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="ufc2200tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ufc",UFC 22:00 (TNT Sports)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="ufc2200sportzxufc" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ufc",UFC 22:00 (SportzX UFC)
+https://indiasmellsverybad.xyz/live/ufc-on-espn-73-royval-vs-kape720p/index.m3u8
+
+#EXTINF:-1 tvg-id="ufc2200fastserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ufc",UFC 22:00 (FAST Server)
+https://cdn1.dtplumber.cfd/live/cdn1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ufc2200ufcaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ufc",UFC 22:00 (UFC  - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
+
 #EXTINF:-1 tvg-id="onefridayfights1301330onefightaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",ONE Friday Fights 130 13:30 (One Fight - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
@@ -148,15 +164,30 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 tvg-id="wwe0100backupsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE 01:00 (BACKUP SD)
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
 
+#EXTINF:-1 tvg-id="bangladeshvspakistan0500willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Bangladesh vs Pakistan 05:00 (WILLOW  Ad-Free )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3c6dcd8c0211c4ae43a9e91417ab3e0:48b8eb26027c0eb2c9655cf1f68bf455
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oel2fnzvjx/out/v1/77f22dcc960c4aa6a62392c552ec2930/cenc.mpd
+
+#EXTINF:-1 tvg-id="bangladeshvspakistan0500premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Bangladesh vs Pakistan 05:00 (PREMIER SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
 #EXTINF:-1 tvg-id="bangladeshvspakistan0500fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Bangladesh vs Pakistan 05:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="bangladeshvspakistan0500willowlq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Bangladesh vs Pakistan 05:00 (WILLOW - LQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f991f8d21990530ccd469179be41b367:7ec9beccf0a7834aeffd27c566a87fe7
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ha6eigwvps/out/v1/b5438f60c0e542668e392b9d4ab615cf/cenc-sd.mpd
 
 #EXTINF:-1 tvg-id="bangladeshvspakistan0500fancodesd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Bangladesh vs Pakistan 05:00 (FANCODE - SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 
 #EXTINF:-1 tvg-id="ipl011500primevideo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 01 15:00 (PRIME VIDEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -185,15 +216,6 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="ipl011500starsportshin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 01 15:00 (Star Sports  HIN )
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 
-#EXTINF:-1 tvg-id="oklahomacitythunder0230nbalivefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Oklahoma City Thunder 02:30 (NBA LIVE FHD)
-https://daffodil.lphone.support/nba.m3u8
-
-#EXTINF:-1 tvg-id="oklahomacitythunder0230hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Oklahoma City Thunder 02:30 (HD SERVER)
-https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="philadelphiaflyers0100hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Philadelphia Flyers 01:00 (HD SERVER)
-https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="liverpoolvschelsea1230tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
@@ -209,3 +231,81 @@ https://cdn-1.ttvb.eu.org/api/TNT-Sports-1/index.m3u8
 
 #EXTINF:-1 tvg-id="liverpoolvschelsea1230sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (SonyLiv  ENG )
 https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/UEFA_Eur0705/ENG/master.m3u8
+
+#EXTINF:-1 tvg-id="sunderlandvsmanchesterunited1500novasportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Manchester United 15:00 (NOVA SPORTS PL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd
+
+#EXTINF:-1 tvg-id="manchestercityvsbrentford1730tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Brentford 17:30 (TNT SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="manchestercityvsbrentford1730vixspanishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Brentford 17:30 (VIX SPANISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ba2e290f682b30416182bc363a660a1:f2b3686e840c38fbdbea8c9a01b6638d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3pxu2gzore/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd
+
+#EXTINF:-1 tvg-id="manchestercityvsbrentford1730sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Brentford 17:30 (SonyLiv  ENG )
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/Football0705/ENG/master.m3u8
+
+#EXTINF:-1 tvg-id="fulhamvsbournemouth1500vixspanishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Bournemouth 15:00 (VIX SPANISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=055a60e4c666c2100d35e208fa8674a4:8635d0eb122d911e9a72f318fc21c59d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/if97djnean/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd
+
+#EXTINF:-1 tvg-id="fulhamvsbournemouth1500sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Bournemouth 15:00 (SonyLiv  ENG )
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UEFA_Str0705/ENG/master.m3u8
+
+#EXTINF:-1 tvg-id="atlticomadridvsceltavigo1730beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Atlético Madrid vs Celta Vigo 17:30 (beIN ENGLISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="atlticomadridvsceltavigo1730laligatvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Atlético Madrid vs Celta Vigo 17:30 (Laliga TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="atlticomadridvsceltavigo1730espndeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Atlético Madrid vs Celta Vigo 17:30 (ESPN DEPORTES)
+https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
+
+#EXTINF:-1 tvg-id="rbleipzigvsstpauli1430sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",RB Leipzig vs St. Pauli 14:30 (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="laziovsinter1700ligue1hd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Lazio vs Inter 17:00 (LIGUE1  HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD2088/index.mpd
+
+#EXTINF:-1 tvg-id="leccevsjuventus1945beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Lecce vs Juventus 19:45 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="torinovssassuolo1945ligue1hd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Torino vs Sassuolo 19:45 (LIGUE1  HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD2084/index.mpd
+
+#EXTINF:-1 tvg-id="borussiadortmundvsfrankfurt1930cbsnetwork" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Frankfurt 19:30 (CBS NETWORK)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="borussiadortmundvsfrankfurt1930espndeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Frankfurt 19:30 (ESPN DEPORTES)
+https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
+
+#EXTINF:-1 tvg-id="kaiserslauternvsarminiabielefeld1730espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Kaiserslautern vs Arminia Bielefeld 17:30 (ESPN NL)
+https://instreams.pro/bil2/foxnl2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="paderbornvskarlsruher1730novasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Paderborn vs Karlsruher 17:30 (NOVA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD2700/index.mpd
+
+#EXTINF:-1 tvg-id="paderbornvskarlsruher1730espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Paderborn vs Karlsruher 17:30 (ESPN NL)
+https://instreams.pro/bil2/foxnl3/tracks-v1a1/mono.m3u8

@@ -309,3 +309,49 @@ https://d1yi40sjj0ca0v.cloudfront.net/TVD2700/index.mpd
 
 #EXTINF:-1 tvg-id="paderbornvskarlsruher1730espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Paderborn vs Karlsruher 17:30 (ESPN NL)
 https://instreams.pro/bil2/foxnl3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="cincinnatiredsvshoustonastros2310espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Cincinnati Reds vs Houston Astros 23:10 (ESPN NL)
+https://instreams.pro/bil2/foxnl1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="philadelphiaphilliesvscoloradorockies2340sportdigi" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Philadelphia Phillies vs Colorado Rockies 23:40 (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="philadelphiaphilliesvscoloradorockies2340espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Philadelphia Phillies vs Colorado Rockies 23:40 (ESPN NL)
+https://instreams.pro/bil2/foxnl2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="baltimoreoriolesvsathletics0005espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Baltimore Orioles vs Athletics 00:05 (ESPN NL)
+https://instreams.pro/bil2/foxnl3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="torontobluejaysvsangels0007beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Toronto Blue Jays vs Angels 00:07 (beIN SPORTS SD)
+https://instreams.pro/bil1/ligtv2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="redsoxvstampabayrays0010beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Red Sox vs Tampa Bay Rays 00:10 (beIN SPORTS SD)
+https://instreams.pro/bil1/ligtv3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="miamimarlinsvsnationals0010beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Miami Marlins vs Nationals 00:10 (beIN SPORTS SD)
+https://instreams.pro/bil1/ligtv1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="whitesoxvsseattlemariners0040beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",White Sox vs Seattle Mariners 00:40 (beIN ENGLISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="whitesoxvsseattlemariners0040cbssportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",White Sox vs Seattle Mariners 00:40 (CBS SPORTS FHD)
+https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJjYnMtc3BvcnRzLW5ldHdvcmsiLCJleHAiOjE3Nzc4MTY2MTR9.YCLKISdQvR0CULZIXhawDa3CW1fDsTr703nr6X1X_0A/cbs-sports-network.m3u8
+
+#EXTINF:-1 tvg-id="whitesoxvsseattlemariners0040sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",White Sox vs Seattle Mariners 00:40 (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="kansascityroyalsvsdetroittigers0040laligahypermoti" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Kansas City Royals vs Detroit Tigers 00:40 (Laliga Hypermotion ES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="milwaukeebrewersvsyankees0040laligahypermotiones" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Milwaukee Brewers vs Yankees 00:40 (Laliga Hypermotion ES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd

@@ -299,16 +299,21 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 #EXTINF:-1 tvg-id="borussiadortmundvsfrankfurt1930espndeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Frankfurt 19:30 (ESPN DEPORTES)
 https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
 
-#EXTINF:-1 tvg-id="kaiserslauternvsarminiabielefeld1730espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Kaiserslautern vs Arminia Bielefeld 17:30 (ESPN NL)
-https://instreams.pro/bil2/foxnl2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="paderbornvskarlsruher1730novasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Paderborn vs Karlsruher 17:30 (NOVA SPORTS)
+#EXTINF:-1 tvg-id="kaiserslauternvsarminiabielefeld1730elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Kaiserslautern vs Arminia Bielefeld 17:30 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
-https://d1yi40sjj0ca0v.cloudfront.net/TVD2700/index.mpd
+https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd
 
-#EXTINF:-1 tvg-id="paderbornvskarlsruher1730espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Paderborn vs Karlsruher 17:30 (ESPN NL)
-https://instreams.pro/bil2/foxnl3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kaiserslauternvsarminiabielefeld1730skybundesligas" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Kaiserslautern vs Arminia Bielefeld 17:30 (SKY BUNDESLIGA SD)
+https://instreams.pro/bil2/bundes2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="paderbornvskarlsruher1730elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Paderborn vs Karlsruher 17:30 (ELEVEN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd
+
+#EXTINF:-1 tvg-id="paderbornvskarlsruher1730skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="2. bundesliga",Paderborn vs Karlsruher 17:30 (SKY BUNDESLIGA SD)
+https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="cincinnatiredsvshoustonastros2310espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Cincinnati Reds vs Houston Astros 23:10 (ESPN NL)
 https://instreams.pro/bil2/foxnl1/tracks-v1a1/mono.m3u8

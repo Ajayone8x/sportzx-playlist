@@ -185,8 +185,8 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="ipl011500starsportshin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 01 15:00 (Star Sports  HIN )
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 
-#EXTINF:-1 tvg-id="detroitpistons0000hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Detroit Pistons 00:00 (HD SERVER)
-https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="oklahomacitythunder0230nbalivefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Oklahoma City Thunder 02:30 (NBA LIVE FHD)
+https://daffodil.lphone.support/nba.m3u8
 
 #EXTINF:-1 tvg-id="oklahomacitythunder0230hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Oklahoma City Thunder 02:30 (HD SERVER)
 https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8
@@ -194,67 +194,18 @@ https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="philadelphiaflyers0100hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Philadelphia Flyers 01:00 (HD SERVER)
 https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="astonvillavsnottinghamforest2000tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Aston Villa vs Nottingham Forest 20:00 (TNT SPORTS - AQ)
+#EXTINF:-1 tvg-id="liverpoolvschelsea1230tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="astonvillavsnottinghamforest2000vixspanishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Aston Villa vs Nottingham Forest 20:00 (VIX SPANISH FHD)
+#EXTINF:-1 tvg-id="liverpoolvschelsea1230vixspanishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (VIX SPANISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95b2bd68b00a44c9381ac122e01a2797:b07b5ca2beca08c458e325f829aa9f43
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dviqurckoe/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd
 
-#EXTINF:-1 tvg-id="astonvillavsnottinghamforest2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Aston Villa vs Nottingham Forest 20:00 (TNT SPORTS FHD)
+#EXTINF:-1 tvg-id="liverpoolvschelsea1230tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (TNT SPORTS FHD)
 https://cdn-1.ttvb.eu.org/api/TNT-Sports-1/index.m3u8
 
-#EXTINF:-1 tvg-id="astonvillavsnottinghamforest2000sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Aston Villa vs Nottingham Forest 20:00 (SonyLiv  ENG )
+#EXTINF:-1 tvg-id="liverpoolvschelsea1230sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (SonyLiv  ENG )
 https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/UEFA_Eur0705/ENG/master.m3u8
-
-#EXTINF:-1 tvg-id="scfreiburgvssportingbraga2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",SC Freiburg vs Sporting Braga 20:00 (TNT SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-id="scfreiburgvssportingbraga2000vixspanishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",SC Freiburg vs Sporting Braga 20:00 (VIX SPANISH FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb194ba1c53f8c89a159f76e7830e2fb:37fca5c5cdd27d87ce1c78070d237274
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/shyc39mi7a/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd
-
-#EXTINF:-1 tvg-id="scfreiburgvssportingbraga2000sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",SC Freiburg vs Sporting Braga 20:00 (SonyLiv  ENG )
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000301/UEFA_Eur0705/ENG/master.m3u8
-
-#EXTINF:-1 tvg-id="crystalpalacevsshakhtardonetsk2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Crystal Palace vs Shakhtar Donetsk 20:00 (TNT SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-id="crystalpalacevsshakhtardonetsk2000vixspanishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Crystal Palace vs Shakhtar Donetsk 20:00 (VIX SPANISH FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ba2e290f682b30416182bc363a660a1:f2b3686e840c38fbdbea8c9a01b6638d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3pxu2gzore/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd
-
-#EXTINF:-1 tvg-id="crystalpalacevsshakhtardonetsk2000sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Crystal Palace vs Shakhtar Donetsk 20:00 (SonyLiv  ENG )
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/Football0705/ENG/master.m3u8
-
-#EXTINF:-1 tvg-id="strasbourgvsrayovallecano2000vixspanishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Strasbourg vs Rayo Vallecano 20:00 (VIX SPANISH FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=055a60e4c666c2100d35e208fa8674a4:8635d0eb122d911e9a72f318fc21c59d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/if97djnean/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd
-
-#EXTINF:-1 tvg-id="strasbourgvsrayovallecano2000sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Strasbourg vs Rayo Vallecano 20:00 (SonyLiv  ENG )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UEFA_Str0705/ENG/master.m3u8
-
-#EXTINF:-1 tvg-id="redsoxvstampabayrays0010sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Red Sox vs Tampa Bay Rays 00:10 (SportDigital Fussball)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="bloomingvsrbbragantino0130ligue1hd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Con. sudamericana",Blooming vs RB Bragantino 01:30 (LIGUE1  HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://d1yi40sjj0ca0v.cloudfront.net/TVD2088/index.mpd
-
-#EXTINF:-1 tvg-id="carabobovsriverplate0130beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Con. sudamericana",Carabobo vs River Plate 01:30 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd

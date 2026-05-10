@@ -424,6 +424,9 @@ https://d1yi40sjj0ca0v.cloudfront.net/TVD4078/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd
 
+#EXTINF:-1 tvg-id="milanvsatalanta1945skysportsit" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Milan vs Atalanta 19:45 (SKY SPORTS IT)
+https://storage.googleapis.com/ytnerttunbvgd2/mux_video_ts1/index-1.m3u8
+
 #EXTINF:-1 tvg-id="klnvsheidenheim1630dazndehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Köln vs Heidenheim 16:30 (DAZN DE HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
@@ -486,6 +489,9 @@ https://d1yi40sjj0ca0v.cloudfront.net/TVD2090/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="avsvsfcporto1800sporttvhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Liga portugal",AVS  vs FC Porto 18:00 (SPORT TV HD)
+https://storage.googleapis.com/ytnerttunbvgd3/mux_video_ts1/index-1.m3u8
 
 #EXTINF:-1 tvg-id="feyenoordvsaz1545premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",Feyenoord vs AZ 15:45 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

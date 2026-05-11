@@ -283,3 +283,13 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/
 
 #EXTINF:-1 tvg-id="benficavssportingbraga2015elevensporthd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Liga portugal",Benfica vs Sporting Braga 20:15 (ELEVEN SPORT HD)
 https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd
+
+#EXTINF:-1 tvg-id="neomscvsalshabab1750thmanyahhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Neom SC vs Al-Shabab 17:50 (THMANYAH HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd
+
+#EXTINF:-1 tvg-id="clevelandguardiansvsangels2310skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Cleveland Guardians vs Angels 23:10 (SKY SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc
+https://dice-live-oc.akamaized.net/hdntl=exp=1778479835~acl=%2F*~id=adfecf30-7146-41d7-96cb-b3f40b0779c3~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2NSZlaWQ9OTM2NTc1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=db8acad46f3aa0d3921ecb81859cdbf7b7a2ea991bb46e48aabc27499dc61ca7/dash/live/2093712/219035-321027/manifest-d.mpd

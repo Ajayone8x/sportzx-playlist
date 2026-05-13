@@ -208,14 +208,6 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="ipl011500starsportshin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 01 15:00 (Star Sports  HIN )
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 
-#EXTINF:-1 tvg-id="goldenknights0230premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Golden Knights 02:30 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="goldenknights0230hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Golden Knights 02:30 (HD SERVER)
-https://instreams.pro/US/NHL2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="deportivoalavsvsbarcelona2030beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Deportivo Alavés vs Barcelona 20:30 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e

@@ -224,10 +224,19 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1
 #EXTINF:-1 tvg-id="astonvillavsliverpool2000skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Liverpool 20:00 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc
-https://dice-live-oc.akamaized.net/hdntl=exp=1778913293~acl=%2f*~id=56d8c024-b10c-4b12-90bb-5c89431c7593~data=hdntl,aXA9MjA4Ljg3LjI0MS4yMzUmZXhwPTE3Nzg4MjY5MjMmZWlkPTkzODE0NCZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=863e42f4d23efdf4ca26867460e1165eff487418eb85e20402f6975c2bf74482/dash/live/2093712/219035-321027/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1778913297~acl=%2f*~id=64b6cf0a-bd9f-4cd7-86b1-d48c3b9fa1e2~data=hdntl,aXA9MjA4Ljg3LjI0MS4yMzUmZXhwPTE3Nzg4MjY5MjYmZWlkPTkzOTk4MiZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=4fb3b59460a2129add5b0c8d550b4480a7ac448457a4a28735547a9a830f076a/dash/live/2093712/219035-321027/manifest-d.mpd
 
-#EXTINF:-1 tvg-id="astonvillavsliverpool2000skymainevent" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Liverpool 20:00 (SKY MAIN EVENT)
-https://iptv.852851.xyz/ch/8e7f4d61756a334943773b8e3c7b1e48/video.m3u8
+#EXTINF:-1 tvg-id="astonvillavsliverpool2000maineventfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Liverpool 20:00 (MAIN EVENT FHD)
+https://customer-hds4yn4zja7g8r4d.cloudflarestream.com/08d501eef72d8a4f0611505f1189adfe/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="astonvillavsliverpool2000skysportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Liverpool 20:00 (SKY SPORTS PL)
+https://perjaka.s3.us-east-1.amazonaws.com/btsport.m3u8
+
+#EXTINF:-1 tvg-id="astonvillavsliverpool2000nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Liverpool 20:00 (NOW SPORTS PL)
+https://601.shopacchgia.xyz/epl.m3u8
+
+#EXTINF:-1 tvg-id="astonvillavsliverpool2000skysportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Liverpool 20:00 (SKY SPORTS HD)
+https://storage.googleapis.com/unghertgnewa1/mux_video_ts1/index-1.m3u8
 
 #EXTINF:-1 tvg-id="chelseavsmanchestercity1500beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Chelsea vs Manchester City 15:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -280,9 +289,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-id="nottscountyvschesterfield2000skyfootball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="League two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Notts County vs Chesterfield 20:00 (SKY FOOTBALL)
-https://iptv.852851.xyz/ch/f251692e8c113a7aa504e61c4b2f98ff/video.m3u8
 
 #EXTINF:-1 tvg-id="castellnvscdiz1930laligahypermotiones" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 2",Castellón vs Cádiz 19:30 (Laliga Hypermotion ES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -83,6 +83,9 @@ https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 
+#EXTINF:-1 tvg-id="onefridayfights1301330beinsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",ONE Friday Fights 130 13:30 (beIN SPORTS HD)
+https://iptv.852851.xyz/ch/30cc0805acb2aada8da9e2ae3fad5b5c/master.m3u8
+
 #EXTINF:-1 tvg-id="onefridayfights1301330server2" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",ONE Friday Fights 130 13:30 (Server 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271

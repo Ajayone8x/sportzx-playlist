@@ -211,19 +211,6 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="ipl011500starsportshin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 01 15:00 (Star Sports  HIN )
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 
-#EXTINF:-1 tvg-id="atpromemasters1430tntsports4" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Atp",ATP Rome Masters 14:30 (TNT Sports 4)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-#EXTINF:-1 tvg-id="atpromemasters1430willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Atp",ATP Rome Masters 14:30 (WILLOW (Ad Free))
-https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
-
-#EXTINF:-1 tvg-id="atpromemasters1430willowfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Atp",ATP Rome Masters 14:30 (WILLOW FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
 #EXTINF:-1 tvg-id="clevelandcavaliers0000tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cleveland Cavaliers 00:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
@@ -244,31 +231,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-id="astonvillavsliverpool2000fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Liverpool 20:00 (FUBO SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1 tvg-id="astonvillavsliverpool2000skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Liverpool 20:00 (SKY SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc
-https://dice-live-oc.akamaized.net/hdntl=exp=1778913297~acl=%2f*~id=64b6cf0a-bd9f-4cd7-86b1-d48c3b9fa1e2~data=hdntl,aXA9MjA4Ljg3LjI0MS4yMzUmZXhwPTE3Nzg4MjY5MjYmZWlkPTkzOTk4MiZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=4fb3b59460a2129add5b0c8d550b4480a7ac448457a4a28735547a9a830f076a/dash/live/2093712/219035-321027/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="astonvillavsliverpool2000maineventfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Liverpool 20:00 (MAIN EVENT FHD)
-https://customer-hds4yn4zja7g8r4d.cloudflarestream.com/08d501eef72d8a4f0611505f1189adfe/manifest/video.m3u8
-
-#EXTINF:-1 tvg-id="astonvillavsliverpool2000skysportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Liverpool 20:00 (SKY SPORTS PL)
-https://perjaka.s3.us-east-1.amazonaws.com/btsport.m3u8
-
-#EXTINF:-1 tvg-id="astonvillavsliverpool2000nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Liverpool 20:00 (NOW SPORTS PL)
-https://601.shopacchgia.xyz/epl.m3u8
-
-#EXTINF:-1 tvg-id="astonvillavsliverpool2000skysportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Liverpool 20:00 (SKY SPORTS HD)
-https://storage.googleapis.com/unghertgnewa1/mux_video_ts1/index-1.m3u8
-
-#EXTINF:-1 tvg-id="astonvillavsliverpool2000beinarabichd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Liverpool 20:00 (beIN ARABIC HD)
-https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
 
 #EXTINF:-1 tvg-id="chelseavsmanchestercity1500beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Chelsea vs Manchester City 15:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

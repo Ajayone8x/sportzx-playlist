@@ -27,9 +27,6 @@ https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJz
 #EXTINF:-1 tvg-id="formula11730skysportf1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (SKY SPORT F1)
 https://storage.googleapis.com/bakuknhertyung4/mux_video_ts1/index-1.m3u8
 
-#EXTINF:-1 tvg-id="formula11730skyf1aq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (SKY F1 - AQ)
-https://rifusfcollins.s3.us-east-1.amazonaws.com/sportsnet.m3u8
-
 #EXTINF:-1 tvg-id="formula11730elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59
@@ -151,11 +148,6 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 tvg-id="wwe0100backupsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE 01:00 (BACKUP SD)
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
 
-#EXTINF:-1 tvg-id="bangladeshvspakistan0500willowfhdaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Bangladesh vs Pakistan 05:00 (Willow FHD AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16c89cad0dc1cf8af9093227bcf7a06d:5408f017ea8cf37f194fdd4d854dc0ce
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5bg6a6avto/out/v1/0a664b9c08bd456e8189e6905af411f8/cenc.mpd
-
 #EXTINF:-1 tvg-id="bangladeshvspakistan0500skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Bangladesh vs Pakistan 05:00 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82
@@ -175,6 +167,9 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca
 https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="bangladeshvspakistan0500tapmadaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Bangladesh vs Pakistan 05:00 (TAPMAD - AQ)
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 
 #EXTINF:-1 tvg-id="bangladeshvspakistan0500fancodesd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Bangladesh vs Pakistan 05:00 (FANCODE - SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

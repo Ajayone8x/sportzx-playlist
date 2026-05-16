@@ -247,39 +247,6 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/FACUP_Ch1605/ENG/master.
 #EXTINF:-1 tvg-id="chelseavsmanchestercity1500sonylivhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Chelsea vs Manchester City 15:00 (SonyLiv  HIN )
 https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/FACUP_Ch1605/HIN/master.m3u8
 
-#EXTINF:-1 tvg-id="bayernmnchenvskln1430beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern München vs Köln 14:30 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-id="bayernmnchenvskln1430sportvbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern München vs Köln 14:30 (SporTV BR)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-
-#EXTINF:-1 tvg-id="bayernmnchenvskln1430onesoccerhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern München vs Köln 14:30 (ONE SOCCER HD)
-https://storage.googleapis.com/unicertyngherpyte2/mux_video_ts1/index-1.m3u8
-
-#EXTINF:-1 tvg-id="bayernmnchenvskln1430skybundesligahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern München vs Köln 14:30 (SKY BUNDESLIGA HD)
-https://poklis.rontokakishop.online/premium558/index.m3u8
-
-#EXTINF:-1 tvg-id="bayernmnchenvskln1430sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern München vs Köln 14:30 (SonyLiv  ENG )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/BLIGA_Ba1605/ENG/master.m3u8
-
-#EXTINF:-1 tvg-id="bremenvsdortmund1430sportvbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bremen vs Dortmund 14:30 (Spor TV BR)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
-
-#EXTINF:-1 tvg-id="bremenvsdortmund1430skybundesligahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bremen vs Dortmund 14:30 (SKY BUNDESLIGA HD)
-https://bobis.zaglemplokis.online/premium948/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="bremenvsdortmund1430sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bremen vs Dortmund 14:30 (SonyLiv  ENG )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/BLIGA_We1605/ENG/master.m3u8
-
-#EXTINF:-1 tvg-id="leverkusenvshamburger1430skybundesligahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Leverkusen vs Hamburger 14:30 (SKY BUNDESLIGA HD)
-https://rolis.drompakisdoulesonline.online/premium20/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="heidenheimvsmainz051430skybundesligahd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Mainz 05 14:30 (SKY BUNDESLIGA HD)
 https://bobis.zaglemplokis.online/premium947/tracks-v1a1/mono.m3u8
 

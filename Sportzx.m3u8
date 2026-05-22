@@ -211,6 +211,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
+#EXTINF:-1 tvg-id="trabzonsporvskonyaspor1845sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Türkiye kupası",Trabzonspor vs Konyaspor 18:45 (SD SERVER)
+http://193.47.62.55/hls/kggg.m3u8
+
 #EXTINF:-1 tvg-id="germanyvshungary1520tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",Germany vs Hungary 15:20 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
@@ -251,7 +254,31 @@ https://instreams.pro/bil2/plusdep1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="olympiacosvsfenerbahe1600turkeysports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Olympiacos vs Fenerbahçe 16:00 (Turkey Sports)
 https://instreams.pro/bil1/ssport/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="valenciavsrealmadrid1900setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Valencia vs Real Madrid 19:00 (SETANTA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b61abdd84cb34486b7a8ad6271856be8:24af8a63e21142c293cc71e0c9e88e92
+https://adjara-live-eu.akamaized.net/hdntl=exp=1779547773~acl=%2F*~id=e0b374ab-0431-433d-99a7-85d26ef99f86~data=hdntl,aXA9MjAuMTA2LjE4Mi4yMDkmZXhwPTE3Nzk0NjE0MDMmZWlkPTk2MDc3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1EWGlvRWF8YWViZmUzZDgtMTEzNy00MDQyLTllNGEtOTliODU2M2UzYWI0JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=1aa5adbedd7ca370ef3324e71f6f1ef54a43171d9a7b224bbbb137961f8f50ee/dash/live/2005783/303306-321860/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="valenciavsrealmadrid1900novasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Valencia vs Real Madrid 19:00 (NOVA SPORTS)
+https://instreams.pro/bil2/novaprime/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="valenciavsrealmadrid1900sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Valencia vs Real Madrid 19:00 (SD SERVER)
+http://193.47.62.57/hls/TTTDDDQQQ.m3u8
+
+#EXTINF:-1 tvg-id="valenciavsrealmadrid1900arenasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Valencia vs Real Madrid 19:00 (ARENA SPORTS)
+https://instreams.pro/EU/HDTV21/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="philliesvsclevelandguardians2340tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Phillies vs Cleveland Guardians 23:40 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="somersetvshampshire1830skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="T20 blast",Somerset vs Hampshire 18:30 (SKY SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
+https://dice-live-oc.akamaized.net/hdntl=exp=1779547763~acl=%2F*~id=ffafa7d1-8889-4cc3-b50a-9bdfcee89037~data=hdntl,aXA9MjAuMTA2LjE4Mi4yMDkmZXhwPTE3Nzk0NjEzOTMmZWlkPTk2MTUzOSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1EWGlvRWF8YWViZmUzZDgtMTEzNy00MDQyLTllNGEtOTliODU2M2UzYWI0JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=6362d7c371ce690fe0c24c35ad03005c49d3a7cd1648a8e0a08d2ea1b2e3105f/dash/live/2093717/219028-321030/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="somersetvshampshire1830willowhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="T20 blast",Somerset vs Hampshire 18:30 (Willow HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd

@@ -4,12 +4,17 @@
 #EXTINF:-1 tvg-id="formula12130skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 21:30 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
-https://dice-live-oc.akamaized.net/hdntl=exp=1779547768~acl=%2F*~id=b08c6374-4463-46bd-94f4-7c1a0962cc51~data=hdntl,aXA9MjAuMTA2LjE4Mi4yMDkmZXhwPTE3Nzk0NjEzOTgmZWlkPTk2MTUwMSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1EWGlvRWF8YWViZmUzZDgtMTEzNy00MDQyLTllNGEtOTliODU2M2UzYWI0JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=ca0a0cecfd5ab1d6163a8169fbd8a240df242adb75d187e70f08b70234822da2/dash/live/2093715/219027-321028/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1779566116~acl=%2F*~id=1f26dfa9-cc78-4598-ac11-c03c5b9ab880~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzQ1JmVpZD05NjE2MDQmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=5dadc1cbbbf42f4bc2791431fbd5b3f20400aa204a111b1220e8155c4ae0bf93/dash/live/2093715/219027-321028/manifest-d.mpd
 
 #EXTINF:-1 tvg-id="formula12130tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 21:30 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+
+#EXTINF:-1 tvg-id="formula12130setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 21:30 (SETANTA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6eb77216ea7945998d3713be4ebbfc41:c36275beed344adbb6fdfc547be034ba
+https://adjara-live-eu.akamaized.net/hdntl=exp=1779566123~acl=%2F*~id=40e65163-693a-41e1-bab0-0b6994d8b4fd~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzUzJmVpZD05NjE1MDEmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=f408469ff316d7a34ff16c7378362289e67f76705ea31c4810be76b7fc97608a/dash/live/2005778/303504-321866/manifest-d.mpd
 
 #EXTINF:-1 tvg-id="formula12130fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 21:30 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -220,38 +225,6 @@ https://instreams.pro/EU/HDTV22/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="lensvsnice2000francetvsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Coupe de france 🇫🇷",Lens vs Nice 20:00 (FRANCE TV SD)
 https://instreams.pro/bil1/france2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="trabzonsporvskonyaspor1845sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Türkiye kupası",Trabzonspor vs Konyaspor 18:45 (SportDigital Fussball)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="trabzonsporvskonyaspor1845sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Türkiye kupası",Trabzonspor vs Konyaspor 18:45 (SD SERVER)
-http://193.47.62.55/hls/kggg.m3u8
-
-#EXTINF:-1 tvg-id="swedenvsitaly1920tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",Sweden vs Italy 19:20 (TSN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="finlandvsgreatbritain1920tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",Finland vs Great Britain 19:20 (TSN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-
-#EXTINF:-1 tvg-id="valenciavsrealmadrid1900setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Valencia vs Real Madrid 19:00 (SETANTA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b61abdd84cb34486b7a8ad6271856be8:24af8a63e21142c293cc71e0c9e88e92
-https://adjara-live-eu.akamaized.net/hdntl=exp=1779547773~acl=%2F*~id=e0b374ab-0431-433d-99a7-85d26ef99f86~data=hdntl,aXA9MjAuMTA2LjE4Mi4yMDkmZXhwPTE3Nzk0NjE0MDMmZWlkPTk2MDc3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1EWGlvRWF8YWViZmUzZDgtMTEzNy00MDQyLTllNGEtOTliODU2M2UzYWI0JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=1aa5adbedd7ca370ef3324e71f6f1ef54a43171d9a7b224bbbb137961f8f50ee/dash/live/2005783/303306-321860/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="valenciavsrealmadrid1900novasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Valencia vs Real Madrid 19:00 (NOVA SPORTS)
-https://instreams.pro/bil2/novaprime/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="valenciavsrealmadrid1900sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Valencia vs Real Madrid 19:00 (SD SERVER)
-http://193.47.62.57/hls/TTTDDDQQQ.m3u8
-
-#EXTINF:-1 tvg-id="valenciavsrealmadrid1900arenasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Valencia vs Real Madrid 19:00 (ARENA SPORTS)
-https://instreams.pro/EU/HDTV21/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="chicagocubsvshoustonastros1920mlblivehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Chicago Cubs vs Houston Astros 19:20 (MLB LIVE HD)
 https://streamxyz.shop/cubs/tracks-v1a1/mono.ts.m3u8

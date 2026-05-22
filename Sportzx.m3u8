@@ -1,15 +1,20 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="formula11730tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (TSN SPORTS FHD)
+#EXTINF:-1 tvg-id="formula11730skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
+https://dice-live-oc.akamaized.net/hdntl=exp=1779547768~acl=%2F*~id=b08c6374-4463-46bd-94f4-7c1a0962cc51~data=hdntl,aXA9MjAuMTA2LjE4Mi4yMDkmZXhwPTE3Nzk0NjEzOTgmZWlkPTk2MTUwMSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1EWGlvRWF8YWViZmUzZDgtMTEzNy00MDQyLTllNGEtOTliODU2M2UzYWI0JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=ca0a0cecfd5ab1d6163a8169fbd8a240df242adb75d187e70f08b70234822da2/dash/live/2093715/219027-321028/manifest-d.mpd
 
 #EXTINF:-1 tvg-id="formula11730fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="formula11730tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (TSN SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
 #EXTINF:-1 tvg-id="formula11730skysportf1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 17:30 (SKY SPORT F1)
 https://storage.googleapis.com/bakuknhertyung4/mux_video_ts1/index-1.m3u8
@@ -78,10 +83,15 @@ https://cdn1.dtplumber.cfd/live/cdn1/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
 
-#EXTINF:-1 tvg-id="onefridayfights1330onefightaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",ONE Friday Fights 13:30 (One Fight - AQ)
+#EXTINF:-1 tvg-id="onefridayfights1330onefightfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",ONE Friday Fights 13:30 (One Fight FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+
+#EXTINF:-1 tvg-id="onefridayfights1330espnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",ONE Friday Fights 13:30 (ESPN SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121
+https://dice-live-oc.akamaized.net/hdntl=exp=1779529113~acl=%2f*~id=f8a0f7f6-5eb8-49c9-a19f-2655d8d88a1a~data=hdntl,aXA9NTcuMTUxLjE0My4xNzgmZXhwPTE3Nzk0NDI3NDMmZWlkPTk2MDc3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1ubzZVczZ8ZTRlYzA3YmMtZGNhOC00MmIwLWFiNzQtNjI2YTIwOTBkYTQyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=569a3a475b804e495e8abbeef2fc2c9e6b659df245657a3d63e14366c2b7b0f0/dash/live/2093723/219038-321034/manifest-d.mpd
 
 #EXTINF:-1 tvg-id="onefridayfights1330server2" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",ONE Friday Fights 13:30 (Server 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -220,6 +230,26 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="olympiacosvsfenerbahe1600setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Olympiacos vs Fenerbahçe 16:00 (SETANTA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b419be16e9c046c28b1560bd4b318aa1:5ada04fc9ba7414e8f58cba0e7c1c8fe
+https://adjara-live-eu.akamaized.net/hdntl=exp=1779529110~acl=%2F*~id=789bcb6f-d1a7-4557-aaa6-0b393995c33f~data=hdntl,aXA9NTcuMTUxLjE0My4xNzgmZXhwPTE3Nzk0NDI3NDAmZWlkPTk2MDQ3OSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1ubzZVczZ8ZTRlYzA3YmMtZGNhOC00MmIwLWFiNzQtNjI2YTIwOTBkYTQyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=6bd79c084a0fabd232c6c392b9fe919b1205037ccce029edb329b6bdc92e859c/dash/live/2019612/303305-321850/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="olympiacosvsfenerbahe1600novasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Olympiacos vs Fenerbahçe 16:00 (NOVA SPORTS)
+https://instreams.pro/bil2/novaprime/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="olympiacosvsfenerbahe1600sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Olympiacos vs Fenerbahçe 16:00 (SD SERVER)
+http://193.47.62.57/hls/TTTDDDQQQ.m3u8
+
+#EXTINF:-1 tvg-id="olympiacosvsfenerbahe1600arenasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Olympiacos vs Fenerbahçe 16:00 (ARENA SPORTS)
+https://instreams.pro/EU/HDTV21/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="olympiacosvsfenerbahe1600mdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Olympiacos vs Fenerbahçe 16:00 (M  DEPORTES)
+https://instreams.pro/bil2/plusdep1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="olympiacosvsfenerbahe1600turkeysports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Euroleague",Olympiacos vs Fenerbahçe 16:00 (Turkey Sports)
+https://instreams.pro/bil1/ssport/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="philliesvsclevelandguardians2340tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Phillies vs Cleveland Guardians 23:40 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

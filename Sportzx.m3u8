@@ -225,6 +225,11 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1779611161~acl=%2F*~id=76d3cf88-ffc
 #KODIPROP:inputstream.adaptive.license_key=4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6
 https://dice-live-oc.akamaized.net/hdntl=exp=1779611158~acl=%2F*~id=d6e2c6de-d50e-481c-9959-1045ec8a65c9~data=hdntl,aXA9MTcyLjE4Mi4yMjUuMTYyJmV4cD0xNzc5NTI0Nzg4JmVpZD05NjE2MDQmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9aVVFd1VXfGVlZjY4NGJmLTBlNWItNDk3MC05NWNjLTRjNWNkODM2OTJiZiZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=148ac436dad441f38b56370db62b140f7ebf929cec0617c2f38f10a6798fecd7/dash/live/2093666/294921-318514/manifest-d.mpd
 
+#EXTINF:-1 tvg-id="englandwvsnewzealandw1430willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England W vs New Zealand W 14:30 (WILLOW  Ad-Free )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f3eaab7db8b0b8f9a247fa56ee10065:0480f4421c542db9faefc632f9ab54d7
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wfu91ice15/out/v1/97aa6cb2e1214a0c8be700eb4ce24200/cenc-sd.mpd
+
 #EXTINF:-1 tvg-id="realmadridvsathleticclub2000beinenglishfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Real Madrid vs Athletic Club 20:00 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e

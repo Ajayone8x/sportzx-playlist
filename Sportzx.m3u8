@@ -260,11 +260,6 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 #EXTINF:-1 tvg-id="usykandrico1800sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",Usyk and Rico 18:00 (SD SERVER)
 https://26hrwgorfcmh.windows-devs.top/AccessLog2/108084_HD/apache.m3u8
 
-#EXTINF:-1 tvg-id="barcelonavsollyonnes1700espnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl womens",Barcelona vs OL Lyonnes 17:00 (ESPN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9
-https://dice-live-oc.akamaized.net/hdntl=exp=1779630446~acl=%2F*~id=73cc8a93-53b9-4ff8-bb93-fc324174ae24~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA3NiZlaWQ9ODgwNTM2Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=dba06fc59dc4d49ed1b51697907e2aaf21028e69d12b920e9789d798df8c6c58/dash/live/2093724/219039-321035/manifest-d.mpd
-
 #EXTINF:-1 tvg-id="realmadridvsathleticclub2000setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Real Madrid vs Athletic Club 20:00 (SETANTA SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bef5a999e38f435f8d822c6931d5fae3:d90cd647c3a54380a81a5a0596e60abe
@@ -307,14 +302,6 @@ https://adjara-live-eu.akamaized.net/hdntl=exp=1779630449~acl=%2F*~id=652a6b96-9
 #EXTINF:-1 tvg-id="alavsvsrayovallecano2000hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Alavés vs Rayo Vallecano 20:00 (HD SERVER)
 https://instreams.pro/US/NFLHD14/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="espanyolvsrealsociedad2000setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Espanyol vs Real Sociedad 20:00 (SETANTA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e0be8d89c184e1ab6de908e9076cf6e:5928dceba65b4ef19ac8f53319f2e3b0
-https://adjara-live-eu.akamaized.net/hdntl=exp=1779630454~acl=%2F*~id=26644754-ad18-4fa3-b908-71f511663d19~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA4NCZlaWQ9OTYxNTMxJm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=cb57fd093462ec039e849cea4869c56bd77b3e93ad3908b0106972378c63f84c/dash/live/2001612/303242-321930/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="espanyolvsrealsociedad2000hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Espanyol vs Real Sociedad 20:00 (HD SERVER)
-https://instreams.pro/US/NFLHD11/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="getafevsosasuna2000setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Getafe vs Osasuna 20:00 (SETANTA SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67b5098f17cf4b888bb33d987997d823:9a4eb63bbc5e4957bba138381e15444a
@@ -330,14 +317,6 @@ https://adjara-live-eu.akamaized.net/hdntl=exp=1779630446~acl=%2F*~id=73cc8a93-5
 
 #EXTINF:-1 tvg-id="gironafcvselche2000hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Girona FC vs Elche 20:00 (HD SERVER)
 https://instreams.pro/US/NFLHD9/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="mallorcavsrealoviedo2000setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Mallorca vs Real Oviedo 20:00 (SETANTA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2882fed88af478d80ea46c700c56079:82ed2a0153c742d7a3cfd15c4f9e0f7e
-https://adjara-live-eu.akamaized.net/hdntl=exp=1779630451~acl=%2F*~id=8980c9d6-ed65-4bdb-bbd2-78a7f7021bdb~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA4MSZlaWQ9OTYxNTM5Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=2bc3a2381fba47a3b8639e381c3fa3aa19323040aa2fff1e739e9ff0d3a2af70/dash/live/2001557/303250-321935/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="mallorcavsrealoviedo2000hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Mallorca vs Real Oviedo 20:00 (HD SERVER)
-https://instreams.pro/US/NFLHD8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="realbetisvslevante2000setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Real Betis vs Levante 20:00 (SETANTA SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -376,16 +355,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40c65735c79240ca9fbf30e37f5a3d27:aa0a85822051467d8f1d6725d0281ee7
 https://adjara-live-eu.akamaized.net/hdntl=exp=1779630451~acl=%2F*~id=8980c9d6-ed65-4bdb-bbd2-78a7f7021bdb~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA4MSZlaWQ9OTYxNTM5Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=2bc3a2381fba47a3b8639e381c3fa3aa19323040aa2fff1e739e9ff0d3a2af70/dash/live/2019652/303365-321918/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="laziovspisa1945setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Lazio vs Pisa 19:45 (SETANTA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30fb4bb6b4954743ae51d8adf0724ed3:859d78a3856746fc8feacde75eaba77e
-https://adjara-live-eu.akamaized.net/hdntl=exp=1779630444~acl=%2F*~id=75e99b22-9e1a-445e-8f68-3653387dfdb1~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA3NCZlaWQ9OTYxNjEzJm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=8049e4dab19fd3be83631bd94a8d1b97c5ae17d3b8f7b25ab49bf5ae2cbd2a6e/dash/live/2019686/303368-321925/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="laziovspisa1945beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Lazio vs Pisa 19:45 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
 #EXTINF:-1 tvg-id="bayernvsstuttgart1900premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Dfb pokal",Bayern vs Stuttgart 19:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

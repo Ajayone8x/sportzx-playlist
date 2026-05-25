@@ -110,6 +110,9 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
 
+#EXTINF:-1 tvg-id="wweraw0100wwelivehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE Raw 01:00 (WWE LIVE HD)
+https://nh5.hocloud.cfd/live/wwe/stream.m3u8
+
 #EXTINF:-1 tvg-id="wweraw0100sportzxhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE Raw 01:00 (SportzX HD)
 https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 
@@ -205,28 +208,43 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="clevelandcavaliers0100espnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cleveland Cavaliers 01:00 (ESPN SPORTS FHD)
+#EXTINF:-1 tvg-id="clevelandcavaliers0100espnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cleveland Cavaliers 01:00 (ESPN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121
-https://dice-live-oc.akamaized.net/hdntl=exp=1779716803~acl=%2F*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2093723/219038-321034/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1779824932~acl=%2F*~id=e64fa4c1-6eec-4acf-ae50-1554b4a5c362~data=hdntl,aXA9MjAuNTUuMTQuNTMmZXhwPTE3Nzk3Mzg1NjImZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1VNFd6RXV8MzNiNGJhZWQtOTExZi00ZDVjLTkxMWQtNWJlZjAzMTRmYWQ1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=fb8db2d327d6c022f85af73f6292aee61bafa7ab307931d2af0cf2f545afc2c9/dash/live/2093723/219038-321034/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="clevelandcavaliers0100tsnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cleveland Cavaliers 01:00 (TSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="clevelandcavaliers0100nbalivehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cleveland Cavaliers 01:00 (NBA LIVE HD)
+https://nh1.hocloud.cfd/live/espn/stream.m3u8
+
+#EXTINF:-1 tvg-id="clevelandcavaliers0100nbalivealt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cleveland Cavaliers 01:00 (NBA LIVE ALT)
+https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/f4cb41bd-6025-4440-9ab9-dc735f724b73/master.m3u8
 
 #EXTINF:-1 tvg-id="clevelandcavaliers0100hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Cleveland Cavaliers 01:00 (HD SERVER)
 https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="carolinahurricanes0100setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Carolina Hurricanes 01:00 (SETANTA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6547dbaa76c54917b68b90cfc9c606dc:e82672e5d155441da8e2d2b111b6d584
-https://adjara-live-eu.akamaized.net/hdntl=exp=1779737054~acl=%2F*~id=91b2b77c-5acf-4562-a302-81dfd4e0db31~data=hdntl,aXA9MTcyLjE4NS4xNjcuMzYmZXhwPTE3Nzk2NTA2ODQmZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1FcVo5d2d8YmY4MTQ1ODAtMWFjMy00NjczLWFhMDktMDhlMjI1Y2NkMDFhJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=e3d75e1fd221b2be35a0c17a3e03975e84b24153ab4ec4f7ac54eb335251287b/dash/live/2019654/303496-322029/manifest-d.mpd
+#EXTINF:-1 tvg-id="libertyvsportlandfire0100wnbalivehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wnba",Liberty vs Portland Fire 01:00 (WNBA LIVE HD)
+https://nh4.hocloud.cfd/live/liberty/stream.m3u8
+
+#EXTINF:-1 tvg-id="valkyriesvsconnecticutsun0300wnbalivehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wnba",Valkyries vs Connecticut Sun 03:00 (WNBA LIVE HD)
+https://nh4.hocloud.cfd/live/golden/stream.m3u8
 
 #EXTINF:-1 tvg-id="carolinahurricanes0100premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Carolina Hurricanes 01:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
 #EXTINF:-1 tvg-id="carolinahurricanes0100espnsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Carolina Hurricanes 01:00 (ESPN SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9
-https://dice-live-oc.akamaized.net/hdntl=exp=1779716810~acl=%2F*~id=fafefc95-635e-4e0d-ac2d-24d2bf8963f8~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MCZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=183a25a7ecc2a191fbf6ed5293ed1502669a94be9f30bbdccd5ba99d3f809ab7/dash/live/2093724/219039-321035/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1779824930~acl=%2F*~id=66f935b1-eba7-4fa3-a949-7e6caef4989b~data=hdntl,aXA9MjAuNTUuMTQuNTMmZXhwPTE3Nzk3Mzg1NjAmZWlkPTk2MjYyNSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1VNFd6RXV8MzNiNGJhZWQtOTExZi00ZDVjLTkxMWQtNWJlZjAzMTRmYWQ1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=8044e93b8c71921998e0003cd66bebfca60e5200328521893de6c905a7a5f0b1/dash/live/2093724/219039-321035/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="carolinahurricanes0100nhllivehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Carolina Hurricanes 01:00 (NHL LIVE HD)
+https://nh5.hocloud.cfd/live/tnt/stream.m3u8
 
 #EXTINF:-1 tvg-id="carolinahurricanes0100hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Carolina Hurricanes 01:00 (HD SERVER)
 https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8

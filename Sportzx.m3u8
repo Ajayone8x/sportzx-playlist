@@ -129,45 +129,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1
 #KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
 https://dice-live-oc.akamaized.net/hdntl=exp=1779962653~acl=%2F*~id=074b6311-83b3-40e2-807d-a54c83beae51~data=hdntl,aXA9MTcyLjIxMC4xNDkuNTQmZXhwPTE3Nzk4NzYyODMmZWlkPTk2MzQ3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1jM2dFV018MTYxODVhNTYtODFiZS00NWQ3LTk3YjYtOWI5N2E3ZTE3YjIyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=f45dd7d9d58a6b10d845f02083b9b895ae3b2a14aca814558db8f97baabb02af/dash/live/2093715/219027-321028/manifest-d.mpd
 
-#EXTINF:-1 tvg-id="palacevsrayovallecano2000tntsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Palace vs Rayo Vallecano 20:00 (TNT SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="palacevsrayovallecano2000setantasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Palace vs Rayo Vallecano 20:00 (SETANTA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36e7d201f63b45f090f03b5f2a11c746:1259f737f8df4981951220cbbbb33794
-https://adjara-live-eu.akamaized.net/hdntl=exp=1779983862~acl=%2F*~id=ff48809a-1ed0-485b-8e2c-05b8ca345bdb~data=hdntl,aXA9NjQuMjM2LjE0Mi4xNDgmZXhwPTE3Nzk4OTc0OTImZWlkPTk2MzI0MiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1wajd1YjZ8YTJmMTZmYmYtZWU3MS00NTY5LThlYmMtOWQwNjMzMWQyYzRiJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=43b4cb5bdc5747d5cc9a966de9e41b3439b2d750fbf8fc742200802ada806293/dash/live/2019675/303759-322102/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="palacevsrayovallecano2000paramountfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Palace vs Rayo Vallecano 20:00 (PARAMOUNT  FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb41989d05879c568d5ac4ad0a9a01ce:5851a21f35a30ba64113c281db44993e
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/4y5qs1hnrw/out/v1/8fb3af3c9ca449cfbcbb4e18d7b237e5/596816ac-bf60-40bb-9c28-5f4510213d98-cenc.mpd
-
-#EXTINF:-1 tvg-id="palacevsrayovallecano2000vixespanol" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Palace vs Rayo Vallecano 20:00 (ViX ESPANOL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ee35e203eec6ff57a59096abdd0f79c:163ea8eb5b284eb855ede3f771e4a870
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/xhu5p5o5pr/out/v1/aa9a470cfc9b422daf22fe21c63bc02a/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="palacevsrayovallecano2000espnmexicofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Palace vs Rayo Vallecano 20:00 (ESPN MEXICO FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38b63f9aaa7b7c7a822c8e14c8a7212e:d6b1f45a59d2dac1a730c7f56c74971a
-https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd
-
-#EXTINF:-1 tvg-id="palacevsrayovallecano2000cazetvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Palace vs Rayo Vallecano 20:00 (CAZE TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
-https://abkv2pvaaaaaaaamcclyngsfdzn3t.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
-
-#EXTINF:-1 tvg-id="palacevsrayovallecano2000tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Palace vs Rayo Vallecano 20:00 (TNT SPORTS FHD)
-https://white-quetzal-768819.hostingersite.com/session/eyJ2IjoxLCJraW5kIjoiaGxzX3Byb3h5Iiwic2VydmljZUlkIjoicHB2Iiwic291cmNlVXJsIjoiaHR0cHM6Ly9wb29lbWJlZC5ldS9lbWJlZC91ZWNsLzIwMjYtMDUtMjcvY3J5LXJheSIsImN1c3RvbUhlYWRlcnMiOnsiVXNlci1BZ2VudCI6Ik1vemlsbGEvNS4wIn0sIm92ZXJyaWRlSGVhZGVycyI6ZmFsc2UsIm1vZGUiOiJwcm94eV9wbGF5bGlzdF9rZXkifQ.WWFr5jzdOa51hGNWILIl3mI8U-bVh3humNp8xi_wsaw/master.m3u8
-
-#EXTINF:-1 tvg-id="palacevsrayovallecano2000sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Palace vs Rayo Vallecano 20:00 (SD SERVER)
-http://193.47.62.56/hls/oppp.m3u8
-
-#EXTINF:-1 tvg-id="palacevsrayovallecano2000tudnespanol" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa conference",Palace vs Rayo Vallecano 20:00 (TUDN Espanol)
-https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
 #EXTINF:-1 tvg-id="leicestershirevsderbyshire1830willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="T20 blast",Leicestershire vs Derbyshire 18:30 (WILLOW  Ad-Free )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ceec087c79e0c57122d3bfd7af266f3d:f219290ebad0344bc40dac21550f2abc

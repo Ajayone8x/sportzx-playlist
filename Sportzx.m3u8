@@ -134,6 +134,11 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1779962653~acl=%2F*~id=074b6311-83b
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-id="leicestershirevsderbyshire1830skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="T20 blast",Leicestershire vs Derbyshire 18:30 (SKY SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8
+https://dice-live-oc.akamaized.net/hdntl=exp=1779962653~acl=%2F*~id=074b6311-83b3-40e2-807d-a54c83beae51~data=hdntl,aXA9MTcyLjIxMC4xNDkuNTQmZXhwPTE3Nzk4NzYyODMmZWlkPTk2MzQ3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1jM2dFV018MTYxODVhNTYtODFiZS00NWQ3LTk3YjYtOWI5N2E3ZTE3YjIyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=f45dd7d9d58a6b10d845f02083b9b895ae3b2a14aca814558db8f97baabb02af/dash/live/2093709/219033-321024/manifest-d.mpd
+
 #EXTINF:-1 tvg-id="leicestershirevsderbyshire1830willowhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="T20 blast",Leicestershire vs Derbyshire 18:30 (Willow HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
@@ -151,3 +156,8 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1779897264~acl=%2F*~id=fe9ca3a7-075
 
 #EXTINF:-1 tvg-id="carolinahurricanes0100hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Carolina Hurricanes 01:00 (HD SERVER)
 https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="jamaicavsindia1930fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa friendlies",Jamaica vs India 19:30 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd

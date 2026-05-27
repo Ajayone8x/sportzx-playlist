@@ -229,56 +229,6 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1779897264~acl=%2F*~id=fe9ca3a7-075
 #EXTINF:-1 tvg-id="coloradoavalanche0200hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nhl",Colorado Avalanche 02:00 (HD SERVER)
 https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="hampshirevsessex1900skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="T20 blast",Hampshire vs Essex 19:00 (SKY SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7
-https://dice-live-oc.akamaized.net/hdntl=exp=1779897272~acl=%2F*~id=2ebe2e0f-c068-4c46-abbd-fe50f349f283~data=hdntl,aXA9NTIuMjI1LjI1LjU1JmV4cD0xNzc5ODEwOTAyJmVpZD05NjI2NjImb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9dDc5TldpfDFjNTg3MGRlLTdiNzMtNDJiYS1iNzkyLTUwYWNkODMzZTlhZCZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=ba9b9d5198b04dc7adcb504c8ecfc4f9d252186f4f59c721fe52368df5bc9203/dash/live/2093720/219029-321032/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="hampshirevsessex1900willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="T20 blast",Hampshire vs Essex 19:00 (WILLOW  Ad-Free )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=427d8dbb68624855983f55e2133d3067:d9039ca1fc0a16e13ab9469c12e33453
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g3dvd8x7xb/out/v1/559a588462d24bd3991933ed9020eeff/cenc.mpd
-
-#EXTINF:-1 tvg-id="hampshirewvsessexw1500skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="T20 blast",Hampshire W vs Essex W 15:00 (SKY SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7
-https://dice-live-oc.akamaized.net/hdntl=exp=1779876395~acl=%2F*~id=06a6ed72-5ae0-43a8-8362-5cab0c434026~data=hdntl,aXA9NTcuMTUxLjEyMS4xOTMmZXhwPTE3Nzk3OTAwMjUmZWlkPTk2MjYzNyZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1vZkNEeFJ8Yjk2MWQxY2QtZGNjZS00YTlhLTg3NGYtZDViYzMxZjNmZmM1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=51aa3b2bd28bd8405403b15f847fd0222ae1302b5173723be6ab42c91872509e/dash/live/2093720/219029-321032/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="hampshirewvsessexw1500willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="T20 blast",Hampshire W vs Essex W 15:00 (WILLOW  Ad-Free )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335b7fa0b1fdb762b3d3abc254062fbf:99b054d279576ab5f8542d955f91d1d9
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g6iwrmtr7g/out/v1/86b21ef1007c4c9ea7cea63aba2e975f/cenc.mpd
-
-#EXTINF:-1 tvg-id="usavsaustria1520tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",USA vs Austria 15:20 (TSN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-#EXTINF:-1 tvg-id="swedenvsslovakia1520tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",Sweden vs Slovakia 15:20 (TSN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-
-#EXTINF:-1 tvg-id="czechiavscanada1920tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",Czechia vs Canada 19:20 (TSN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvsfinland1920tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Iihf world",Switzerland vs Finland 19:20 (TSN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-#EXTINF:-1 tvg-id="millonariosvsohiggins2300beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Con. sudamericana",Millonarios vs O'Higgins 23:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-#EXTINF:-1 tvg-id="millonariosvsohiggins2300sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Con. sudamericana",Millonarios vs O'Higgins 23:00 (SportDigital Fussball)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
 #EXTINF:-1 tvg-id="santosvsdeportivo0130sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Con. sudamericana",Santos vs Deportivo 01:30 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
@@ -288,16 +238,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-#EXTINF:-1 tvg-id="lansvsmirassol2300beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Con. libertadores",Lanús vs Mirassol 23:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-id="lduvsalwaysready2300beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Con. libertadores",LDU vs Always Ready 23:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-id="universitariovstolima0130beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Con. libertadores",Universitario vs Tolima 01:30 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

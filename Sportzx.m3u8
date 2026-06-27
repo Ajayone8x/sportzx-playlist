@@ -182,24 +182,21 @@ https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Liv
 
 #EXTINF:-1 tvg-id="englandwvsnewzealandw1830willowfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England W vs New Zealand W 18:30 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5f1cc0a032196b308b0a54f1a32ef10b:08d8911aead804e7417da0b280e1110c
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nycwhuave7/out/v1/051d0b0ae17442c4b5636fc1c96b8e2f/cenc.mpd
 
 #EXTINF:-1 tvg-id="englandwvsnewzealandw1830willowalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England W vs New Zealand W 18:30 (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5f1cc0a032196b308b0a54f1a32ef10b:08d8911aead804e7417da0b280e1110c
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nycwhuave7/out/v1/051d0b0ae17442c4b5636fc1c96b8e2f/cenc.mpd
 
 #EXTINF:-1 tvg-id="englandwvsnewzealandw1830skysportnz" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England W vs New Zealand W 18:30 (SKY SPORT NZ)
-https://tmaxapp.site/skynz3.m3u8
+https://tmaxapp.site/skynz2.m3u8
 
 #EXTINF:-1 tvg-id="englandwvsnewzealandw1830willowhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England W vs New Zealand W 18:30 (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-id="englandwvsnewzealandw1830sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England W vs New Zealand W 18:30 (SportzX Live)
-https://tmaxapp.site/willoweng.m3u8
 
 #EXTINF:-1 tvg-id="westindiesvssrilanka1500tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",West Indies vs Sri Lanka 15:00 (TNT Sports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

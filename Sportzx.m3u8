@@ -1,38 +1,38 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="formula11130fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 11:30 (FANCODE FHD)
+#EXTINF:-1 tvg-id="formula11400fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 14:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula11130skysportsf1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 11:30 (SKY SPORTS F1)
+#EXTINF:-1 tvg-id="formula11400skysportsf1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 14:00 (SKY SPORTS F1)
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-20acb0a9c8/5ffe6c552a88/1037.m3u8
 
-#EXTINF:-1 tvg-id="formula11130f1germanyusa" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 11:30 (F1 GERMANY  USA )
+#EXTINF:-1 tvg-id="formula11400f1germanyusa" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 14:00 (F1 GERMANY  USA )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9
 https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd
 
-#EXTINF:-1 tvg-id="formula11130tipikfrancefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 11:30 (Tipik FRANCE FHD)
+#EXTINF:-1 tvg-id="formula11400tipikfrancefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 14:00 (Tipik FRANCE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
 
-#EXTINF:-1 tvg-id="formula11130elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 11:30 (ELEVEN SPORTS)
+#EXTINF:-1 tvg-id="formula11400elevensports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 14:00 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59
 https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
 
-#EXTINF:-1 tvg-id="formula11130skyf1de" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 11:30 (Sky F1 DE)
+#EXTINF:-1 tvg-id="formula11400skyf1de" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 14:00 (Sky F1 DE)
 https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="formula11130f1tvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 11:30 (F1 TV FHD)
+#EXTINF:-1 tvg-id="formula11400f1tvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 14:00 (F1 TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula11130foxsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 11:30 (Fox Sports - AQ)
+#EXTINF:-1 tvg-id="formula11400foxsportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 14:00 (Fox Sports - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
@@ -206,21 +206,18 @@ https://tmaxapp.site/willoweng.m3u8
 #KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
 
+#EXTINF:-1 tvg-id="westindiesvssrilanka1500cricbuzzaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",West Indies vs Sri Lanka 15:00 (CRICBUZZ - AQ)
+https://wcupzero.mokakdaoni.me/proxy/wb.php/https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/11946/152416/master.m3u8
+
 #EXTINF:-1 tvg-id="westindiesvssrilanka1500willowfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",West Indies vs Sri Lanka 15:00 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ac9a949be51e3bac478a2b6b89fd53e:1fab3b9de1c50dd740e473d439e15fce
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r9l2vb6syd/out/v1/aa21c8df2e9d4f42828895734934385a/cenc.mpd
-
-#EXTINF:-1 tvg-id="westindiesvssrilanka1500tntsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",West Indies vs Sri Lanka 15:00 (TNT SPORTS HD)
-https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1036.m3u8
+#KODIPROP:inputstream.adaptive.license_key=2dad9ca825a06ca87ae6d8715547c544:4ac3852a3ae808bef3612a4b6eba2336
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/17flenwlyh/out/v1/eeb7c6d90e4744b0b4c713f449b1fefb/cenc.mpd
 
 #EXTINF:-1 tvg-id="westindiesvssrilanka1500willowalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",West Indies vs Sri Lanka 15:00 (WILLOW  ALT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ac9a949be51e3bac478a2b6b89fd53e:1fab3b9de1c50dd740e473d439e15fce
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r9l2vb6syd/out/v1/aa21c8df2e9d4f42828895734934385a/cenc.mpd
-
-#EXTINF:-1 tvg-id="westindiesvssrilanka1500fancodein" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",West Indies vs Sri Lanka 15:00 (FANCODE - IN)
-https://in-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=2dad9ca825a06ca87ae6d8715547c544:4ac3852a3ae808bef3612a4b6eba2336
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/17flenwlyh/out/v1/eeb7c6d90e4744b0b4c713f449b1fefb/cenc.mpd
 
 #EXTINF:-1 tvg-id="englandvsnewzealand1100willowfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs New Zealand 11:00 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1333,8 +1330,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 #EXTINF:-1 tvg-id="westindieswvsirelandw1430willowaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",West Indies W vs Ireland W 14:30 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84719bf3c1f899410a57fcf00a2577be:1a1f22f8044984aa60511cf8771ed65a
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q4mqxqezxl/out/v1/a4cf7232de3f41b89682fdbcdfce733c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ba814c82a2b000ea5fb210d2d6258942:3fc1f6f9c9135906d176b2b6e49590a9
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nsy1o0arb3/out/v1/c75901ad633e4c4b97712bfdd4251c9a/cenc.mpd
 
 #EXTINF:-1 tvg-id="westindieswvsirelandw1430willowalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",West Indies W vs Ireland W 14:30 (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

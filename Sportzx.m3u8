@@ -14,6 +14,11 @@ https://xstm.250909.cc/live/SPORTSFLUX-POOL-20acb0a9c8/5ffe6c552a88/1037.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9
 https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd
 
+#EXTINF:-1 tvg-id="formula11400skyf1italyusa" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 14:00 (SKY F1 ITALY  USA )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1782695315_f~0_g~1_s~328b056e-ac72-4a70-8bc3-6a6660c72113_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~56_x~c8385565e022b5f247306341c8130fdf/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd
+
 #EXTINF:-1 tvg-id="formula11400tipikfrancefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="F1",Formula 1 14:00 (Tipik FRANCE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a

@@ -56,41 +56,19 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 tvg-id="wwe0100backupsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE 01:00 (BACKUP SD)
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
 
-#EXTINF:-1 tvg-id="zimbabwevsbangladesh0830willowfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (WILLOW FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bcfafbaa2f575577a90d27aa962a214:2b30c9efb2bcd047db14438d49ab800e
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bd6zyslqrn/out/v1/ac547d11db5347a6bbd80e6fe23aaa22/cenc.mpd
+#EXTINF:-1 tvg-id="zimbabwevsbangladesh0830tapmadfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (TAPMAD FHD)
+https://tapmad-play-81b2.samin36x.workers.dev/tapmad/event1.m3u8
 
-#EXTINF:-1 tvg-id="zimbabwevsbangladesh0830tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (TNT SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
+#EXTINF:-1 tvg-id="zimbabwevsbangladesh0830fancodebd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (FANCODE (BD))
+https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8
 
-#EXTINF:-1 tvg-id="zimbabwevsbangladesh0830fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (FANCODE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="zimbabwevsbangladesh0830willowalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (WILLOW ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a5ac34c1bacf0bd4546280e7e3ac8ca:5e9032df0725dc3b74db431e70bf2358
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/6cewm4wcnq/out/v1/9582c14dc2564f7ba8b16a658e6c2ed7/cenc.mpd
+#EXTINF:-1 tvg-id="zimbabwevsbangladesh0830fancodein" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (FANCODE - IN)
+https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="zimbabwevsbangladesh0830fancodesd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (FANCODE - SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="zimbabwevsbangladesh0830foxcricket" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (FOX CRICKET)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
-https://sila-daw.wasabih.net/wasabi-kayo/jo74ryszmcvd1pzmbzp50q84a/manifest.mpd
-
-#EXTINF:-1 tvg-id="zimbabwevsbangladesh0830foxcrickethd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (FOX CRICKET HD)
-https://tmaxapp.site/foxcricket.m3u8
-
-#EXTINF:-1 tvg-id="zimbabwevsbangladesh0830tapmadfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Zimbabwe vs Bangladesh 08:30 (TAPMAD FHD)
-https://seriealeague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8
 
 #EXTINF:-1 tvg-id="irelandvsindia1330tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Ireland vs India 13:30 (TNT Sports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

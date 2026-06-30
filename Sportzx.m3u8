@@ -882,8 +882,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b788
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #EXTINF:-1 tvg-id="cotedivoirevsnorway1800bingebdixbd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (Binge BDIX (BD))
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
 
 #EXTINF:-1 tvg-id="cotedivoirevsnorway1800wctvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (WC TV FHD)
@@ -899,7 +897,7 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.m
 #EXTINF:-1 tvg-id="cotedivoirevsnorway1800rtesportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (RTE SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/6b0f1602-73b1-4228-8e64-fe2cec5ae9a3:BRU/manifest.mpd
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/e101edda-ef7f-4ff8-b6a5-4453db98fb2e:GRQ/manifest.mpd
 
 #EXTINF:-1 tvg-id="cotedivoirevsnorway1800npo1dutchfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (NPO1 DUTCH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -935,13 +933,13 @@ https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="cotedivoirevsnorway1800foxonehd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (FOX ONE HD)
-https://cdn011.viaplus.site/fox-xyz.m3u8
+https://inproviszon.st/fox-usa.m3u8
 
 #EXTINF:-1 tvg-id="cotedivoirevsnorway1800tsnsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (TSN SPORTS HD)
-https://cdn011.viaplus.site/tsn1-xyz.m3u8
+https://inproviszon.st/tsn1-xyz.m3u8
 
 #EXTINF:-1 tvg-id="cotedivoirevsnorway1800beinmaxhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (beIN MAX HD)
-https://cdn011.viaplus.site/bein-xyz.m3u8
+https://inproviszon.st/bein-xyz.m3u8
 
 #EXTINF:-1 tvg-id="cotedivoirevsnorway1800tsnsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (TSN Sports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -974,19 +972,22 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
 
 #EXTINF:-1 tvg-id="cotedivoirevsnorway1800foxone4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (FOX ONE 4K)
-https://cdn011.viaplus.site/fox4k-usa.m3u8
+https://inproviszon.st/fox4k-usa.m3u8
 
 #EXTINF:-1 tvg-id="cotedivoirevsnorway1800fox4klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (FOX 4K LIVE)
-https://cdn011.viaplus.site/fox4k-usa.m3u8
+https://inproviszon.st/fox4k-usa.m3u8
 
 #EXTINF:-1 tvg-id="cotedivoirevsnorway1800telemundofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (TELEMUNDO FHD)
-https://cdn011.viaplus.site/telemundo-usa.m3u8
+https://inproviszon.st/telemundo-usa.m3u8
 
 #EXTINF:-1 tvg-id="cotedivoirevsnorway1800daznmundial" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (DAZN MUNDIAL)
-https://cdn011.viaplus.site/daznmundial-es.m3u8
+https://inproviszon.st/daznmundial-es.m3u8
 
 #EXTINF:-1 tvg-id="cotedivoirevsnorway1800fussballtvuhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (FUSSBALL TV UHD)
-https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8
+https://inproviszon.st/fussballtv1uhd-de.m3u8
+
+#EXTINF:-1 tvg-id="cotedivoirevsnorway1800arabiclivefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (ARABIC LIVE FHD)
+https://inproviszon.st/bein4k-xyz.m3u8
 
 #EXTINF:-1 tvg-id="cotedivoirevsnorway1800fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",Cote d Ivoire vs Norway 18:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

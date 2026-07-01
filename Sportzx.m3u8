@@ -79,41 +79,47 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 tvg-id="wwe0100backupsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE 01:00 (BACKUP SD)
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
 
-#EXTINF:-1 tvg-id="englandvsindia1730willowfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (WILLOW FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd
-
-#EXTINF:-1 tvg-id="englandvsindia1730tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (TNT Sports FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
-
 #EXTINF:-1 tvg-id="englandvsindia1730willowalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2c60f5b5e6e8ad2d163532250859723b:cb11a5f25b5baded086a2e7a046b9b02
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd
 
-#EXTINF:-1 tvg-id="englandvsindia1730tntsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (TNT SPORTS HD)
-https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1036.m3u8
+#EXTINF:-1 tvg-id="englandvsindia1730willowfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (WILLOW FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c60f5b5e6e8ad2d163532250859723b:cb11a5f25b5baded086a2e7a046b9b02
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd
+
+#EXTINF:-1 tvg-id="englandvsindia1730tapmadfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (TAPMAD FHD)
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="englandvsindia1730skymainevent" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (SKY MAIN EVENT)
+https://tmaxapp.site/skymainevent.m3u8
+
+#EXTINF:-1 tvg-id="englandvsindia1730skysportnz" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (SKY SPORT NZ)
+https://tmaxapp.site/skynz1.m3u8
 
 #EXTINF:-1 tvg-id="englandvsindia1730willowhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (WILLOW HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-id="englandvsindia1730foxcrickethd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (FOX CRICKET HD)
+https://tmaxapp.site/foxcricket.m3u8
+
+#EXTINF:-1 tvg-id="englandvsindia1730sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (SportzX Live)
 https://tmaxapp.site/willoweng.m3u8
 
-#EXTINF:-1 tvg-id="englandvsindia1730sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (Sony Liv  ENG )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2806/ENG/master.m3u8
+#EXTINF:-1 tvg-id="englandvsindia1730sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (SonyLiv - ENG)
+https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8
 
-#EXTINF:-1 tvg-id="englandvsindia1730sonylivhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (Sony Liv  HIN )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi2806/HIN/master.m3u8
+#EXTINF:-1 tvg-id="englandvsindia1730sonylivhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (SonyLiv - HIN)
+https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8
 
-#EXTINF:-1 tvg-id="englandvsindia1730sonylivtam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (Sony Liv  TAM )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2806/TAM/master.m3u8
+#EXTINF:-1 tvg-id="englandvsindia1730sonylivtam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (SonyLiv - TAM)
+https://dishmt.slivcdn.com/hls/live/2020437-b/ten4sd/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8
 
-#EXTINF:-1 tvg-id="englandvsindia1730sonylivtel" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (Sony Liv  TEL )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi2806/TEL/master.m3u8
-
-#EXTINF:-1 tvg-id="englandvsindia1730sonylivkan" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (Sony Liv  KAN )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2806/KAN/master.m3u8
+#EXTINF:-1 tvg-id="englandvsindia1730sonylivtel" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",England vs India 17:30 (SonyLiv - TEL)
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8
 
 #EXTINF:-1 tvg-id="onefridayfights1330onefightfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Boxing",ONE Friday Fights 13:30 (One Fight FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1373,6 +1379,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079
 #EXTINF:-1 tvg-id="englandvsdrcongo1700bingebdixbd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",England vs DR Congo 17:00 (Binge BDIX (BD))
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
 
+#EXTINF:-1 tvg-id="englandvsdrcongo1700beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",England vs DR Congo 17:00 (beIN Arabic)
+https://vr.kooraa17.cfd/homng1.m3u8
+
 #EXTINF:-1 tvg-id="englandvsdrcongo1700wctvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",England vs DR Congo 17:00 (WC TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
@@ -1396,12 +1405,12 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1
 #EXTINF:-1 tvg-id="englandvsdrcongo1700rtesportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",England vs DR Congo 17:00 (RTE SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/2e20f29a-0431-4a7e-83a3-d50ecfbb5a2a:BRU/manifest.mpd
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/a15f395f-f7d2-4728-8db4-ee96e5643dcb:GRQ/manifest.mpd
 
 #EXTINF:-1 tvg-id="englandvsdrcongo1700npo1dutchfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",England vs DR Congo 17:00 (NPO1 DUTCH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7
-https://npo-nl-ams-p30-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODI4NTAxNDYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiN2FmNjY2MSJ9.duQUETqbOlZDaRwZyqdKtH5iDl2oWPe9auG3gtbpm94/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
+https://npo-nl-ams-p18-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMwMDczODEsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiZTZhYzlkMCJ9.eCeoWGmdlBcqqnwJoe6dxR5OtY9MLePq0gnnKLKgCj0/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
 
 #EXTINF:-1 tvg-id="englandvsdrcongo1700dsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",England vs DR Congo 17:00 (D Sports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1425,6 +1434,11 @@ https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="englandvsdrcongo1700m6franceusa" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",England vs DR Congo 17:00 (M6 FRANCE (USA))
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0182ed7af02734ecb17a2f55eec98f99:60346785b1095596de621031e9daf3ec
+https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
 #EXTINF:-1 tvg-id="englandvsdrcongo1700foxsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",England vs DR Congo 17:00 (FOX SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1504,6 +1518,3 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-
-#EXTINF:-1 tvg-id="englandvsdrcongo1700sdservercn" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",England vs DR Congo 17:00 (SD SERVER  CN )
-https://pullsgp.yyzb456.top/live/stream-956896_lhd.m3u8

@@ -322,7 +322,7 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o2vy4a
 #EXTINF:-1 tvg-id="usavsbosnia0100foxsports4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",USA vs Bosnia 01:00 (FOX SPORTS 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ihpzducmif/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/igx02musdz/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
 
 #EXTINF:-1 tvg-id="usavsbosnia0100canal5fhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",USA vs Bosnia 01:00 (CANAL5 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -354,6 +354,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1
 #KODIPROP:inputstream.adaptive.license_key=8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7
 https://npo-nl-ams-p18-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMwMDczODEsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiZTZhYzlkMCJ9.eCeoWGmdlBcqqnwJoe6dxR5OtY9MLePq0gnnKLKgCj0/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
 
+#EXTINF:-1 tvg-id="usavsbosnia0100tycsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",USA vs Bosnia 01:00 (TYC SPORTS HD)
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+
 #EXTINF:-1 tvg-id="usavsbosnia0100foxsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",USA vs Bosnia 01:00 (FOX SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
@@ -363,6 +366,11 @@ https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-id="usavsbosnia0100fox4kalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",USA vs Bosnia 01:00 (FOX 4K  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/igx02musdz/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
 
 #EXTINF:-1 tvg-id="usavsbosnia0100foxsportsalt" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",USA vs Bosnia 01:00 (FOX SPORTS  ALT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -378,15 +386,6 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-
-#EXTINF:-1 tvg-id="usavsbosnia0100fs14klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",USA vs Bosnia 01:00 (FS1 4K LIVE)
-https://nhjjhhjhjjhfjj.pages.dev/1782620441/2b6f350f0f094078ad5d542024c0bbdc/5jGjRunnZertHWhMB4wqeuPH36ggz4BxRzaVpvamOmY/fox-sports-1-4k.m3u8
-
-#EXTINF:-1 tvg-id="usavsbosnia0100nbcuniversofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",USA vs Bosnia 01:00 (NBC UNIVERSO FHD)
-https://nhjjhhjhjjhfjj.pages.dev/1782620480/dfa225afa3424a57b3620e5a37cafa5e/x6IBjLOft38TkP3F6YzzKZJAVyqgaCr8TT431OHAP1A/universo-usa.m3u8
-
-#EXTINF:-1 tvg-id="usavsbosnia0100fussball4klive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",USA vs Bosnia 01:00 (FUSSBALL 4K LIVE)
-https://nhjjhhjhjjhfjj.pages.dev/1782620487/f6024203081c4ce6ad7067875be65de7/nSZjKjuLEbP85dgtn1N6Igm6CejbiK5jSvJ03l35mn4/fusballtv1uhd-de.m3u8
 
 #EXTINF:-1 tvg-id="usavsbosnia0100fussballtv4k" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fifa world cup",USA vs Bosnia 01:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
